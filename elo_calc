@@ -34,6 +34,11 @@ WEEKENDS = [
     ("dartmouth_1", "tcnj_2"),
 ]
 
+replacements = {
+    "Andrew Harrington": "Drew Harrington",
+    "William Arnesen": "Will Arnesen"
+}
+
 class EloSim():
     def __init__(self):
         self.ts = trueskill.TrueSkill(draw_probability=0, tau=0.30, mu=100, sigma=30, beta=70)
@@ -53,6 +58,16 @@ class EloSim():
             tourney,round,gov_win,judge,gov_left,speaks1,ranks1, \
             gov_right,speaks2,ranks2,opp_left,speaks3,ranks3, \
             opp_right,speaks4,ranks4 = line.split(",")
+            
+            if gov_left in replacements:
+                gov_left = replacements[gov_left]
+            if gov_right in replacements:
+                gov_right = replacements[gov_right]
+            if opp_left in replacements:
+                opp_left = replacements[opp_left]
+            if opp_right in replacements:
+                opp_right = replacements[opp_right]
+            
             self.add_debater(gov_left)
             self.add_debater(gov_right)
             self.add_debater(opp_left)
@@ -107,7 +122,7 @@ def run_elo_sim(csv_folder):
         team = input("Names: ")
     results = sim.sort_teams(*teams)
     for i, tup in enumerate(results):
-        print(i+1, " - ", tup)
+        print(i+1, " - ", tup, " - ", sim.score_team(tup))
 
 
 if __name__ == "__main__":
