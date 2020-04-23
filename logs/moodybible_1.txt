@@ -1,0 +1,58 @@
+Unexpected shape: (16, 8)
+Unexpected shape: (16, 8)
+Unexpected shape: (16, 8)
+Unexpected shape: (16, 8)
+Unexpected shape: (16, 8)
+Unexpected shape: (16, 8)
+Unexpected shape: (16, 8)
+Unexpected shape: (16, 8)
+Unexpected shape: (16, 8)
+Unexpected shape: (16, 8)
+Unexpected shape: (16, 8)
+********************************************************************************
+Tournament: moodybible_1
+********************************************************************************
+--------------------------------------------------------------------------------
+A team appeared on opp that didnt appear on gov - this usually indicates unicode
+fuckery. manually exclude this team by setting --ignore [DEBATER ON THE TEAM].
+After rerunning with that setting, you can safely ignore this warning. It will 
+keep coming after all teams are excluded - sorry!
+--------------------------------------------------------------------------------
+The following teams were parsed abnormally and may have come out funky:
+Northwestern A FirstOnPage 
+Northwestern B SecondOnPage 
+Eggs Scrambled (9, 8)
+OdetteReBe (9, 8)
+Odette MaZe (9, 8)
+Chicago BK (9, 8)
+Chicago PR (9, 8)
+Chicago SW (9, 8)
+Chicago BL (9, 8)
+Chicago FH (9, 8)
+Chicago FM (9, 8)
+Chicago Prep School Negros (9, 8)
+NYU Corruption (9, 8)
+--------------------------------------------------------------------------------
+The following teams failed and need to be added manually:
+Unknown card of shape (16, 8)
+Unknown card of shape (16, 8)
+Unknown card of shape (16, 8)
+Unknown card of shape (16, 8)
+Unknown card of shape (16, 8)
+Unknown card of shape (16, 8)
+Unknown card of shape (16, 8)
+Unknown card of shape (16, 8)
+Unknown card of shape (16, 8)
+Unknown card of shape (16, 8)
+Unknown card of shape (16, 8)
+Chicago NO
+Chicago OP
+Northwestern C
+Chicago HL
+Chicago KM
+Eggs Benedict
+Chicago BS
+Chicago BR
+Eggs Florentine
+NYU is Late
+--------------------------------------------------------------------------------

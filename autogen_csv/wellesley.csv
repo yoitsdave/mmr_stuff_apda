@@ -1,0 +1,61 @@
+wellesley,1,True,Claire Raulston,Cecelia Szkutak,27.0,3.0,Nicole Kagan,27.0,1.0,Cindy Zhao,27.0,2.0,Katrina Hotaling,27.0,4.0
+wellesley,2,True,Anna Smith - Claire McMahon Fishman,Cecelia Szkutak,28.0,2.0,Nicole Kagan,33.0,1.0,Caitlin Barlow,25.0,3.0,Yiwen Lu,23.0,4.0
+wellesley,4,True,Marie Zhang - Tanay Patri,Cecelia Szkutak,27.0,3.0,Nicole Kagan,28.0,2.0,Ann Garth,29.0,1.0,Brianna Townsend,25.0,4.0
+wellesley,3,False,Anne Motovillof - Marie Zhang,Clara Page,27.0,3.0,Mollie Hartenstein,26.0,4.0,Mia Stone- Molloy,28.0,2.0,Sam Haj,30.0,1.0
+wellesley,4,True,Claire Raulston,Clara Page,26.0,1.0,Mollie Hartenstein,26.0,2.0,Caitlin Barlow,24.0,4.0,Yiwen Lu,25.0,3.0
+wellesley,3,False,Janhavi Upadhyay - Nate Sumimoto,Emma McDonough,25.0,4.0,Nikki Schuldt,27.0,2.0,Anne Jiang,26.0,3.0,Kavya Gopinath,28.0,1.0
+wellesley,4,True,Claire McMahon Fishman,Emma McDonough,27.0,3.0,Nikki Schuldt,28.0,1.0,Olivia Saunders,27.0,4.0,Shelby Amato,28.0,2.0
+wellesley,1,False,Anne Motovillof - Kelsey Dunn,Anara Chiongbian,27.0,3.0,Lauren White,28.0,2.0,Emma McDonough,26.0,4.0,Nikki Schuldt,29.0,1.0
+wellesley,3,True,Betty Qian - Sandy Greenberg,Anara Chiongbian,28.0,2.0,Lauren White,30.0,1.0,Grace Wu,27.0,3.0,Neftali Reynoso,25.0,4.0
+wellesley,5,False,Claire McMahon Fishman - Isabel Ortiz,Anara Chiongbian,26.0,3.0,Lauren White,25.0,4.0,Anat Karapanagiotidou,29.0,2.0,Caroline Koclanes,29.0,1.0
+wellesley,1,False,Madeline Hudalla,Linda Mao,21.0,4.0,Urwa Hameed,22.0,3.0,Laurenn Vives,29.0,1.0,Somya Sharma,27.0,2.0
+wellesley,4,False,Isabella Tomovski,Linda Mao,25.0,4.0,Urwa Hameed,26.0,2.0,Hannah Platter,29.0,1.0,Jada Badillo,26.0,3.0
+wellesley,1,True,Auriel Haack,Ann Garth,33.0,1.0,Brianna Townsend,31.0,2.0,Ellie Singer,31.0,3.0,Eva-Marie Quinones,30.0,4.0
+wellesley,3,True,Rachel Gifeisman,Ann Garth,30.0,1.0,Brianna Townsend,28.0,2.0,Linda Mao,26.0,3.0,Urwa Hameed,25.0,4.0
+wellesley,2,True,Claire Raulston,Anne Jiang,29.0,2.0,Kavya Gopinath,30.0,1.0,Lena Lofgren,27.0,3.0,Roxanne Daniel,26.0,4.0
+wellesley,5,False,Ravi Simon,Anne Jiang,26.0,4.0,Kavya Gopinath,30.0,3.0,Ellie Singer,30.0,2.0,Eva-Marie Quinones,32.0,1.0
+wellesley,1,False,Isabel Ortiz,Grace Wu,24.0,4.0,Neftali Reynoso,26.0,2.0,Olivia Saunders,25.0,3.0,Shelby Amato,27.0,1.0
+wellesley,4,False,Ravi Simon,Grace Wu,25.0,2.0,Neftali Reynoso,16.0,4.0,Isabella Sorial,23.0,3.0,Jamie Clark,25.0,1.0
+wellesley,2,True,Auriel Haack - Isabel Ortiz,Laurenn Vives,28.0,2.0,Somya Sharma,29.0,1.0,Clara Page,26.0,3.0,Mollie Hartenstein,26.0,4.0
+wellesley,3,False,Ally Boehning - Isabella Tomovski,Laurenn Vives,27.0,3.0,Somya Sharma,27.0,4.0,Cecelia Szkutak,29.0,2.0,Nicole Kagan,31.0,1.0
+wellesley,5,False,Claire Raulston - Marie Zhang,Laurenn Vives,25.0,4.0,Somya Sharma,26.0,3.0,Hannah Platter,29.0,1.0,Jada Badillo,26.0,2.0
+wellesley,3,False,Rozey Wright Hill - Tanay Patri,Ava DeSantis,26.0,4.0,Natalie Caloca,26.0,3.0,Ellie Singer,32.0,1.0,Eva-Marie Quinones,31.0,2.0
+wellesley,4,True,Madeline Hudalla,Ava DeSantis,28.0,1.0,Natalie Caloca,28.0,2.0,Anara Chiongbian,25.0,3.0,Lauren White,24.0,4.0
+wellesley,2,True,Rozey Wright Hill,Anuka Upadhye,30.0,1.0,Robin Gloss,29.0,2.0,Grace Wu,28.0,3.0,Neftali Reynoso,27.0,4.0
+wellesley,4,False,Jesse Victoroff,Anuka Upadhye,22.0,4.0,Robin Gloss,24.0,3.0,Anne Jiang,27.0,2.0,Kavya Gopinath,29.0,1.0
+wellesley,1,True,Noam Shurin,Amala Kari,30.0,1.0,Elizabeth Greer,27.0,4.0,Anne Jiang,29.0,2.0,Kavya Gopinath,27.0,3.0
+wellesley,2,False,Anne Motovillof - Madeline Hudalla,Amala Kari,28.0,2.0,Elizabeth Greer,27.0,4.0,Amaris Hester,27.0,3.0,Joanna Ding,29.0,1.0
+wellesley,2,False,Angelina Li - Kelsey Dunn,Olivia Saunders,26.0,2.0,Shelby Amato,24.0,4.0,Ann Garth,28.0,1.0,Brianna Townsend,25.0,3.0
+wellesley,3,False,Madeline Hudalla,Olivia Saunders,25.0,4.0,Shelby Amato,26.0,3.0,Hazel Martello,29.0,1.0,Kelly Mu,29.0,2.0
+wellesley,2,False,Ally Boehning - Tanay Patri,Isabella Sorial,28.0,4.0,Jamie Clark,30.0,2.0,Mia Stone- Molloy,32.0,1.0,Sam Haj,29.0,3.0
+wellesley,5,False,Jesse Victoroff,Isabella Sorial,22.0,4.0,Jamie Clark,22.0,3.0,Linda Mao,23.0,2.0,Urwa Hameed,24.0,1.0
+wellesley,2,True,Julia Swiatek - Ravi Simon,Ali Medina,28.0,1.0,Romina Lillolari,28.0,2.0,Emma McDonough,26.0,4.0,Nikki Schuldt,27.0,3.0
+wellesley,4,True,Janhavi Upadhyay,Ali Medina,28.0,2.0,Romina Lillolari,29.0,1.0,Gabbi Shilcusky,26.0,4.0,Monica Ochoa,27.0,3.0
+wellesley,5,True,Angelina Li,Ali Medina,31.0,1.0,Romina Lillolari,31.0,2.0,Cecelia Szkutak,28.0,4.0,Nicole Kagan,30.0,3.0
+wellesley,2,True,Betty Qian - Sandy Greenberg,Lizzie McCord,29.0,3.0,Maya Razmi,30.0,1.0,Hazel Martello,30.0,2.0,Kelly Mu,28.0,4.0
+wellesley,4,False,Kelsey Dunn - Max Aguilar,Lizzie McCord,31.0,2.0,Maya Razmi,30.0,4.0,Amala Kari,31.0,1.0,Elizabeth Greer,30.0,3.0
+wellesley,3,True,Noam Shurin,Lena Lofgren,29.0,2.0,Roxanne Daniel,29.0,1.0,Isabella Sorial,25.0,3.0,Jamie Clark,25.0,4.0
+wellesley,5,True,Anna Smith - Madeline Hudalla,Lena Lofgren,28.0,1.0,Roxanne Daniel,27.0,2.0,Emma McDonough,24.0,4.0,Nikki Schuldt,25.0,3.0
+wellesley,2,True,Janhavi Upadhyay,Cindy Zhao,27.0,2.0,Katrina Hotaling,28.0,1.0,Anara Chiongbian,25.0,4.0,Lauren White,26.0,3.0
+wellesley,5,True,Sandy Greenberg,Cindy Zhao,26.0,3.0,Katrina Hotaling,27.0,2.0,Clara Page,27.0,1.0,Mollie Hartenstein,25.0,4.0
+wellesley,1,True,Ally Boehning - Claire McMahon Fishman,Hannah Platter,27.0,1.0,Jada Badillo,26.0,2.0,Ava DeSantis,25.0,4.0,Natalie Caloca,26.0,3.0
+wellesley,2,False,Rachel Gifeisman,Hannah Platter,29.0,3.0,Jada Badillo,26.0,4.0,Gabbi Shilcusky,30.0,1.0,Monica Ochoa,30.0,2.0
+wellesley,3,False,Angelina Li,Hannah Platter,30.0,2.0,Jada Badillo,25.0,4.0,Amala Kari,30.0,1.0,Elizabeth Greer,26.0,3.0
+wellesley,1,True,Julia Swiatek - Sandy Greenberg,Gabbi Shilcusky,31.0,1.0,Monica Ochoa,30.0,2.0,Anuka Upadhye,29.0,4.0,Robin Gloss,30.0,3.0
+wellesley,3,True,Claire Raulston,Gabbi Shilcusky,30.0,2.0,Monica Ochoa,31.0,1.0,Lizzie McCord,29.0,4.0,Maya Razmi,29.0,3.0
+wellesley,5,True,Noam Shurin,Gabbi Shilcusky,28.0,2.0,Monica Ochoa,28.0,1.0,Ava DeSantis,26.0,3.0,Natalie Caloca,26.0,4.0
+wellesley,1,False,Isabella Tomovski,Mia Stone- Molloy,29.0,3.0,Sam Haj,26.0,4.0,Ali Medina,30.0,1.0,Romina Lillolari,30.0,2.0
+wellesley,4,True,Anna Smith - Auriel Haack,Mia Stone- Molloy,31.0,1.0,Sam Haj,28.0,2.0,Amaris Hester,26.0,3.0,Joanna Ding,25.0,4.0
+wellesley,5,False,Rozey Wright Hill,Mia Stone- Molloy,30.0,3.0,Sam Haj,28.0,4.0,Amala Kari,31.0,2.0,Elizabeth Greer,32.0,1.0
+wellesley,3,False,Julia Swiatek - Ravi Simon,Caitlin Barlow,25.0,4.0,Yiwen Lu,26.0,2.0,Cindy Zhao,28.0,1.0,Katrina Hotaling,25.0,3.0
+wellesley,5,False,Auriel Haack - Teddy Wyman,Caitlin Barlow,26.0,4.0,Yiwen Lu,26.0,3.0,Lizzie McCord,28.0,1.0,Maya Razmi,28.0,2.0
+wellesley,1,False,Marie Zhang,Anat Karapanagiotidou,24.0,3.0,Caroline Koclanes,23.0,4.0,Lizzie McCord,26.0,2.0,Maya Razmi,28.0,1.0
+wellesley,3,False,Anna Smith - Auriel Haack,Anat Karapanagiotidou,26.0,2.0,Caroline Koclanes,26.0,4.0,Anuka Upadhye,26.0,3.0,Robin Gloss,28.0,1.0
+wellesley,1,True,Teddy Wyman,Hazel Martello,30.0,1.0,Kelly Mu,28.0,3.0,Isabella Sorial,27.0,4.0,Jamie Clark,28.0,2.0
+wellesley,4,True,Anne Motovillof,Hazel Martello,28.0,2.0,Kelly Mu,29.0,1.0,Laurenn Vives,26.0,3.0,Somya Sharma,25.0,4.0
+wellesley,5,False,Janhavi Upadhyay,Hazel Martello,27.0,3.0,Kelly Mu,26.0,4.0,Ann Garth,28.0,1.0,Brianna Townsend,27.0,2.0
+wellesley,1,True,Janhavi Upadhyay,Amaris Hester,27.0,2.0,Joanna Ding,28.0,1.0,Lena Lofgren,25.0,4.0,Roxanne Daniel,26.0,3.0
+wellesley,3,False,Claire McMahon Fishman - Isabel Ortiz,Amaris Hester,27.0,4.0,Joanna Ding,29.0,2.0,Ali Medina,28.0,3.0,Romina Lillolari,30.0,1.0
+wellesley,5,False,Isabella Tomovski - Max Aguilar,Amaris Hester,26.0,3.0,Joanna Ding,28.0,2.0,Anuka Upadhye,26.0,4.0,Robin Gloss,28.0,1.0
+wellesley,2,True,Isabella Tomovski,Ellie Singer,31.0,1.0,Eva-Marie Quinones,29.0,2.0,Anat Karapanagiotidou,27.0,3.0,Caroline Koclanes,26.0,4.0
+wellesley,4,True,Noam Shurin,Ellie Singer,31.0,2.0,Eva-Marie Quinones,33.0,1.0,Cindy Zhao,30.0,3.0,Katrina Hotaling,29.0,4.0

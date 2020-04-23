@@ -1,0 +1,45 @@
+pitt,3,True,Sam Slezak - Sara Zdancewicz,Adam Harrington,30.0,1.0,Evan Rosenbaum,29.0,2.0,Josh Zakharov,29.0,3.0,Max Wu,28.0,4.0
+pitt,4,True,Alex Saraff - Jake Love - Josh Ascher,Adam Harrington,30.0,1.0,Evan Rosenbaum,29.0,2.0,Grace Luckett,28.0,3.0,Patrick Han,27.0,4.0
+pitt,5,True,Josh Ascher 2 - Sara Zdancewicz 2 - Tyler Viljaste 2,Adam Harrington,30.0,1.0,Evan Rosenbaum,28.0,2.0,Justin Qi,27.0,4.0,Romina Lilollari,28.0,3.0
+pitt,2,False,Julia Malnak - Laurel Campbell,Katherine Ryan,25.0,4.0,Robert Summers Berger,26.0,3.0,Michael Froid,32.0,1.0,Will Donnelly,31.0,2.0
+pitt,4,False,Travis Hunsburger,Katherine Ryan,23.0,3.0,Robert Summers Berger,22.0,4.0,Dhruva Someshwar,26.0,2.0,Malcolm Ferguson,27.0,1.0
+pitt,1,False,Travis Hunsburger,Armann Somani,26.0,3.0,Devank Agarwal,25.0,4.0,Adam Harrington,27.0,2.0,Evan Rosenbaum,28.0,1.0
+pitt,2,True,Henry Armah,Armann Somani,25.0,2.0,Devank Agarwal,23.0,3.0,Harshit Bhasin,25.0,1.0,Tangya Tan,22.0,4.0
+pitt,1,False,Kyle Coopersmith - Sara Zdancewicz,Alan Lai,26.0,4.0,Govind Menon,26.0,3.0,Craig Diskin,29.0,1.0,Ryan Shaffer,28.0,2.0
+pitt,3,True,Erica Fisher - Timmy Miller,Alan Lai,28.0,2.0,Govind Menon,29.0,1.0,Harshit Bhasin,26.0,3.0,Tangya Tan,23.0,4.0
+pitt,1,True,Alex Saraff - Trevor Kickliter,Michael Froid,27.0,2.0,Will Donnelly,30.0,1.0,Fiona Yang,18.0,4.0,Jeffrey Yin,26.0,3.0
+pitt,5,True,Joseph McGroarty 2 - Timmy Miller 2,Michael Froid,31.0,1.0,Will Donnelly,29.0,2.0,Armann Somani,22.0,3.0,Devank Agarwal,17.0,4.0
+pitt,4,True,Kyle Coopersmith - Laurel Campbell - Mackenzie Devita,Justin Qi,30.0,2.0,Romina Lilollari,31.0,1.0,Ben Kessler,28.0,4.0,Madeline Cheshire,28.0,3.0
+pitt,1,False,Laurel Campbell - Nikhita Chakraborty,Harshit Bhasin,27.0,3.0,Tangya Tan,25.0,4.0,Judah Levy,30.0,1.0,Mason Blackburn,28.0,2.0
+pitt,4,False,Joseph McGroarty - Sam Slezak - Tyler Viljaste,Harshit Bhasin,20.0,3.0,Tangya Tan,20.0,4.0,Craig Diskin,27.0,1.0,Ryan Shaffer,25.0,2.0
+pitt,2,False,Jake Lesser - Mackenzie Devita,Craig Diskin,22.0,4.0,Ryan Shaffer,25.0,3.0,Adam Harrington,31.0,1.0,Evan Rosenbaum,30.0,2.0
+pitt,3,False,Nikhita Chakraborty,Craig Diskin,28.0,4.0,Ryan Shaffer,29.0,3.0,Albi Manfredi,32.0,1.0,Alex Hanna,30.0,2.0
+pitt,5,True,Henry Armah 2,Craig Diskin,31.0,2.0,Ryan Shaffer,32.0,1.0,Dominic DeRamo,27.0,4.0,Natt Sears,29.0,3.0
+pitt,1,True,Erica Fisher,Ben Kessler,27.0,1.0,Madeline Cheshire,26.0,2.0,Alexander Chung,24.0,3.0,Sophia Lau,22.0,4.0
+pitt,3,True,Chase Fong - Jake Love,Ben Kessler,28.0,1.0,Madeline Cheshire,27.0,3.0,Michael Froid,26.0,4.0,Will Donnelly,27.0,2.0
+pitt,5,True,Alison Chan 2 - Laurel Campbell 2,Ben Kessler,30.0,1.0,Madeline Cheshire,29.0,3.0,Albi Manfredi,29.0,4.0,Alex Hanna,29.0,2.0
+pitt,2,False,Travis Hunsburger,Alexander Chung,21.0,4.0,Sophia Lau,22.0,3.0,Dominic DeRamo,27.0,1.0,Natt Sears,25.0,2.0
+pitt,5,False,Kyle Coopersmith 2,Alexander Chung,26.0,2.0,Sophia Lau,24.0,4.0,Fiona Yang,25.0,3.0,Jeffrey Yin,27.0,1.0
+pitt,1,False,Alison Chan - Sam Slezak,Shreya Bali,30.0,3.0,Yaxuan Li,29.0,4.0,Justin Qi,34.0,1.0,Romina Lilollari,33.0,2.0
+pitt,3,False,Henry Armah - Jake Lesser,Shreya Bali,26.0,2.0,Yaxuan Li,22.0,4.0,Fiona Yang,26.0,3.0,Jeffrey Yin,29.0,1.0
+pitt,1,False,Dean Walters - Henry Armah,Grace Luckett,26.0,2.0,Patrick Han,24.0,4.0,Albi Manfredi,27.0,1.0,Alex Hanna,24.0,3.0
+pitt,2,True,Chase Fong,Grace Luckett,26.0,2.0,Patrick Han,27.0,1.0,Alan Lai,25.0,4.0,Govind Menon,25.0,3.0
+pitt,3,True,Julia Malnak - Kyle Coopersmith,Grace Luckett,27.0,1.0,Patrick Han,26.0,2.0,Dhruva Someshwar,25.0,3.0,Malcolm Ferguson,25.0,4.0
+pitt,1,False,Jake Lesser - Julia Malnak,Dominic DeRamo,28.0,3.0,Natt Sears,27.0,4.0,Josh Zakharov,29.0,2.0,Max Wu,30.0,1.0
+pitt,3,True,Dean Walters - Trevor Kickliter,Dominic DeRamo,26.0,2.0,Natt Sears,29.0,1.0,Katherine Ryan,25.0,4.0,Robert Summers Berger,25.0,3.0
+pitt,3,True,Josh Ascher - Mackenzie Devita,Judah Levy,30.0,1.0,Mason Blackburn,25.0,3.0,Armann Somani,24.0,4.0,Devank Agarwal,29.0,2.0
+pitt,5,True,Mackenzie Devita 2,Judah Levy,30.0,1.0,Mason Blackburn,26.0,2.0,Katherine Ryan,23.0,4.0,Robert Summers Berger,25.0,3.0
+pitt,1,False,Mackenzie Devita - Timmy Miller,Dhruva Someshwar,26.0,3.0,Malcolm Ferguson,23.0,4.0,Tierney Egan,29.0,1.0,Yixuan Liu,28.0,2.0
+pitt,2,True,Dean Walters - Nikhita Chakraborty,Dhruva Someshwar,28.0,2.0,Malcolm Ferguson,30.0,1.0,Shreya Bali,26.0,3.0,Yaxuan Li,21.0,4.0
+pitt,5,False,Nikhita Chakraborty 2,Dhruva Someshwar,30.0,3.0,Malcolm Ferguson,29.0,4.0,Alan Lai,32.0,1.0,Govind Menon,30.0,2.0
+pitt,2,False,Sara Zdancewicz - Timmy Miller,Fiona Yang,24.0,4.0,Jeffrey Yin,27.0,3.0,Justin Qi,30.0,1.0,Romina Lilollari,28.0,2.0
+pitt,4,False,Julia Malnak,Fiona Yang,25.0,4.0,Jeffrey Yin,27.0,3.0,Alan Lai,29.0,1.0,Govind Menon,28.0,2.0
+pitt,3,False,Alison Chan - Laurel Campbell,Noah Fine,29.0,4.0,Sean Oddoye,29.0,3.0,Tierney Egan,31.0,2.0,Yixuan Liu,32.0,1.0
+pitt,4,False,Sara Zdancewicz,Noah Fine,23.0,4.0,Sean Oddoye,25.0,2.0,Armann Somani,26.0,1.0,Devank Agarwal,24.0,3.0
+pitt,5,True,Travis Hunsburger 2,Noah Fine,24.0,2.0,Sean Oddoye,25.0,1.0,Shreya Bali,20.0,4.0,Yaxuan Li,21.0,3.0
+pitt,2,False,Alex Saraff - Trevor Kickliter,Tierney Egan,31.0,2.0,Yixuan Liu,29.0,4.0,Ben Kessler,30.0,3.0,Madeline Cheshire,33.0,1.0
+pitt,4,True,Dean Walters - Nikhita Chakraborty,Tierney Egan,29.0,2.0,Yixuan Liu,33.0,1.0,Alexander Chung,27.0,3.0,Sophia Lau,25.0,4.0
+pitt,2,False,Jake Love - Josh Ascher,Albi Manfredi,28.0,3.0,Alex Hanna,27.0,4.0,Josh Zakharov,29.0,2.0,Max Wu,30.0,1.0
+pitt,4,True,Alison Chan,Albi Manfredi,25.0,4.0,Alex Hanna,27.0,1.0,Dominic DeRamo,26.0,2.0,Natt Sears,25.0,3.0
+pitt,4,True,Henry Armah,Josh Zakharov,30.0,1.0,Max Wu,29.0,3.0,Judah Levy,28.0,4.0,Mason Blackburn,30.0,2.0
+pitt,5,True,Alex Saraff 2 - Jake Love 2,Josh Zakharov,30.0,3.0,Max Wu,33.0,1.0,Tierney Egan,28.0,4.0,Yixuan Liu,31.0,2.0

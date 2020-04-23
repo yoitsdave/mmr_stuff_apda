@@ -1,0 +1,98 @@
+gw_2,1,True,Brian Melniker - Sam Widell,Mac O'Hara,29.0,4.0,Mia Kuchner,31.0,1.0,Aaraj Vij,30.0,3.0,Harin Ok,30.0,2.0
+gw_2,3,False,Nate Sumimoto,Mac O'Hara,28.0,4.0,Mia Kuchner,28.0,3.0,Akshay Srinivasan,32.0,2.0,Gillian Zipursky,33.0,1.0
+gw_2,1,True,Jake Lowe,Daniel Falkovic,30.0,4.0,Zara Memon,33.0,1.0,Lydia Vlasto,31.0,2.0,Matthew Wilson,31.0,3.0
+gw_2,2,False,Aba Tieku - Andrew Harding,Daniel Falkovic,27.0,4.0,Zara Memon,28.0,3.0,Alex Hanna,31.0,1.0,Tierney Egan,31.0,2.0
+gw_2,5,True,Caroline Sagristano - Jela Shiver,Daniel Falkovic,28.0,2.0,Zara Memon,28.0,1.0,George Anderson,28.0,3.0,George Anderson,28.0,4.0
+gw_2,2,True,Isabella Sorial - Oakley Shelton- Thomas,Allison Ross,31.0,2.0,Sergio Valente,33.0,1.0,Mac O'Hara,28.0,4.0,Mia Kuchner,29.0,3.0
+gw_2,3,True,Abigail Moats - Jake Grande,Allison Ross,32.0,2.0,Sergio Valente,32.0,1.0,Aditya Jayakrishnan,30.0,3.0,Shreyoshi Das,30.0,4.0
+gw_2,5,True,Claire McMahon Fishman - Jake Lowe,Allison Ross,32.0,2.0,Sergio Valente,34.0,1.0,Akshay Srinivasan,31.0,4.0,Gillian Zipursky,32.0,3.0
+gw_2,1,True,Isabella Sorial,Aditya Jayakrishnan,30.0,2.0,Shreyoshi Das,30.0,1.0,Luke Carstens,27.0,4.0,Matthew Shang,28.0,3.0
+gw_2,5,True,Aba Tieku - Jonas Poggi,Aditya Jayakrishnan,31.0,1.0,Shreyoshi Das,31.0,2.0,Maddy Cheshire,30.0,3.0,Vara Mathiyalakan,30.0,4.0
+gw_2,1,True,Caleb Foote - Caroline Sagristano,Drew Harrington,33.0,1.0,Sparsh Jain,29.0,2.0,Kaylah Costa,26.0,3.0,Paul Marcelli,24.0,4.0
+gw_2,2,True,Jake Lowe - Nate Sumimoto,Drew Harrington,33.0,1.0,Sparsh Jain,31.0,2.0,Anna Warrell,30.0,3.0,Ethan Brown,28.0,4.0
+gw_2,4,True,Abigail Moats - Jake Grande,Drew Harrington,33.0,1.0,Sparsh Jain,32.0,2.0,Adam Harrington,28.0,4.0,Caitlin Bourke,30.0,3.0
+gw_2,2,True,Claire Raulston - Spencer Yost-Wolff,Arya Royal,34.0,1.0,Javaria Abbasi,34.0,2.0,Lucia Yang,31.0,4.0,Maxwell Sheremeta,32.0,3.0
+gw_2,5,True,Ethan Mort - Rachel Kane,Arya Royal,33.0,2.0,Javaria Abbasi,33.0,1.0,Lucy Augustine,31.0,3.0,Oliver Gainer,29.0,4.0
+gw_2,3,False,Robin Gloss,Jorge Ramirez,26.0,4.0,Patrick Han,27.0,2.0,Anna Warrell,27.0,3.0,Ethan Brown,28.0,1.0
+gw_2,4,True,Isabella Sorial,Jorge Ramirez,29.0,3.0,Patrick Han,29.0,1.0,Erica Fisher,29.0,4.0,Kyle Coopersmith,29.0,2.0
+gw_2,5,True,Caleb Betts - Nate Sumimoto,Jorge Ramirez,31.0,3.0,Patrick Han,32.0,1.0,Ariana Sharifi,30.0,4.0,Nora Sam,31.0,2.0
+gw_2,3,False,Ethan Mort,Dominic DeRamo,29.0,3.0,Sarem Haq,29.0,4.0,Erica Fisher,31.0,1.0,Kyle Coopersmith,30.0,2.0
+gw_2,4,True,Mikaela Tajo,Dominic DeRamo,29.0,3.0,Sarem Haq,30.0,1.0,Lydia Vlasto,29.0,2.0,Matthew Wilson,28.0,4.0
+gw_2,5,False,Claire Bechtel,Dominic DeRamo,27.0,3.0,Sarem Haq,26.0,4.0,Luke Carstens,29.0,1.0,Matthew Shang,28.0,2.0
+gw_2,2,True,Shelby Amato,Maddy Cheshire,31.0,1.0,Vara Mathiyalakan,31.0,2.0,Dhruva Someshwar,30.0,4.0,Malcolm Ferguson,30.0,3.0
+gw_2,3,True,Claire McMahon Fishman,Maddy Cheshire,30.0,1.0,Vara Mathiyalakan,28.0,3.0,George Anderson,27.0,4.0,George Anderson,29.0,2.0
+gw_2,4,False,Ava Desantis - Dennis Chen,Maddy Cheshire,24.0,4.0,Vara Mathiyalakan,24.0,3.0,Akshay Srinivasan,30.0,2.0,Gillian Zipursky,30.0,1.0
+gw_2,3,True,Oakley Shelton- Thomas,Alison Chan,32.0,1.0,Cindy Wang,29.0,3.0,Fiona He,27.0,4.0,Zachary Heidel,30.0,2.0
+gw_2,4,False,Aba Tieku - Jonas Poggi,Alison Chan,30.0,4.0,Cindy Wang,31.0,3.0,Alexander Chang,32.0,1.0,Sim Low,31.0,2.0
+gw_2,5,False,Andrew Harding - Kate Jones,Alison Chan,26.0,4.0,Cindy Wang,28.0,3.0,Brandon Ma,30.0,1.0,Zoha Syed,28.0,2.0
+gw_2,2,True,Robin Gloss,Annie Hu,27.0,3.0,Judy Jiang,28.0,1.0,Erica Fisher,26.0,4.0,Kyle Coopersmith,27.0,2.0
+gw_2,3,False,Aba Tieku - Gabriel Young,Annie Hu,28.0,4.0,Judy Jiang,30.0,3.0,Rajul Bothra,32.0,1.0,Sasha Chuprakova,31.0,2.0
+gw_2,5,True,Julia Cunningham,Annie Hu,33.0,1.0,Judy Jiang,33.0,2.0,Dhruva Someshwar,32.0,4.0,Malcolm Ferguson,33.0,3.0
+gw_2,1,True,Elizabeth Greer - Oakley Shelton- Thomas,Cayleigh Soderholm,31.0,2.0,Yixuan Liu,32.0,1.0,Maddy Cheshire,30.0,3.0,Vara Mathiyalakan,30.0,4.0
+gw_2,3,True,Jared Gaby-Biegel - Rebecca Shields,Cayleigh Soderholm,31.0,2.0,Yixuan Liu,32.0,1.0,Ethan Liu,30.0,3.0,Eunisa Liu,24.0,4.0
+gw_2,5,True,Isabella Sorial - Joey Schnide,Cayleigh Soderholm,32.0,1.0,Yixuan Liu,31.0,4.0,Tiffany Yuan,31.0,3.0,Wingel Xue,31.0,2.0
+gw_2,1,False,Olivia Saunders,Ariana Wheeler,29.0,3.0,Arianna Robertson,27.0,4.0,Emmanuel Murphy,31.0,1.0,Muzamil Godil,29.0,2.0
+gw_2,5,False,Jared Gaby- Biegel - Rebecca Shields,Ariana Wheeler,28.0,3.0,Arianna Robertson,27.0,4.0,Adam Harrington,30.0,1.0,Caitlin Bourke,29.0,2.0
+gw_2,2,False,Evan Rosenbaum,Luke Carstens,28.0,4.0,Matthew Shang,28.0,3.0,Aaraj Vij,28.0,2.0,Harin Ok,29.0,1.0
+gw_2,3,False,Abby Sweeney,Luke Carstens,29.0,4.0,Matthew Shang,30.0,3.0,Jason Lee,31.0,1.0,Paul Mitalipov,30.0,2.0
+gw_2,1,True,Jake Grande - Kate Jones,Akshay Srinivasan,29.0,2.0,Gillian Zipursky,29.0,1.0,Grady Martin,25.0,4.0,Maxwell Taborrok,26.0,3.0
+gw_2,2,False,Evan Dotas - Olivia Saunders,Akshay Srinivasan,32.0,3.0,Gillian Zipursky,31.0,4.0,Cayleigh Soderholm,33.0,1.0,Yixuan Liu,33.0,2.0
+gw_2,1,False,Aba Tieku,Ava Desantis,26.0,4.0,Caleb Betts,28.0,3.0,Ethan Liu,29.0,1.0,Eunisa Liu,28.0,2.0
+gw_2,2,False,Abby Sweeney - Jared Gaby-Biegel,Alexander Chang,30.0,2.0,Sim Low,29.0,4.0,Aditya Jayakrishnan,30.0,3.0,Shreyoshi Das,31.0,1.0
+gw_2,5,False,Caleb Foote - Olivia Saunders,Alexander Chang,28.0,4.0,Sim Low,29.0,3.0,Jacob Atkins,31.0,1.0,Mason Buonadonna,31.0,2.0
+gw_2,2,False,Julia Cunningham,Emily Xu,31.0,2.0,Mehul Agarwal,30.0,4.0,Jorge Ramirez,32.0,1.0,Patrick Han,30.0,3.0
+gw_2,2,False,Parker Kelly - Sam Widell,Kaylah Costa,29.0,3.0,Paul Marcelli,28.0,4.0,Alison Chan,31.0,1.0,Cindy Wang,31.0,2.0
+gw_2,3,False,Jake Lowe,Kaylah Costa,28.0,4.0,Paul Marcelli,29.0,2.0,Emily Xu,29.0,3.0,Mehul Agarwal,30.0,1.0
+gw_2,4,False,Haseeb Waseem - Miles Richardson,Kaylah Costa,28.0,2.0,Paul Marcelli,27.0,4.0,Daniel Falkovic,28.0,3.0,Zara Memon,30.0,1.0
+gw_2,2,False,Caroline Sagristano - Joe Clancy,Emmanuel Murphy,31.0,3.0,Muzamil Godil,30.0,4.0,Lucy Augustine,32.0,1.0,Oliver Gainer,32.0,2.0
+gw_2,4,False,Oakley Shelton- Thomas - Rebecca Shields,Emmanuel Murphy,30.0,2.0,Muzamil Godil,27.0,4.0,Alex Hanna,28.0,3.0,Tierney Egan,31.0,1.0
+gw_2,1,False,Parker Kelly - Spencer Yost- Wolff,Erica Fisher,28.0,3.0,Kyle Coopersmith,29.0,2.0,Jacob Atkins,27.0,4.0,Mason Buonadonna,30.0,1.0
+gw_2,5,False,Evan Rosenbaum,Erica Fisher,29.0,3.0,Kyle Coopersmith,28.0,4.0,Jason Lee,30.0,1.0,Paul Mitalipov,29.0,2.0
+gw_2,2,True,Claire McMahon Fishman - Ethan Mort,Ethan Liu,30.0,1.0,Eunisa Liu,28.0,3.0,Jake Love,29.0,2.0,Sara Zdancewicz,27.0,4.0
+gw_2,4,False,Caleb Foote - Elizabeth Greer,Ethan Liu,29.0,3.0,Eunisa Liu,27.0,4.0,Tiffany Yuan,33.0,1.0,Wingel Xue,32.0,2.0
+gw_2,1,True,Andrew Harding - Nate Sumimoto,Rajul Bothra,32.0,1.0,Sasha Chuprakova,32.0,2.0,Dominic DeRamo,30.0,3.0,Sarem Haq,29.0,4.0
+gw_2,4,True,Caroline Sagristano - Jared Gaby- Biegel,Rajul Bothra,32.0,1.0,Sasha Chuprakova,30.0,3.0,Aaraj Vij,31.0,2.0,Harin Ok,30.0,4.0
+gw_2,1,True,Claire Bechtel - Gabriel Young,Fiona He,30.0,1.0,Zachary Heidel,28.0,3.0,Jorge Ramirez,29.0,2.0,Patrick Han,27.0,4.0
+gw_2,4,True,Caleb Betts - Nate Sumimoto,Fiona He,30.0,3.0,Zachary Heidel,31.0,1.0,Emily Xu,30.0,4.0,Mehul Agarwal,30.0,2.0
+gw_2,5,False,Parker Kelly,Fiona He,29.0,4.0,Zachary Heidel,30.0,3.0,Emmanuel Murphy,32.0,1.0,Muzamil Godil,30.0,2.0
+gw_2,1,True,Evan Rosenbaum,Lucia Yang,31.0,1.0,Maxwell Sheremeta,30.0,2.0,Emily Xu,29.0,3.0,Mehul Agarwal,29.0,4.0
+gw_2,4,True,Jake Lowe - Kate Jones,Lucia Yang,30.0,3.0,Maxwell Sheremeta,31.0,1.0,Aditya Jayakrishnan,28.0,4.0,Shreyoshi Das,30.0,2.0
+gw_2,5,False,Abby Sweeney - Oakley Shelton- Thomas,Lucia Yang,29.0,3.0,Maxwell Sheremeta,31.0,2.0,Drew Harrington,33.0,1.0,Sparsh Jain,28.0,4.0
+gw_2,1,False,Ethan Mort - Evan Dotas,Jason Lee,30.0,3.0,Paul Mitalipov,29.0,4.0,Allison Ross,32.0,1.0,Sergio Valente,31.0,2.0
+gw_2,2,False,Claire Bechtel,Jason Lee,27.0,3.0,Paul Mitalipov,26.0,4.0,George Anderson,29.0,1.0,George Anderson,28.0,2.0
+gw_2,2,True,Natalie Caloca,Brandon Ma,29.0,1.0,Zoha Syed,27.0,2.0,Ariana Wheeler,26.0,3.0,Arianna Robertson,26.0,4.0
+gw_2,3,False,Claire Bechtel - Sam Widell,Brandon Ma,28.0,2.0,Zoha Syed,26.0,4.0,Emmanuel Murphy,29.0,1.0,Muzamil Godil,27.0,3.0
+gw_2,4,False,Mario Aguirre,Brandon Ma,0.0,3.0,Zoha Syed,0.0,4.0,Mac O'Hara,23.0,2.0,Mia Kuchner,26.0,1.0
+gw_2,2,True,Abigail Moats - Jake Grande,Jacob Atkins,33.0,1.0,Mason Buonadonna,31.0,2.0,Rajul Bothra,30.0,3.0,Sasha Chuprakova,29.0,4.0
+gw_2,3,True,Andrew Harding - Kate Jones,Jacob Atkins,33.0,1.0,Mason Buonadonna,32.0,3.0,Arya Royal,31.0,4.0,Javaria Abbasi,33.0,2.0
+gw_2,4,False,Ethan Mort - Rachel Kane,Jacob Atkins,31.0,3.0,Mason Buonadonna,31.0,4.0,Cayleigh Soderholm,32.0,2.0,Yixuan Liu,32.0,1.0
+gw_2,1,True,Jonas Poggi,Anna Warrell,31.0,1.0,Ethan Brown,30.0,2.0,Ariana Sharifi,29.0,3.0,Nora Sam,28.0,4.0
+gw_2,4,False,Jela Shiver - Olivia Saunders,Anna Warrell,29.0,3.0,Ethan Brown,27.0,4.0,Arya Royal,33.0,1.0,Javaria Abbasi,32.0,2.0
+gw_2,5,True,Mario Aguirre - Sam Widell,Anna Warrell,32.0,1.0,Ethan Brown,30.0,3.0,Grady Martin,31.0,2.0,Maxwell Taborrok,28.0,4.0
+gw_2,1,False,Natalie Caloca,George Anderson,28.0,4.0,George Anderson,28.0,3.0,Arya Royal,31.0,1.0,Javaria Abbasi,30.0,2.0
+gw_2,4,True,Andrew Harding - Parker Kelly,George Anderson,30.0,1.0,George Anderson,29.0,3.0,Dhruva Someshwar,30.0,2.0,Malcolm Ferguson,28.0,4.0
+gw_2,2,True,Kate Jones - Yosua Siagian,Tiffany Yuan,31.0,2.0,Wingel Xue,32.0,1.0,Fiona He,26.0,4.0,Zachary Heidel,27.0,3.0
+gw_2,3,True,Joe Clancy - Olivia Saunders,Tiffany Yuan,34.0,2.0,Wingel Xue,34.0,1.0,Alex Hanna,32.0,4.0,Tierney Egan,33.0,3.0
+gw_2,1,False,Julia Cunningham,Adam Harrington,31.0,2.0,Caitlin Bourke,30.0,4.0,Alexander Chang,31.0,3.0,Sim Low,32.0,1.0
+gw_2,2,True,Caleb Foote,Adam Harrington,30.0,1.0,Caitlin Bourke,29.0,2.0,Ava Desantis,28.0,3.0,Caleb Betts,26.0,4.0
+gw_2,3,True,Yosua Siagian,Adam Harrington,31.0,2.0,Caitlin Bourke,32.0,1.0,Daniel Falkovic,30.0,4.0,Zara Memon,31.0,3.0
+gw_2,1,False,Abby Sweeney - Jared Gaby- Biegel,Dhruva Someshwar,27.0,4.0,Malcolm Ferguson,29.0,3.0,Tiffany Yuan,33.0,1.0,Wingel Xue,31.0,2.0
+gw_2,3,True,Enshia Li,Dhruva Someshwar,31.0,2.0,Malcolm Ferguson,31.0,1.0,Ava Desantis,30.0,4.0,Caleb Betts,30.0,3.0
+gw_2,2,True,Enshia Li,Ariana Sharifi,27.0,3.0,Nora Sam,29.0,1.0,Dominic DeRamo,28.0,2.0,Sarem Haq,27.0,4.0
+gw_2,3,False,Evan Dotas,Ariana Sharifi,28.0,3.0,Nora Sam,27.0,4.0,Alexander Chang,31.0,1.0,Sim Low,31.0,2.0
+gw_2,4,True,Julia Cunningham - Sam Widell,Ariana Sharifi,33.0,1.0,Nora Sam,33.0,2.0,Jason Lee,31.0,3.0,Paul Mitalipov,31.0,4.0
+gw_2,2,True,Brian Melniker - Gabriel Young,Grady Martin,32.0,1.0,Maxwell Taborrok,30.0,3.0,Lydia Vlasto,31.0,2.0,Matthew Wilson,29.0,4.0
+gw_2,3,False,Caleb Foote - Caroline Sagristano,Grady Martin,29.0,4.0,Maxwell Taborrok,30.0,3.0,Lucia Yang,31.0,2.0,Maxwell Sheremeta,31.0,1.0
+gw_2,4,True,Natalie Caloca,Grady Martin,29.0,1.0,Maxwell Taborrok,28.0,2.0,Annie Hu,27.0,4.0,Judy Jiang,27.0,3.0
+gw_2,1,True,Claire Raulston,Alex Hanna,30.0,3.0,Tierney Egan,31.0,1.0,Brandon Ma,29.0,4.0,Zoha Syed,30.0,2.0
+gw_2,5,False,Ava Desantis - Haseeb Waseem,Alex Hanna,32.0,4.0,Tierney Egan,33.0,2.0,Rajul Bothra,33.0,1.0,Sasha Chuprakova,32.0,3.0
+gw_2,1,True,Shelby Amato,Lucy Augustine,33.0,1.0,Oliver Gainer,30.0,3.0,Alison Chan,33.0,2.0,Cindy Wang,29.0,4.0
+gw_2,3,True,Brian Melniker - Elizabeth Greer,Lucy Augustine,32.0,1.0,Oliver Gainer,31.0,2.0,Drew Harrington,30.0,4.0,Sparsh Jain,30.0,3.0
+gw_2,4,False,Abby Sweeney - Joey Schnide,Lucy Augustine,29.0,3.0,Oliver Gainer,28.0,4.0,Allison Ross,34.0,1.0,Sergio Valente,31.0,2.0
+gw_2,3,True,Natalie Caloca,Aaraj Vij,31.0,1.0,Harin Ok,30.0,2.0,Jake Love,29.0,3.0,Sara Zdancewicz,29.0,4.0
+gw_2,5,False,Abigail Moats - Miles Richardson,Aaraj Vij,31.0,2.0,Harin Ok,30.0,3.0,Ethan Liu,32.0,1.0,Eunisa Liu,29.0,4.0
+gw_2,3,False,Isabella Sorial,Lydia Vlasto,27.0,2.0,Matthew Wilson,26.0,4.0,Ariana Wheeler,28.0,1.0,Arianna Robertson,26.0,3.0
+gw_2,5,True,Dennis Chen,Lydia Vlasto,28.0,2.0,Matthew Wilson,29.0,1.0,Emily Xu,28.0,3.0,Mehul Agarwal,27.0,4.0
+gw_2,1,True,Rebecca Shields,Jake Love,33.0,1.0,Sara Zdancewicz,31.0,2.0,Annie Hu,30.0,3.0,Judy Jiang,28.0,4.0
+gw_2,4,False,Gabriel Young - Shelby Amato,Jake Love,29.0,4.0,Sara Zdancewicz,31.0,3.0,Ariana Wheeler,33.0,1.0,Arianna Robertson,32.0,2.0
+gw_2,5,True,Enshia Li,Jake Love,30.0,2.0,Sara Zdancewicz,30.0,1.0,Mac O'Hara,28.0,4.0,Mia Kuchner,29.0,3.0

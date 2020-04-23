@@ -1,0 +1,100 @@
+brown_2,2,True,Jack Glaser,Anish Welde,30.0,3.0,Vignesh Valliyur,32.0,2.0,Jasmine Sun,32.0,1.0,Susie Garcia,27.0,4.0
+brown_2,3,True,Jonah Goldberg - Joanne Bai,Anish Welde,33.0,1.0,Vignesh Valliyur,33.0,2.0,Ben Feshbach,27.0,4.0,Ellis London,32.0,3.0
+brown_2,3,True,Ed Bracey - Elaine He - Jing Wei Nicholas Lim,Jack Kelly,30.0,3.0,Ellie Singer,34.0,1.0,Ally Ross,32.0,2.0,Joe Clancy,30.0,4.0
+brown_2,4,True,Malik Jarvis,Jack Kelly,31.0,1.0,Ellie Singer,30.0,2.0,Danielle Mitalipov,29.0,3.0,Enshia Li,28.0,4.0
+brown_2,1,False,Harry Xie,Ashley Phord-Toy,26.0,4.0,Ben Schwartz,26.0,3.0,Anish Welde,30.0,1.0,Vignesh Valliyur,29.0,2.0
+brown_2,2,True,Jack Malamud,Ashley Phord-Toy,28.0,1.0,Ben Schwartz,27.0,2.0,Roy Lee,24.0,4.0,Arman Entezar,25.0,3.0
+brown_2,5,True,Christopher Morillo,Ashley Phord-Toy,28.0,1.0,Ben Schwartz,27.0,2.0,Renee Nakkab,26.0,3.0,Max Hunsinger,24.0,4.0
+brown_2,2,False,Ann Garth,Danielle Mitalipov,28.0,2.0,Enshia Li,24.0,4.0,Paloma O'Connor,31.0,1.0,Asher Spector,27.0,3.0
+brown_2,3,True,Christopher Morillo,Danielle Mitalipov,27.0,1.0,Enshia Li,27.0,2.0,Daniel Ju,27.0,3.0,Greg Weaving,26.0,4.0
+brown_2,5,False,Laura Coughlin,Danielle Mitalipov,31.0,2.0,Enshia Li,30.0,4.0,Nicole Kagan,32.0,1.0,Ye Joo Han,31.0,3.0
+brown_2,1,True,Mia Stone- Molloy,Jasmine Sun,29.0,1.0,Susie Garcia,28.0,2.0,Wanchen Zhao,25.0,3.0,Eric Pilchowski,24.0,4.0
+brown_2,4,True,Jackson Segal,Jasmine Sun,28.0,1.0,Susie Garcia,27.0,2.0,Preston Johnston,27.0,4.0,Hannah To,27.0,3.0
+brown_2,2,True,Claire McMahon Fishman,Ben Anderson,29.0,3.0,Xavier Sottile,32.0,1.0,Nicole Kagan,28.0,4.0,Ye Joo Han,30.0,2.0
+brown_2,3,True,Laura Coughlin - Guillermo De La Torre - Rocket Drew,Ben Anderson,31.0,2.0,Xavier Sottile,33.0,1.0,Justin Qi,30.0,4.0,Jimmy Lin,31.0,3.0
+brown_2,4,True,Jake Miller - Kevin Xiang - Jing Wei Nicholas Lim,Ben Anderson,30.0,4.0,Xavier Sottile,33.0,1.0,Anish Welde,31.0,3.0,Vignesh Valliyur,32.0,2.0
+brown_2,2,True,Sandy Greenberg,Ally Ross,28.0,1.0,Joe Clancy,27.0,2.0,Jacob Nishimura,26.0,3.0,Alexander Maitland,26.0,4.0
+brown_2,4,True,Jonah Goldberg,Ally Ross,33.0,1.0,Joe Clancy,30.0,2.0,Noam Shurin,25.0,3.0,Leah Block,25.0,4.0
+brown_2,5,True,Malik Jarvis - Nastassia Goodson,Ally Ross,32.0,1.0,Joe Clancy,30.0,3.0,Anish Welde,31.0,2.0,Vignesh Valliyur,29.0,4.0
+brown_2,2,True,Andrew Steinberg,Maxwell Sheremeta,30.0,1.0,Cindy Zhao,29.0,2.0,John Lowe,27.0,3.0,Coco Chen,24.0,4.0
+brown_2,4,True,Christopher Morillo,Maxwell Sheremeta,30.0,1.0,Cindy Zhao,27.0,3.0,Kurtis Lee,26.0,4.0,Rohit Ghoshal,28.0,2.0
+brown_2,3,False,Claire McMahon Fishman,Gabbi Shilcusky,26.0,3.0,Wyatt Hornstein,24.0,4.0,Aditya Dhar,32.0,1.0,Tanay Patri,30.0,2.0
+brown_2,5,False,Jonah Goldberg,Gabbi Shilcusky,27.0,3.0,Wyatt Hornstein,26.0,4.0,Ravi Simon,34.0,1.0,Ryan Shaffer,27.0,2.0
+brown_2,2,False,Mia Stone- Molloy,Joe Cox,23.0,3.0,Andrew Avalos,22.0,4.0,Craig Diskin,29.0,1.0,Shira Rosenberg,28.0,2.0
+brown_2,4,True,Jack Malamud,Joe Cox,28.0,1.0,Andrew Avalos,27.0,2.0,Renee Nakkab,23.0,3.0,Max Hunsinger,23.0,4.0
+brown_2,5,False,Auriel Haack,Joe Cox,24.0,4.0,Andrew Avalos,25.0,3.0,Nicholas DeVito,30.0,1.0,Jane Mentzinger,27.0,2.0
+brown_2,1,True,Claire McMahon Fishman,Jay Gibbs,29.0,2.0,Drew Harrington,32.0,1.0,Isabella Tomovski,27.0,3.0,Winnie Qin,25.0,4.0
+brown_2,2,False,Guillermo De La Torre - Jonah Goldberg - Jing Wei Nicholas Lim,Jay Gibbs,33.0,2.0,Drew Harrington,31.0,4.0,Charming Dube,34.0,1.0,Rachel Gifeisman,31.0,3.0
+brown_2,5,True,Reca Sarfati - Kevin Xiang - Kavya Gopinath,Jay Gibbs,32.0,1.0,Drew Harrington,31.0,3.0,Justin Qi,31.0,2.0,Jimmy Lin,30.0,4.0
+brown_2,1,True,Ed Bracey,Zachary Lemonides,28.0,1.0,Jaewan Park,26.0,3.0,Maxwell Sheremeta,26.0,4.0,Cindy Zhao,27.0,2.0
+brown_2,4,True,Rocket Drew,Zachary Lemonides,28.0,1.0,Jaewan Park,27.0,3.0,Nicholas DeVito,27.0,4.0,Jane Mentzinger,28.0,2.0
+brown_2,5,True,Monica Chin,Zachary Lemonides,31.0,1.0,Jaewan Park,31.0,2.0,Darryl Chia,26.0,4.0,John Goulandris,29.0,3.0
+brown_2,2,False,Mars He - Ethan Thio - Joanne Bai,Ravi Simon,33.0,2.0,Ryan Shaffer,32.0,4.0,Jack Kelly,32.0,3.0,Ellie Singer,33.0,1.0
+brown_2,4,True,Michael Froid,Ravi Simon,31.0,2.0,Ryan Shaffer,32.0,1.0,Dan Leizerman,25.0,3.0,Josh Andino,24.0,4.0
+brown_2,1,False,Jonah Goldberg - Nastassia Goodson,Darryl Chia,27.0,4.0,John Goulandris,31.0,3.0,Aditya Dhar,31.0,2.0,Tanay Patri,33.0,1.0
+brown_2,3,True,Ann Garth,Darryl Chia,29.0,2.0,John Goulandris,30.0,1.0,Jacob Nishimura,25.0,4.0,Alexander Maitland,25.0,3.0
+brown_2,3,False,Jack Malamud,ShiLu Vanasupa,22.0,4.0,Natasha Chayairat,26.0,3.0,Isabella Tomovski,28.0,1.0,Winnie Qin,26.0,2.0
+brown_2,5,False,Harry Xie,ShiLu Vanasupa,24.0,3.0,Natasha Chayairat,24.0,4.0,Wanchen Zhao,26.0,2.0,Eric Pilchowski,27.0,1.0
+brown_2,2,True,Jake Miller - Ed Bracey,Ben Feshbach,30.0,1.0,Ellis London,28.0,2.0,Sam Melcher,25.0,4.0,Dylan Gyauch- Lewis,28.0,3.0
+brown_2,5,True,Jack Glaser,Ben Feshbach,26.0,1.0,Ellis London,25.0,2.0,Austin Goldsmith- Lachut,24.0,3.0,Shreya Parjan,23.0,4.0
+brown_2,1,True,Livia Belman-Wells,Charming Dube,28.0,3.0,Rachel Gifeisman,29.0,1.0,Nicholas DeVito,25.0,4.0,Jane Mentzinger,28.0,2.0
+brown_2,3,True,Malik Jarvis - Stephanie Lee,Charming Dube,29.0,4.0,Rachel Gifeisman,32.0,1.0,Paloma O'Connor,30.0,2.0,Asher Spector,30.0,3.0
+brown_2,5,True,Sandy Greenberg,Charming Dube,31.0,3.0,Rachel Gifeisman,33.0,1.0,Aditya Dhar,30.0,4.0,Tanay Patri,32.0,2.0
+brown_2,1,False,Jack Glaser,Kurtis Lee,23.0,4.0,Rohit Ghoshal,25.0,3.0,Ben Anderson,29.0,1.0,Xavier Sottile,29.0,2.0
+brown_2,2,False,Auriel Haack,Kurtis Lee,26.0,4.0,Rohit Ghoshal,27.0,3.0,Will Duanmu,30.0,2.0,Cayleigh Soderholm,31.0,1.0
+brown_2,5,False,Michael Froid,Kurtis Lee,26.0,4.0,Rohit Ghoshal,29.0,2.0,Preston Johnston,28.0,3.0,Hannah To,30.0,1.0
+brown_2,1,False,Jake Miller,Renee Nakkab,20.0,3.0,Max Hunsinger,18.0,4.0,Jack Kelly,32.0,1.0,Ellie Singer,31.0,2.0
+brown_2,2,False,Michael Froid,Renee Nakkab,24.0,4.0,Max Hunsinger,25.0,3.0,Daniel Ju,30.0,1.0,Greg Weaving,29.0,2.0
+brown_2,1,False,Jackson Segal,Craig Diskin,27.0,4.0,Shira Rosenberg,28.0,3.0,Justin Qi,28.0,2.0,Jimmy Lin,29.0,1.0
+brown_2,3,True,Michael Froid,Craig Diskin,28.0,3.0,Shira Rosenberg,31.0,1.0,Nicole Kagan,30.0,2.0,Ye Joo Han,27.0,4.0
+brown_2,5,True,Elaine He,Craig Diskin,30.0,1.0,Shira Rosenberg,28.0,3.0,Maxwell Sheremeta,29.0,2.0,Cindy Zhao,28.0,4.0
+brown_2,1,False,Ann Garth,Roy Lee,26.0,4.0,Arman Entezar,27.0,3.0,Ally Ross,29.0,2.0,Joe Clancy,30.0,1.0
+brown_2,3,True,Andrew Steinberg,Roy Lee,28.0,2.0,Arman Entezar,30.0,1.0,Joe Cox,28.0,3.0,Andrew Avalos,27.0,4.0
+brown_2,5,True,Mia Stone- Molloy,Roy Lee,27.0,1.0,Arman Entezar,24.0,4.0,Dan Leizerman,24.0,3.0,Josh Andino,26.0,2.0
+brown_2,2,False,Taja Hirata- Epstein,Wanchen Zhao,25.0,4.0,Eric Pilchowski,26.0,2.0,Austin Goldsmith- Lachut,26.0,3.0,Shreya Parjan,27.0,1.0
+brown_2,3,False,Lauren Fung,Wanchen Zhao,23.0,4.0,Eric Pilchowski,23.0,3.0,Kurtis Lee,26.0,2.0,Rohit Ghoshal,26.0,1.0
+brown_2,4,False,Livia Belman- Wells,Wanchen Zhao,20.0,3.0,Eric Pilchowski,21.0,2.0,John Lowe,22.0,1.0,Coco Chen,19.0,4.0
+brown_2,1,True,Lauren Fung,Jacob Nishimura,29.0,3.0,Alexander Maitland,29.0,2.0,Noam Shurin,28.0,4.0,Leah Block,30.0,1.0
+brown_2,4,True,Harry Xie,Jacob Nishimura,26.0,2.0,Alexander Maitland,27.0,1.0,Roy Lee,25.0,4.0,Arman Entezar,25.0,3.0
+brown_2,1,True,Malik Jarvis,Sam Melcher,30.0,1.0,Dylan Gyauch- Lewis,30.0,2.0,Austin Goldsmith- Lachut,28.0,4.0,Shreya Parjan,28.0,3.0
+brown_2,3,True,Auriel Haack,Sam Melcher,31.0,1.0,Dylan Gyauch- Lewis,29.0,2.0,Jasmine Sun,29.0,3.0,Susie Garcia,28.0,4.0
+brown_2,4,True,Sandy Greenberg,Sam Melcher,27.0,2.0,Dylan Gyauch- Lewis,26.0,3.0,Darryl Chia,26.0,4.0,John Goulandris,27.0,1.0
+brown_2,5,False,Mars He - Ethan Thio - Joanne Bai,Sam Melcher,30.0,3.0,Dylan Gyauch- Lewis,29.0,4.0,Ben Anderson,33.0,2.0,Xavier Sottile,33.0,1.0
+brown_2,1,False,Auriel Haack,Dan Leizerman,26.0,3.0,Josh Andino,24.0,4.0,Danielle Mitalipov,30.0,1.0,Enshia Li,28.0,2.0
+brown_2,2,False,Jackson Segal,Dan Leizerman,24.0,3.0,Josh Andino,23.0,4.0,Darryl Chia,29.0,2.0,John Goulandris,32.0,1.0
+brown_2,2,True,Malik Jarvis - Kevin Xiang - Tony Zhu,Sophia Caldera,33.0,1.0,John Hunt,30.0,3.0,Zachary Lemonides,32.0,2.0,Jaewan Park,29.0,4.0
+brown_2,4,True,Reca Sarfati - Ethan Thio - Kavya Gopinath,Sophia Caldera,35.0,1.0,John Hunt,33.0,2.0,Charming Dube,32.0,4.0,Rachel Gifeisman,33.0,3.0
+brown_2,5,True,Ricky Cambo - Jack Malamud - Kushagra Agarwal,Sophia Caldera,33.0,1.0,John Hunt,33.0,3.0,Jack Kelly,33.0,2.0,Ellie Singer,33.0,4.0
+brown_2,1,True,Kavya Gopinath,Paloma O'Connor,30.0,1.0,Asher Spector,28.0,2.0,ShiLu Vanasupa,20.0,4.0,Natasha Chayairat,25.0,3.0
+brown_2,4,True,Jack Glaser,Paloma O'Connor,30.0,3.0,Asher Spector,32.0,1.0,Will Duanmu,29.0,4.0,Cayleigh Soderholm,32.0,2.0
+brown_2,5,True,Guillermo De La Torre - Caleb Foote - Jing Wei Nicholas Lim,Paloma O'Connor,34.0,1.0,Asher Spector,29.0,4.0,Teddy Wyman,30.0,3.0,Jasper Primack,33.0,2.0
+brown_2,1,True,Christopher Morillo,Nicole Kagan,29.0,2.0,Ye Joo Han,30.0,1.0,Gabbi Shilcusky,27.0,3.0,Wyatt Hornstein,26.0,4.0
+brown_2,4,True,Ann Garth,Nicole Kagan,28.0,2.0,Ye Joo Han,29.0,1.0,ShiLu Vanasupa,19.0,3.0,Natasha Chayairat,19.0,4.0
+brown_2,2,True,Elaine He - Stephanie Lee - Nastassia Goodson,Justin Qi,32.0,2.0,Jimmy Lin,29.0,3.0,Teddy Wyman,28.0,4.0,Jasper Primack,33.0,1.0
+brown_2,4,True,Monica Chin,Justin Qi,30.0,1.0,Jimmy Lin,26.0,4.0,Ben Feshbach,27.0,2.0,Ellis London,27.0,3.0
+brown_2,2,False,Laura Coughlin - Lauren Fung - Kavya Gopinath,Aditya Dhar,29.0,1.0,Tanay Patri,27.0,4.0,Monica Ochoa,28.0,3.0,Maya Rubin,28.0,2.0
+brown_2,4,True,Guillermo De La Torre - Caleb Foote,Aditya Dhar,31.0,1.0,Tanay Patri,31.0,2.0,Craig Diskin,29.0,3.0,Shira Rosenberg,28.0,4.0
+brown_2,1,True,Sandy Greenberg,Teddy Wyman,29.0,2.0,Jasper Primack,31.0,1.0,Joe Cox,23.0,4.0,Andrew Avalos,27.0,3.0
+brown_2,3,True,Mars He - Kavya Gopinath - Tony Zhu,Teddy Wyman,32.0,3.0,Jasper Primack,34.0,1.0,Ashley Phord-Toy,32.0,2.0,Ben Schwartz,27.0,4.0
+brown_2,3,False,Monica Chin,Monica Ochoa,30.0,2.0,Maya Rubin,28.0,3.0,Sophia Caldera,32.0,1.0,John Hunt,27.0,4.0
+brown_2,4,False,Mars He,Monica Ochoa,34.0,2.0,Maya Rubin,32.0,3.0,Jay Gibbs,35.0,1.0,Drew Harrington,32.0,4.0
+brown_2,2,False,Rocket Drew,Isabella Tomovski,27.0,2.0,Winnie Qin,26.0,3.0,Gabbi Shilcusky,30.0,1.0,Wyatt Hornstein,25.0,4.0
+brown_2,4,True,Mia Stone- Molloy,Isabella Tomovski,26.0,4.0,Winnie Qin,30.0,1.0,Ashley Phord-Toy,27.0,3.0,Ben Schwartz,29.0,2.0
+brown_2,5,False,Yvonne Yu,Isabella Tomovski,25.0,3.0,Winnie Qin,23.0,4.0,Monica Ochoa,35.0,1.0,Maya Rubin,32.0,2.0
+brown_2,1,False,Laura Coughlin,Daniel Ju,30.0,3.0,Greg Weaving,29.0,4.0,Sophia Caldera,34.0,1.0,John Hunt,33.0,2.0
+brown_2,4,False,Auriel Haack,Daniel Ju,27.0,2.0,Greg Weaving,25.0,4.0,Gabbi Shilcusky,28.0,1.0,Wyatt Hornstein,27.0,3.0
+brown_2,5,True,Ann Garth,Daniel Ju,29.0,1.0,Greg Weaving,27.0,2.0,John Lowe,24.0,3.0,Coco Chen,20.0,4.0
+brown_2,1,False,Jack Malamud,Preston Johnston,26.0,3.0,Hannah To,25.0,4.0,Ravi Simon,28.0,1.0,Ryan Shaffer,27.0,2.0
+brown_2,3,True,Mia Stone- Molloy,Preston Johnston,20.0,3.0,Hannah To,22.0,1.0,Renee Nakkab,21.0,2.0,Max Hunsinger,18.0,4.0
+brown_2,2,True,Kushagra Agarwal,Nicholas DeVito,22.0,2.0,Jane Mentzinger,24.0,1.0,ShiLu Vanasupa,17.0,3.0,Natasha Chayairat,16.0,4.0
+brown_2,3,False,Jake Miller,Nicholas DeVito,29.0,3.0,Jane Mentzinger,26.0,4.0,Jay Gibbs,30.0,2.0,Drew Harrington,33.0,1.0
+brown_2,2,True,Christopher Morillo,Noam Shurin,30.0,1.0,Leah Block,29.0,2.0,Preston Johnston,27.0,4.0,Hannah To,27.0,3.0
+brown_2,3,True,Anagha Lokhande,Noam Shurin,31.0,1.0,Leah Block,29.0,4.0,Maxwell Sheremeta,30.0,3.0,Cindy Zhao,30.0,2.0
+brown_2,5,True,Claire McMahon Fishman,Noam Shurin,32.0,1.0,Leah Block,27.0,3.0,Jasmine Sun,28.0,2.0,Susie Garcia,26.0,4.0
+brown_2,1,False,Rocket Drew,John Lowe,27.0,3.0,Coco Chen,24.0,4.0,Monica Ochoa,27.0,2.0,Maya Rubin,27.0,1.0
+brown_2,3,False,Kushagra Agarwal,John Lowe,24.0,2.0,Coco Chen,20.0,4.0,Dan Leizerman,26.0,1.0,Josh Andino,23.0,3.0
+brown_2,1,False,Michael Froid,Will Duanmu,27.0,4.0,Cayleigh Soderholm,28.0,2.0,Ben Feshbach,28.0,3.0,Ellis London,29.0,1.0
+brown_2,3,True,Jackson Segal,Will Duanmu,30.0,2.0,Cayleigh Soderholm,30.0,1.0,Zachary Lemonides,28.0,4.0,Jaewan Park,28.0,3.0
+brown_2,5,True,Jake Miller,Will Duanmu,31.0,1.0,Cayleigh Soderholm,29.0,2.0,Jacob Nishimura,28.0,3.0,Alexander Maitland,26.0,4.0
+brown_2,3,True,Sandy Greenberg,Austin Goldsmith- Lachut,31.0,1.0,Shreya Parjan,29.0,3.0,Ravi Simon,30.0,2.0,Ryan Shaffer,28.0,4.0
+brown_2,4,False,Ricky Cambo - Kushagra Agarwal - Joanne Bai,Austin Goldsmith- Lachut,29.0,3.0,Shreya Parjan,29.0,4.0,Teddy Wyman,32.0,2.0,Jasper Primack,33.0,1.0

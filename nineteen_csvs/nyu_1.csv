@@ -1,0 +1,88 @@
+nyu_1,2,True,Jesse Scott,Eva-Marie Quinones,29.0,3.0,Will Sutherland,32.0,1.0,Prin Baskar,28.0,4.0,Jack Freilich,31.0,2.0
+nyu_1,3,False,Ben Wertkin - Elias Shammas - Alfonso Tan,Eva-Marie Quinones,27.0,4.0,Will Sutherland,29.0,2.0,Maxwell Sheremeta,28.0,3.0,Arya Royal,31.0,1.0
+nyu_1,3,True,Keren Benzion,Adnan Askari,24.0,2.0,Sarah Wheaton,29.0,1.0,Ben Stanley,23.0,3.0,Tapas Modi,22.0,4.0
+nyu_1,1,False,Andrew Choi,Spencer Kinyon,25.0,3.0,Mateen Karimi,24.0,4.0,Joel Macklin,27.0,2.0,Isaiah Suggs,28.0,1.0
+nyu_1,2,False,Alfonso Tan,Spencer Kinyon,21.0,4.0,Mateen Karimi,21.0,2.0,Blake Johnston,23.0,1.0,Adam Hassoun,21.0,3.0
+nyu_1,3,False,Isabella Franklin - Jaedon Abbott,Daniel Silverstein,24.0,3.0,Daniel Silverstein 2,24.0,4.0,Malcolm Davis,30.0,2.0,Gillian Zipursky,30.0,1.0
+nyu_1,5,False,Tona Campbell,Daniel Silverstein,28.0,2.0,Daniel Silverstein 2,25.0,4.0,Lucia Wu,25.0,3.0,Elijah Annoh- Waithe,30.0,1.0
+nyu_1,1,False,Keyu Liu - Aditya Pandey,Chinanu Gubor,25.0,3.0,Joleigh Yim,24.0,4.0,Ben Koch,30.0,1.0,Hart Rapaport,28.0,2.0
+nyu_1,4,False,Nassim Bahet,Chinanu Gubor,26.0,2.0,Joleigh Yim,23.0,4.0,Ananth Ghosh,25.0,3.0,Anthony Corey,27.0,1.0
+nyu_1,5,True,Alan Sun,Chinanu Gubor,24.0,2.0,Joleigh Yim,22.0,3.0,John Kelly,22.0,4.0,Alexis Charles,24.0,1.0
+nyu_1,1,False,Isabella Franklin - Ben Wertkin - Elias Shammas,John Kelly,21.0,4.0,Alexis Charles,26.0,3.0,Eve Fidler,32.0,1.0,Yixuan Liu,32.0,2.0
+nyu_1,3,False,Andrew Choi,John Kelly,25.0,4.0,Alexis Charles,26.0,3.0,Rick Marri,26.0,2.0,Neil Mauskar,28.0,1.0
+nyu_1,4,False,Matthew Shang,John Kelly,22.0,2.0,Alexis Charles,20.0,3.0,Lucia Wu,18.0,4.0,Elijah Annoh- Waithe,26.0,1.0
+nyu_1,1,False,Sania Irfan,Dan Berardino,24.0,4.0,Luke Stoner,25.0,3.0,Prin Baskar,30.0,1.0,Jack Freilich,27.0,2.0
+nyu_1,3,True,Kate Lowe,Dan Berardino,29.0,2.0,Luke Stoner,27.0,3.0,Alison Chan,29.0,1.0,Jake Love,27.0,4.0
+nyu_1,4,False,Keyu Liu - Jaedon Abbott,Dan Berardino,26.0,4.0,Luke Stoner,27.0,3.0,David Edimo,30.0,2.0,Michael Mao,31.0,1.0
+nyu_1,4,False,Kate Lowe,Joel Macklin,25.0,4.0,Isaiah Suggs,26.0,3.0,Max Wu,29.0,2.0,Devesh Kodnani,29.0,1.0
+nyu_1,5,False,Sania Irfan,Joel Macklin,24.0,4.0,Isaiah Suggs,27.0,2.0,Ash Rose,25.0,3.0,Jin Huang,28.0,1.0
+nyu_1,2,False,Matthew Shang,Ananth Ghosh,24.0,2.0,Anthony Corey,22.0,4.0,Ash Rose,27.0,1.0,Jin Huang,23.0,3.0
+nyu_1,3,False,Arushi Sahay,Ananth Ghosh,26.0,2.0,Anthony Corey,24.0,4.0,Luke Carstens,29.0,1.0,Melanie Snyder,25.0,3.0
+nyu_1,5,False,Andrew Choi,Ananth Ghosh,0.0,1.0,Anthony Corey,0.0,4.0,Sophia Mannina,0.0,2.0,Connor Henderson,0.0,3.0
+nyu_1,1,True,Marvellous Maeze - Cyrus Jackson,Joe Clancy,30.0,1.0,Ally Ross,29.0,2.0,Ben Stanley,26.0,3.0,Tapas Modi,25.0,4.0
+nyu_1,5,True,Nate Urban,Joe Clancy,34.0,1.0,Ally Ross,32.0,2.0,Ben Kesseler,30.0,4.0,Chris Conrad,30.0,3.0
+nyu_1,2,True,Zach Schaub,Nikhil Kishore,29.0,2.0,Cindy Wang,30.0,1.0,Ben Kesseler,25.0,3.0,Chris Conrad,25.0,4.0
+nyu_1,3,True,Zixin Liu - Sophia Di lorio - Max Neuman,Nikhil Kishore,33.0,1.0,Cindy Wang,29.0,3.0,Vignesh Valliyur,33.0,2.0,Anish Welde,29.0,4.0
+nyu_1,2,True,Cyrus Jackson,Maxwell Sheremeta,31.0,3.0,Arya Royal,33.0,1.0,James Zhang,32.0,2.0,Akshay Srinivasan,30.0,4.0
+nyu_1,4,True,Parker Snipes,Maxwell Sheremeta,28.0,3.0,Arya Royal,30.0,1.0,Nikhil Kishore,30.0,2.0,Cindy Wang,26.0,4.0
+nyu_1,5,False,Keren Benzion,Maxwell Sheremeta,27.0,4.0,Arya Royal,32.0,2.0,David Edimo,29.0,3.0,Michael Mao,33.0,1.0
+nyu_1,1,True,Keren Benzion,James Zhang,27.0,4.0,Akshay Srinivasan,29.0,1.0,Adi Ram,28.0,2.0,Zachary Lemonides,27.0,3.0
+nyu_1,5,True,Arushi Sahay,James Zhang,30.0,2.0,Akshay Srinivasan,31.0,1.0,Max Wu,27.0,4.0,Devesh Kodnani,29.0,3.0
+nyu_1,3,True,Alan Sun - Zach Schaub,Ben Koch,27.0,4.0,Hart Rapaport,29.0,1.0,Eve Fidler,28.0,3.0,Yixuan Liu,28.0,2.0
+nyu_1,4,False,Ben Wertkin - Sophia Di lorio,Ben Koch,32.0,3.0,Hart Rapaport,30.0,4.0,Joe Clancy,32.0,2.0,Ally Ross,32.0,1.0
+nyu_1,5,True,Sebastian Lopez,Ben Koch,30.0,1.0,Hart Rapaport,27.0,2.0,Eva-Marie Quinones,27.0,3.0,Will Sutherland,26.0,4.0
+nyu_1,1,True,Jaedon Abbott,Vignesh Valliyur,32.0,2.0,Anish Welde,32.0,1.0,Rick Marri,23.0,3.0,Neil Mauskar,22.0,4.0
+nyu_1,4,False,Jesse Scott,Vignesh Valliyur,29.0,3.0,Anish Welde,30.0,2.0,Ben Kesseler,33.0,1.0,Chris Conrad,27.0,4.0
+nyu_1,2,True,Nathan Frederickson,Adi Ram,34.0,1.0,Zachary Lemonides,32.0,3.0,Sagar Rao,34.0,2.0,Egor Cherniuk,26.0,4.0
+nyu_1,5,True,Jaedon Abbott,Adi Ram,32.0,1.0,Zachary Lemonides,31.0,3.0,Adnan Askari,29.0,4.0,Sarah Wheaton,31.0,2.0
+nyu_1,2,False,Keren Benzion,Max Wu,28.0,3.0,Devesh Kodnani,28.0,4.0,Joe Clancy,31.0,1.0,Ally Ross,30.0,2.0
+nyu_1,3,False,Sania Irfan,Max Wu,25.0,4.0,Devesh Kodnani,26.0,3.0,Ben Kesseler,27.0,2.0,Chris Conrad,28.0,1.0
+nyu_1,3,False,Jesse Scott,Ash Rose,25.0,3.0,Jin Huang,23.0,4.0,James Zhang,29.0,1.0,Akshay Srinivasan,28.0,2.0
+nyu_1,4,False,Tona Campbell,Ash Rose,27.0,4.0,Jin Huang,27.0,3.0,Sam Slezak,29.0,2.0,Dean Walters,30.0,1.0
+nyu_1,2,False,Elijah Brown,Rick Marri,25.0,4.0,Neil Mauskar,27.0,3.0,Alison Chan,30.0,1.0,Jake Love,27.0,2.0
+nyu_1,4,True,Zixin Liu,Rick Marri,23.0,3.0,Neil Mauskar,24.0,1.0,Daniel Silverstein,23.0,2.0,Daniel Silverstein 2,23.0,4.0
+nyu_1,1,False,Jesse Scott,Sagar Rao,26.0,3.0,Egor Cherniuk,20.0,4.0,Hannah Young,30.0,1.0,Evan Weinstein,29.0,2.0
+nyu_1,3,True,Matthew Shang,Sagar Rao,28.0,1.0,Egor Cherniuk,25.0,3.0,Chinanu Gubor,25.0,2.0,Joleigh Yim,16.0,4.0
+nyu_1,4,True,Sania Irfan,Sagar Rao,32.0,1.0,Egor Cherniuk,26.0,2.0,Spencer Kinyon,18.0,3.0,Mateen Karimi,17.0,4.0
+nyu_1,1,True,Kate Lowe,Malcolm Davis,30.0,1.0,Gillian Zipursky,30.0,2.0,Ananth Ghosh,24.0,4.0,Anthony Corey,25.0,3.0
+nyu_1,4,False,Zach Schaub,Malcolm Davis,27.0,4.0,Gillian Zipursky,28.0,3.0,Adnan Askari,28.0,2.0,Sarah Wheaton,31.0,1.0
+nyu_1,1,False,Nathan Frederickson,Alison Chan,29.0,4.0,Jake Love,31.0,2.0,Finlay Adamson,32.0,1.0,Keir Adamson,30.0,3.0
+nyu_1,4,True,Arushi Sahay,Alison Chan,30.0,1.0,Jake Love,29.0,2.0,Blake Johnston,25.0,4.0,Adam Hassoun,25.0,3.0
+nyu_1,5,False,Parker Snipes,Alison Chan,21.0,4.0,Jake Love,22.0,3.0,Luke Carstens,28.0,1.0,Melanie Snyder,24.0,2.0
+nyu_1,1,True,Matthew Shang,Sam Slezak,25.0,1.0,Dean Walters,23.0,2.0,Daniel Silverstein,22.0,3.0,Daniel Silverstein 2,22.0,4.0
+nyu_1,3,False,Elijah Brown,Sam Slezak,27.0,3.0,Dean Walters,26.0,4.0,Hannah Young,28.0,2.0,Evan Weinstein,29.0,1.0
+nyu_1,5,True,Kate Lowe,Sam Slezak,29.0,1.0,Dean Walters,26.0,4.0,Prin Baskar,28.0,2.0,Jack Freilich,27.0,3.0
+nyu_1,2,True,Max Neuman,Eve Fidler,28.0,3.0,Yixuan Liu,32.0,1.0,Sam Slezak,26.0,4.0,Dean Walters,29.0,2.0
+nyu_1,4,True,Elijah Brown,Eve Fidler,27.0,3.0,Yixuan Liu,29.0,1.0,James Zhang,28.0,2.0,Akshay Srinivasan,27.0,4.0
+nyu_1,5,True,Jesse Scott,Eve Fidler,33.0,1.0,Yixuan Liu,30.0,2.0,Nikhil Kishore,29.0,3.0,Cindy Wang,28.0,4.0
+nyu_1,2,True,Kate Lowe,Joey Schnide,29.0,4.0,Javaria Abbasi,31.0,1.0,Adnan Askari,30.0,2.0,Sarah Wheaton,30.0,3.0
+nyu_1,3,False,Keyu Liu - Parker Snipes,Joey Schnide,33.0,2.0,Javaria Abbasi,32.0,3.0,Joe Clancy,32.0,4.0,Ally Ross,35.0,1.0
+nyu_1,5,True,Ben Wertkin,Joey Schnide,33.0,1.0,Javaria Abbasi,32.0,2.0,Rick Marri,24.0,3.0,Neil Mauskar,23.0,4.0
+nyu_1,2,False,Parker Snipes,Hannah Young,30.0,2.0,Evan Weinstein,28.0,4.0,Ben Koch,29.0,3.0,Hart Rapaport,31.0,1.0
+nyu_1,4,False,Sebastian Lopez,Hannah Young,31.0,2.0,Evan Weinstein,30.0,4.0,Adi Ram,32.0,1.0,Zachary Lemonides,30.0,3.0
+nyu_1,5,True,Nick Cathcart,Hannah Young,26.0,2.0,Evan Weinstein,27.0,1.0,Dan Berardino,24.0,3.0,Luke Stoner,22.0,4.0
+nyu_1,1,False,Alan Sun - Sophia Di lorio - Max Neuman,Luke Carstens,26.0,3.0,Melanie Snyder,26.0,4.0,David Edimo,28.0,2.0,Michael Mao,29.0,1.0
+nyu_1,2,False,Andrew Choi,Luke Carstens,27.0,4.0,Melanie Snyder,28.0,2.0,Dan Berardino,27.0,3.0,Luke Stoner,28.0,1.0
+nyu_1,4,True,Nathan Frederickson,Luke Carstens,29.0,2.0,Melanie Snyder,30.0,1.0,Sophia Mannina,27.0,3.0,Connor Henderson,26.0,4.0
+nyu_1,2,True,Jaedon Abbott,Finlay Adamson,28.0,2.0,Keir Adamson,28.0,1.0,Joel Macklin,24.0,3.0,Isaiah Suggs,23.0,4.0
+nyu_1,4,False,Keren Benzion,Finlay Adamson,28.0,3.0,Keir Adamson,28.0,4.0,Eva-Marie Quinones,29.0,1.0,Will Sutherland,29.0,2.0
+nyu_1,5,True,Elijah Brown,Finlay Adamson,30.0,1.0,Keir Adamson,27.0,3.0,Sagar Rao,28.0,2.0,Egor Cherniuk,27.0,4.0
+nyu_1,1,False,Arushi Sahay,Victor Wang,27.0,3.0,Rex Xu,26.0,4.0,Eva-Marie Quinones,29.0,2.0,Will Sutherland,30.0,1.0
+nyu_1,2,True,Sania Irfan,Victor Wang,28.0,1.0,Rex Xu,27.0,2.0,Lucia Wu,17.0,4.0,Elijah Annoh- Waithe,24.0,3.0
+nyu_1,5,False,Zach Schaub,Victor Wang,24.0,3.0,Rex Xu,23.0,4.0,Vignesh Valliyur,32.0,2.0,Anish Welde,33.0,1.0
+nyu_1,1,True,Parker Snipes,Ben Kesseler,33.0,1.0,Chris Conrad,31.0,2.0,Ash Rose,26.0,3.0,Jin Huang,26.0,4.0
+nyu_1,3,True,Nathan Frederickson,Prin Baskar,29.0,2.0,Jack Freilich,29.0,1.0,Victor Wang,25.0,3.0,Rex Xu,23.0,4.0
+nyu_1,4,False,Alan Sun - Nick Cathcart,Prin Baskar,30.0,4.0,Jack Freilich,31.0,3.0,Joey Schnide,33.0,1.0,Javaria Abbasi,33.0,2.0
+nyu_1,1,False,Sebastian Lopez,Sophia Mannina,28.0,3.0,Connor Henderson,26.0,4.0,Max Wu,29.0,2.0,Devesh Kodnani,29.0,1.0
+nyu_1,2,True,Arushi Sahay,Sophia Mannina,29.0,1.0,Connor Henderson,27.0,2.0,John Kelly,25.0,4.0,Alexis Charles,26.0,3.0
+nyu_1,2,True,Zixin Liu,Ben Stanley,25.0,1.0,Tapas Modi,22.0,4.0,Chinanu Gubor,24.0,2.0,Joleigh Yim,23.0,3.0
+nyu_1,4,False,Andrew Choi,Ben Stanley,24.0,2.0,Tapas Modi,23.0,4.0,Victor Wang,25.0,1.0,Rex Xu,24.0,3.0
+nyu_1,5,True,Matthew Shang,Ben Stanley,25.0,1.0,Tapas Modi,18.0,3.0,Spencer Kinyon,21.0,2.0,Mateen Karimi,16.0,4.0
+nyu_1,1,False,Elijah Brown,Blake Johnston,26.0,3.0,Adam Hassoun,25.0,4.0,Maxwell Sheremeta,31.0,1.0,Arya Royal,29.0,2.0
+nyu_1,5,False,Nathan Frederickson,Blake Johnston,0.0,4.0,Adam Hassoun,0.0,3.0,Malcolm Davis,0.0,1.0,Gillian Zipursky,0.0,2.0
+nyu_1,1,False,Zixin Liu - Zach Schaub - Alfonso Tan,Zena Zwayyed,0.0,4.0,Mayar Darbi,0.0,3.0,Joey Schnide,0.0,1.0,Javaria Abbasi,0.0,2.0
+nyu_1,2,False,Ben Wertkin,Zena Zwayyed,20.0,3.0,Mayar Darbi,20.0,4.0,Vignesh Valliyur,34.0,2.0,Anish Welde,34.0,1.0
+nyu_1,1,False,Nassim Bahet,Lucia Wu,22.0,4.0,Elijah Annoh- Waithe,25.0,3.0,Nikhil Kishore,28.0,1.0,Cindy Wang,27.0,2.0
+nyu_1,3,False,Marvellous Maeze - Aditya Pandey,Lucia Wu,23.0,4.0,Elijah Annoh- Waithe,23.0,3.0,Adi Ram,31.0,2.0,Zachary Lemonides,31.0,1.0
+nyu_1,2,True,Aditya Pandey,David Edimo,34.0,1.0,Michael Mao,34.0,3.0,Malcolm Davis,34.0,2.0,Gillian Zipursky,31.0,4.0
+nyu_1,3,True,Cyrus Jackson - Nassim Bahet,David Edimo,31.0,2.0,Michael Mao,32.0,1.0,Finlay Adamson,30.0,3.0,Keir Adamson,29.0,4.0

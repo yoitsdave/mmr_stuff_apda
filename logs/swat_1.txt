@@ -1,0 +1,80 @@
+********************************************************************************
+Tournament: swat_1
+********************************************************************************
+--------------------------------------------------------------------------------
+A team appeared on opp that didnt appear on gov - this usually indicates unicode
+fuckery. manually exclude this team by setting --ignore [DEBATER ON THE TEAM].
+After rerunning with that setting, you can safely ignore this warning. It will 
+keep coming after all teams are excluded - sorry!
+--------------------------------------------------------------------------------
+The following teams were parsed abnormally and may have come out funky:
+You Know Nothing FirstOnPage 
+Chaos Is A Ladder SecondOnPage 
+For The Watch (8, 9)
+Hopkins Vax All the Kids FirstOnPage 
+Hopkins Wine and Vodka SecondOnPage 
+Hopkins MUN Sucks FirstOnPage 
+Hopkins GW Hybrid SecondOnPage 
+Ice In My Veins FirstOnPage 
+Hopkins BUNS SecondOnPage 
+Oxford/Penn Billy Goes To Britain SecondOnPage 
+Haverford DoofenRotten FirstOnPage (8, 9)
+Bing/Swat Gov Counterterrorism SecondOnPage (8, 9)
+Binghamton Toxic Immasculinity FirstOnPage 
+GU Really Cool FirstOnPage 
+Bing/CUNY What is Love SecondOnPage 
+Georgetown KW FirstOnPage 
+Binghamton Boah Constrictors SecondOnPage 
+GU PS FirstOnPage 
+GW/GU Big DC Energy SecondOnPage 
+Rutgers Mommy and Her Special Best Boy FirstOnPage 
+Rutgers Horse Girls FirstOnPage 
+Rutgers RA SecondOnPage 
+Princeton Mind and Body SecondOnPage 
+Princeton MT FirstOnPage 
+Wuju SecondOnPage 
+GW BR FirstOnPage 
+GW SP SecondOnPage 
+GW Southern Asian Persuasion FirstOnPage 
+GW Tech N9's angels SecondOnPage 
+GW eat ass and take names SecondOnPage 
+AU/GW KT FirstOnPage (8, 9)
+Villagers in the Suburbs SecondOnPage (8, 9)
+AU Scared of Duvet Covers FirstOnPage 
+AU Big Cuatro SecondOnPage 
+AU Knocked in the Car FirstOnPage (8, 9)
+AU Catapault Volunteers SecondOnPage (8, 9)
+Stanford HL FirstOnPage 
+Stanford MN SecondOnPage 
+Stanford AK FirstOnPage (8, 9)
+Yale BK FirstOnPage 
+Yale CS SecondOnPage 
+Peaked at SwatNov FirstOnPage 
+The Pawnee Goddesses FirstOnPage 
+Qual or Go to the League SecondOnPage 
+DJ D-Sol (8, 9)
+Betty and Jughead FirstOnPage 
+GU Realy Cool SecondOnPage 
+Ginger_ beard_ and lime FirstOnPage 
+Sparks Joy SecondOnPage 
+WM Snarkboy and Sraavagirl FirstOnPage 
+WM WM SecondOnPage 
+WM A Priori FirstOnPage 
+WM LA SecondOnPage 
+WM Finance Bros FirstOnPage 
+Penn Alex on APDA SecondOnPage 
+Harvard CR FirstOnPage 
+Yale HS SecondOnPage 
+GW (Joji Remix) FirstOnPage 
+Swing SecondOnPage 
+--------------------------------------------------------------------------------
+The following teams failed and need to be added manually:
+Yale Ash and Misty
+Yale Ash and Misty
+chocolate vanilla swirl w/ cookie crunch pls
+chocolate vanilla swirl w/ cookie crunch pls
+('SarahWheaton', '1')
+('MalcolmDavis', '3')
+('HarrisonKern', '1')
+('AdiJayakrishnan', '3')
+--------------------------------------------------------------------------------

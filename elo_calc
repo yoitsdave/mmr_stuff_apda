@@ -1,0 +1,114 @@
+#!/usr/bin/env python3
+
+import click
+import os.path
+import trueskill
+import itertools
+import math
+
+WEEKENDS = [
+    ("uva_1",),
+    ("deis_1", "wm_1"),
+    ("smith_1", "pitt_1"),
+    ("umd_1", "columbia_1"),
+    ("harvard_1",),
+    ("tufts_1", "gw_1"),
+    ("rut_1",),
+    ("tcnj_1",),
+    ("penn_1", "brown_1"),
+    ("fordham_1", "mb_1"),
+    ("haverford_1",),
+    ("wesleyan_1",),
+    ("wp_1",),
+    ("tufts_2", "cmu_1"),
+    ("deis_2", "nova_1"),
+    ("gu_1", "bates_1"),
+    ("chicago_1", "bing_1", "uva_2"),
+    ("bu_1", "nyu_1"),
+    ("fandm_1", "wds_1"),
+    ("brown_2", "wm_2", "temple_1"),
+    ("stanford_1",),
+    ("au_1", "nu_1"),
+    ("princeton_1",),
+    ("providence_1", "swat_1"),
+    ("dartmouth_1", "tcnj_2"),
+]
+
+class EloSim():
+    def __init__(self):
+        self.ts = trueskill.TrueSkill(draw_probability=0, tau=0.30, mu=100, sigma=30, beta=70)
+        self.debaters = {}
+        self.debaters["empty"] = self.ts.Rating()
+    def add_debater(self, debater): #no-op if debater already exists
+        if debater not in self.debaters:
+            self.debaters[debater] = self.ts.Rating()
+    def record_ranks(self, ranks, gov_left, gov_right, opp_left, opp_right):
+        debaters = ([self.debaters[gov_left]], [self.debaters[gov_right]], 
+                    [self.debaters[opp_left]], [self.debaters[opp_right]])
+        new_gl, new_gr, new_ol, new_or = self.ts.rate(debaters, ranks)
+        (self.debaters[gov_left], self.debaters[gov_right]) = new_gl[0], new_gr[0]
+        (self.debaters[opp_left], self.debaters[opp_right]) = new_ol[0], new_or[0]
+    def add_new_results(self, data):
+        for line in data:
+            tourney,round,gov_win,judge,gov_left,speaks1,ranks1, \
+            gov_right,speaks2,ranks2,opp_left,speaks3,ranks3, \
+            opp_right,speaks4,ranks4 = line.split(",")
+            self.add_debater(gov_left)
+            self.add_debater(gov_right)
+            self.add_debater(opp_left)
+            self.add_debater(opp_right)
+            #self.record_round(gov_win, gov_left, gov_right, opp_left, opp_right)
+            ranks = [float(rank)-1 for rank in [ranks1, ranks2, ranks3, ranks4]]
+            self.record_ranks(ranks, gov_left, gov_right, opp_left, opp_right)
+    def print_top_n(self, n):
+        in_order = sorted(self.debaters.items(), key=lambda x: self.ts.expose(x[1]), reverse=True)
+        for i, tup in enumerate(in_order[:n]):
+            print(i+1, " - ", tup[0], "(" + str(tup[1]) + ")")
+    def win_chance(self, a_l, a_r, b_l, b_r):
+        a = (self.debaters[a_l], self.debaters[a_r])
+        b = (self.debaters[b_l], self.debaters[b_r])
+        delta_mu = sum(r.mu for r in a) - sum(r.mu for r in b)
+        sum_sigma = sum(r.sigma ** 2 for r in itertools.chain(a, b))
+        size = len(a) + len(b)
+        denom = math.sqrt(size * (self.ts.beta * self.ts.beta) + sum_sigma)
+        return self.ts.cdf(delta_mu / denom)
+    def sort_score(self, *debater_names):
+        debaters = [(name, self.debaters[name]) for name in debater_names]
+        in_order = sorted(debaters, key=lambda x: self.ts.expose(x[1]), reverse=True)
+        for i, tup in enumerate(in_order):
+            print(i+1, " - ", tup[0], "(" + str(tup[1]) + ")")
+    def score_team(self, names):
+        return self.win_chance(names[0], names[1], "empty", "empty")
+    def sort_teams(self, *team_names):
+        return sorted(team_names, key=self.score_team, reverse=True)
+
+        
+            
+@click.command()
+@click.argument("csv_folder", type=click.Path(exists=True))
+def run_elo_sim(csv_folder):
+    sim = EloSim()
+    for i, weekend in enumerate(WEEKENDS):
+        for tourney in weekend:
+            if os.path.exists(csv_folder + "/" + tourney + ".csv"):
+                with open(csv_folder + "/" + tourney + ".csv", "r") as f:
+                    data = f.readlines()
+                    sim.add_new_results(data)
+        #print("Week", i, "rankings, after", *weekend)
+        #sim.print_top_n(10)
+        #print("-"*80)
+    sim.print_top_n(25)
+    #print(sim.win_chance("Joe Clancy", "Ally Ross", "Jay Levy", "Adlee Heshmat"))
+    team = input("Names: ")
+    teams = []
+    while team != "":
+        a, b = team.split(", ")
+        teams.append((a, b))
+        team = input("Names: ")
+    results = sim.sort_teams(*teams)
+    for i, tup in enumerate(results):
+        print(i+1, " - ", tup)
+
+
+if __name__ == "__main__":
+    run_elo_sim()

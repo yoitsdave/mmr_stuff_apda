@@ -1,0 +1,44 @@
+wm_1,1,True,Evan Dotas,Jay Gibbs,32.0,1.0,Drew Harrington,32.0,2.0,Jon Mann,27.0,4.0,Nathan Master,28.0,3.0
+wm_1,3,True,Jessica Berry,Jay Gibbs,31.0,1.0,Drew Harrington,30.0,2.0,Ron Mucci,24.0,4.0,Jackson Utley,26.0,3.0
+wm_1,4,True,Sraavya Poonuganti,Jay Gibbs,31.0,3.0,Drew Harrington,33.0,1.0,Jared Stone,31.0,4.0,Javaria Abbasi,33.0,2.0
+wm_1,2,False,Jessica Berry,Adi Ram,30.0,3.0,Alex Shura,28.0,4.0,Ally Ross,32.0,1.0,Joe Clancy,32.0,2.0
+wm_1,3,True,Amelia Koby,Adi Ram,31.0,1.0,Alex Shura,27.0,4.0,Claire Hungar,28.0,3.0,Sean Wells,29.0,2.0
+wm_1,1,False,Eve Fidler,Joey Schnide,32.0,2.0,Koji Flynn- Do,30.0,4.0,Ben Kessler,33.0,1.0,Mitchell Mullen,31.0,3.0
+wm_1,4,True,Evan Dotas,Joey Schnide,33.0,1.0,Koji Flynn- Do,30.0,3.0,Adi Ram,32.0,2.0,Alex Shura,26.0,4.0
+wm_1,5,True,Jessica Berry,Joey Schnide,34.0,1.0,Koji Flynn- Do,32.0,4.0,Jared Stone,33.0,3.0,Javaria Abbasi,33.0,2.0
+wm_1,2,False,Eve Fidler,Rachel Kane,32.0,2.0,Matt Cryer,29.0,4.0,Jay Gibbs,33.0,1.0,Drew Harrington,32.0,3.0
+wm_1,3,True,Wesley Garner,Rachel Kane,28.0,2.0,Matt Cryer,28.0,1.0,Will Duanmu,27.0,4.0,Anthony Palacio,27.0,3.0
+wm_1,2,False,Wesley Garner,Evan Rosenbaum,27.0,3.0,Yehna Bendul,26.0,4.0,Jon Mann,27.0,2.0,Nathan Master,28.0,1.0
+wm_1,4,True,Eve Fidler,Evan Rosenbaum,29.0,1.0,Yehna Bendul,28.0,3.0,Will Duanmu,28.0,2.0,Anthony Palacio,27.0,4.0
+wm_1,5,False,Rajul Bothra,Evan Rosenbaum,29.0,4.0,Yehna Bendul,30.0,2.0,Adi Ram,31.0,1.0,Alex Shura,30.0,3.0
+wm_1,1,True,Rajul Bothra,Nate Sumimoto,32.0,1.0,Parker Kelly,30.0,2.0,Will Duanmu,30.0,3.0,Anthony Palacio,28.0,4.0
+wm_1,2,True,Sraavya Poonuganti,Nate Sumimoto,29.0,1.0,Parker Kelly,28.0,2.0,Ron Mucci,23.0,4.0,Jackson Utley,24.0,3.0
+wm_1,5,True,Wesley Garner,Nate Sumimoto,28.0,2.0,Parker Kelly,29.0,1.0,Ben Kessler,28.0,3.0,Mitchell Mullen,27.0,4.0
+wm_1,1,False,Wesley Garner,Taleen Khleifat,26.0,4.0,Stephanie Purwanto,27.0,3.0,Adi Ram,29.0,1.0,Alex Shura,28.0,2.0
+wm_1,5,False,Elmira Adili,Taleen Khleifat,25.0,4.0,Stephanie Purwanto,27.0,3.0,Will Donnelly,28.0,1.0,David Arnold,28.0,2.0
+wm_1,3,False,Sraavya Poonuganti,Jon Mann,28.0,4.0,Nathan Master,29.0,3.0,Joey Schnide,32.0,1.0,Koji Flynn- Do,31.0,2.0
+wm_1,4,False,Amelia Koby,Jon Mann,25.0,4.0,Nathan Master,26.0,3.0,Nate Sumimoto,30.0,2.0,Parker Kelly,31.0,1.0
+wm_1,1,False,Jessica Berry,Katelynn Warmbold,24.0,4.0,Jacob Atkins,27.0,2.0,Claire Hungar,29.0,1.0,Sean Wells,26.0,3.0
+wm_1,3,False,Matthew Wilson,Katelynn Warmbold,29.0,3.0,Jacob Atkins,29.0,4.0,Evan Rosenbaum,31.0,2.0,Yehna Bendul,31.0,1.0
+wm_1,1,True,Jared Gaby- Biegel,Jared Stone,34.0,2.0,Javaria Abbasi,34.0,1.0,Nikhil Kishore,33.0,3.0,Cindy Wang,32.0,4.0
+wm_1,2,True,Lydia Kim,Jared Stone,32.0,2.0,Javaria Abbasi,33.0,1.0,Cayleigh Soderholm,30.0,3.0,Leah Block,30.0,4.0
+wm_1,3,True,Evan Dotas,Jared Stone,34.0,2.0,Javaria Abbasi,34.0,1.0,Nate Sumimoto,34.0,4.0,Parker Kelly,34.0,3.0
+wm_1,2,False,Ciera Killen,Will Donnelly,23.0,4.0,David Arnold,23.0,3.0,Joey Schnide,33.0,1.0,Koji Flynn- Do,31.0,2.0
+wm_1,4,False,Wesley Garner,Will Donnelly,24.0,3.0,David Arnold,24.0,4.0,Katelynn Warmbold,24.0,2.0,Jacob Atkins,25.0,1.0
+wm_1,2,True,Rajul Bothra,Nikhil Kishore,30.0,1.0,Cindy Wang,29.0,2.0,Katelynn Warmbold,28.0,4.0,Jacob Atkins,29.0,3.0
+wm_1,3,True,Eve Fidler,Nikhil Kishore,31.0,1.0,Cindy Wang,29.0,3.0,Will Donnelly,29.0,2.0,David Arnold,26.0,4.0
+wm_1,1,True,Sraavya Poonuganti,Ally Ross,32.0,1.0,Joe Clancy,31.0,2.0,Evan Rosenbaum,28.0,3.0,Yehna Bendul,27.0,4.0
+wm_1,4,True,Aba Tieku,Ally Ross,32.0,1.0,Joe Clancy,31.0,2.0,Rachel Kane,29.0,4.0,Matt Cryer,31.0,3.0
+wm_1,5,True,Amelia Koby,Ally Ross,33.0,2.0,Joe Clancy,33.0,1.0,Jay Gibbs,32.0,3.0,Drew Harrington,32.0,4.0
+wm_1,2,True,Matthew Wilson,Will Duanmu,28.0,2.0,Anthony Palacio,28.0,1.0,Taleen Khleifat,26.0,4.0,Stephanie Purwanto,26.0,3.0
+wm_1,5,False,Amelia Larson,Will Duanmu,30.0,2.0,Anthony Palacio,29.0,4.0,Cayleigh Soderholm,31.0,1.0,Leah Block,29.0,3.0
+wm_1,1,False,Ciera Killen,Cayleigh Soderholm,25.0,4.0,Leah Block,25.0,3.0,Rachel Kane,26.0,1.0,Matt Cryer,25.0,2.0
+wm_1,3,True,Rajul Bothra,Cayleigh Soderholm,31.0,1.0,Leah Block,30.0,2.0,Taleen Khleifat,26.0,4.0,Stephanie Purwanto,29.0,3.0
+wm_1,2,False,Evan Dotas,Claire Hungar,27.0,4.0,Sean Wells,29.0,2.0,Ben Kessler,30.0,1.0,Mitchell Mullen,28.0,3.0
+wm_1,4,True,Amelia Larson,Claire Hungar,29.0,1.0,Sean Wells,28.0,2.0,Taleen Khleifat,25.0,3.0,Stephanie Purwanto,24.0,4.0
+wm_1,5,True,Matthew Wilson,Claire Hungar,28.0,2.0,Sean Wells,29.0,1.0,Rachel Kane,26.0,4.0,Matt Cryer,27.0,3.0
+wm_1,1,True,Lydia Kim,Ron Mucci,29.0,1.0,Jackson Utley,29.0,2.0,Will Donnelly,27.0,3.0,David Arnold,26.0,4.0
+wm_1,4,True,Jared Gaby- Biegel,Ron Mucci,30.0,4.0,Jackson Utley,32.0,1.0,Cayleigh Soderholm,31.0,2.0,Leah Block,31.0,3.0
+wm_1,5,True,Evan Dotas,Ron Mucci,27.0,2.0,Jackson Utley,27.0,3.0,Nikhil Kishore,26.0,4.0,Cindy Wang,28.0,1.0
+wm_1,3,False,Lydia Kim,Ben Kessler,32.0,2.0,Mitchell Mullen,32.0,4.0,Ally Ross,32.0,1.0,Joe Clancy,32.0,3.0
+wm_1,4,True,Jessica Berry,Ben Kessler,32.0,1.0,Mitchell Mullen,32.0,2.0,Nikhil Kishore,30.0,4.0,Cindy Wang,30.0,3.0

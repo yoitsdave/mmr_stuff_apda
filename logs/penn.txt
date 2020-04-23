@@ -1,0 +1,41 @@
+Unexpected shape: (5, 8)
+Unexpected shape: (2, 8)
+Unexpected shape: (5, 8)
+Unexpected shape: (1, 4)
+Unexpected shape: (6, 8)
+Unexpected shape: (6, 8)
+Unexpected shape: (6, 8)
+Unexpected shape: (1, 4)
+********************************************************************************
+Tournament: penn
+********************************************************************************
+--------------------------------------------------------------------------------
+A team appeared on opp that didnt appear on gov - this usually indicates unicode
+fuckery. manually exclude this team by setting --ignore [DEBATER ON THE TEAM].
+After rerunning with that setting, you can safely ignore this warning. It will 
+keep coming after all teams are excluded - sorry!
+--------------------------------------------------------------------------------
+The following teams were parsed abnormally and may have come out funky:
+
+--------------------------------------------------------------------------------
+The following teams failed and need to be added manually:
+Unknown card of shape (5, 8)
+Unknown card of shape (2, 8)
+Unknown card of shape (5, 8)
+Unknown card of shape (1, 4)
+Unknown card of shape (6, 8)
+Unknown card of shape (6, 8)
+Unknown card of shape (6, 8)
+Unknown card of shape (1, 4)
+('CaitlynKim', '4')
+('KasraKhadem-MackenzieTran', '2')
+('ToriBorlase', '5')
+('DanteDiggs-ShreyoshiDas', '1')
+('PeterMao', '1')
+('ShreyoshiDas-SzilveszterPalvolgyi', '3')
+('AlexaRoss', '5')
+('KayaPanchalingam', '5')
+('AndrewSouther', '3')
+('JoeAnderson', '3')
+('EthanKnox', '5')
+--------------------------------------------------------------------------------

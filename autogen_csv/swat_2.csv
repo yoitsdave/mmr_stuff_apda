@@ -1,0 +1,95 @@
+swat_2,1,False,Will Meyer,Isabella Sorial,29.0,3.0,Jonas Poggi,28.0,4.0,An Lanh Le,31.0,1.0,Shreyas Kumar,30.0,2.0
+swat_2,4,False,Jeffrey Yin,Isabella Sorial,30.0,3.0,Jonas Poggi,29.0,4.0,Muzammil Godil,32.0,1.0,Oliver McCammon,31.0,2.0
+swat_2,5,True,Matt Donaghy,Isabella Sorial,29.0,2.0,Jonas Poggi,32.0,1.0,Caroline Gihlstorf,27.0,4.0,Lily Li,27.0,3.0
+swat_2,2,True,Cami Brix,Dominic DeRamo,31.0,1.0,Harin Ok,30.0,2.0,Isabella Sorial,29.0,3.0,Jonas Poggi,28.0,4.0
+swat_2,4,False,Sagar Rao,Dominic DeRamo,29.0,3.0,Harin Ok,28.0,4.0,Rachel Pepper,30.0,2.0,Rachel Robbin,30.0,1.0
+swat_2,2,True,Parker Snipes,Ethan Liu,31.0,1.0,Harshit Bhasin,28.0,3.0,Elizabeth Greer,31.0,2.0,Jake Lowe,28.0,4.0
+swat_2,4,False,Sam Wang,Ethan Liu,26.0,3.0,Harshit Bhasin,27.0,2.0,Dhafer Muhammed,29.0,1.0,Gaeun Kim,25.0,4.0
+swat_2,1,True,Gaven Green,Kristen Buckholt,29.0,3.0,Stephanie Purwanto,30.0,1.0,Lucy Augustine,28.0,4.0,Sania Shahid,29.0,2.0
+swat_2,5,False,Gillian Zipursky,Kristen Buckholt,29.0,4.0,Stephanie Purwanto,31.0,2.0,Rachel Pepper,31.0,1.0,Rachel Robbin,29.0,3.0
+swat_2,1,False,Sam Wang,Andrew Harding,27.0,4.0,Spencer Yost-Wolff,28.0,3.0,Daniel Ju,31.0,1.0,Greg Weaving,30.0,2.0
+swat_2,3,True,Akshay Srinivasan,Andrew Harding,28.0,2.0,Spencer Yost-Wolff,29.0,1.0,Dominic DeRamo,24.0,4.0,Harin Ok,25.0,3.0
+swat_2,3,True,Annie Hu,Elizabeth Greer,31.0,1.0,Jake Lowe,31.0,2.0,Jared Sloan,29.0,3.0,Karan Makkar,27.0,4.0
+swat_2,4,False,Joe Clancy,Elizabeth Greer,31.0,2.0,Jake Lowe,27.0,4.0,Anantha Kashibhatla,27.0,3.0,Jessica Han,31.0,1.0
+swat_2,3,True,Caroline Sagristano,Grace Luckett,31.0,1.0,Zara Mermon,30.0,3.0,Rachel Pepper,30.0,4.0,Rachel Robbin,30.0,2.0
+swat_2,4,False,Caroline Sagristano - Miriam Pierson,Grace Luckett,33.0,3.0,Zara Mermon,32.0,4.0,Romina Lilollari,33.0,1.0,Ye Joo Han,33.0,2.0
+swat_2,5,True,Sam Wang,Grace Luckett,28.0,2.0,Zara Mermon,28.0,1.0,Claire Raulston,27.0,3.0,Julia Cunningham,27.0,4.0
+swat_2,1,True,Jeffrey Yin,Claire Raulston,30.0,1.0,Julia Cunningham,29.0,3.0,Dominic DeRamo,29.0,2.0,Harin Ok,28.0,4.0
+swat_2,2,False,Annie Hu - Patrick Holland,Claire Raulston,29.0,3.0,Julia Cunningham,25.0,4.0,Drew Harrington,31.0,1.0,Josh Neudorf,31.0,2.0
+swat_2,1,True,Kyle Lee,Romina Lilollari,29.0,2.0,Ye Joo Han,30.0,1.0,Emmanuel Yamba,29.0,3.0,Miles Richardson,27.0,4.0
+swat_2,3,False,Annie Abruzzo,Romina Lilollari,31.0,2.0,Ye Joo Han,30.0,3.0,An Lanh Le,30.0,4.0,Shreyas Kumar,31.0,1.0
+swat_2,5,True,Alex Johnson,Romina Lilollari,34.0,1.0,Ye Joo Han,34.0,2.0,Lucia Yang,28.0,3.0,Maxwell Sheremata,24.0,4.0
+swat_2,2,False,Maya Smith,Caroline Gihlstorf,27.0,4.0,Lily Li,28.0,3.0,Lucia Yang,31.0,2.0,Maxwell Sheremata,31.0,1.0
+swat_2,4,False,Gillian Zipursky,Caroline Gihlstorf,28.0,3.0,Lily Li,27.0,4.0,Emmanuel Murphy,31.0,1.0,Oliver Gainer,31.0,2.0
+swat_2,4,True,Gabriel Straus,Jared Sloan,27.0,4.0,Karan Makkar,29.0,1.0,Isabella Rocco,27.0,3.0,Mario Aguirre,28.0,2.0
+swat_2,5,False,Kate Santarelli,Jared Sloan,28.0,4.0,Karan Makkar,28.0,3.0,Ethan Liu,30.0,1.0,Harshit Bhasin,29.0,2.0
+swat_2,5,True,Sagar Rao,Muzammil Godil,30.0,1.0,Oliver McCammon,29.0,2.0,Laurenn Vives,28.0,4.0,Teddy Wyman,29.0,3.0
+swat_2,1,True,Sarah Wheaton,Cayleigh Soderholm,31.0,1.0,Sergio Valente,30.0,2.0,Caroline Gihlstorf,26.0,4.0,Lily Li,27.0,3.0
+swat_2,2,True,Gillian Zipursky,Cayleigh Soderholm,31.0,1.0,Sergio Valente,31.0,3.0,Amna Amin,31.0,2.0,Jane Mentzinger,30.0,4.0
+swat_2,4,True,Akshay Srinivasan,Cayleigh Soderholm,34.0,1.0,Sergio Valente,33.0,2.0,Fletcher Calcagno,32.0,4.0,Robin Gloss,33.0,3.0
+swat_2,2,False,Jeffrey Yin,Peter Mao,29.0,3.0,Sean Oddoye,30.0,2.0,Anantha Kashibhatla,29.0,4.0,Jessica Han,32.0,1.0
+swat_2,4,False,Kyle Lee,Peter Mao,27.0,4.0,Sean Oddoye,30.0,2.0,Claire Raulston,31.0,1.0,Julia Cunningham,28.0,3.0
+swat_2,5,False,Jay Leeds,Peter Mao,28.0,4.0,Sean Oddoye,31.0,2.0,Emmanuel Yamba,32.0,1.0,Miles Richardson,29.0,3.0
+swat_2,3,True,Sam Wang,Alexander Chang,26.0,3.0,Vara Mathiyalakan,29.0,1.0,Anna Newell,24.0,4.0,Caitlin Bourke,28.0,2.0
+swat_2,5,True,Maya Smith,Alexander Chang,31.0,1.0,Vara Mathiyalakan,30.0,3.0,Lucy Augustine,30.0,4.0,Sania Shahid,31.0,2.0
+swat_2,1,True,Jay Leeds,Anna Newell,32.0,1.0,Caitlin Bourke,29.0,3.0,Fletcher Calcagno,28.0,4.0,Robin Gloss,31.0,2.0
+swat_2,4,False,Maya Smith,Anna Newell,32.0,2.0,Caitlin Bourke,32.0,4.0,Lena Lofgren,32.0,3.0,Tori Borlase,32.0,1.0
+swat_2,2,False,Gabriel Straus,Emmanuel Yamba,26.0,3.0,Miles Richardson,23.0,4.0,Devesh Kodnani,33.0,1.0,Max Wu,32.0,2.0
+swat_2,3,False,Will Meyer,Emmanuel Yamba,25.0,3.0,Miles Richardson,23.0,4.0,Shreyoshi Das,31.0,2.0,Tvisha Malik,32.0,1.0
+swat_2,1,False,Annie Abruzzo,Devesh Kodnani,28.0,4.0,Max Wu,31.0,2.0,Grace Luckett,31.0,1.0,Zara Mermon,29.0,3.0
+swat_2,3,True,Sagar Rao,Devesh Kodnani,31.0,2.0,Max Wu,31.0,1.0,Claire Raulston,28.0,3.0,Julia Cunningham,28.0,4.0
+swat_2,5,True,Eddie Jones,Devesh Kodnani,33.0,2.0,Max Wu,34.0,1.0,Shreyoshi Das,29.0,3.0,Tvisha Malik,29.0,4.0
+swat_2,2,True,Catherine Wang - Nate Urban,Chris Conrad,29.0,1.0,Lex Jiganti,24.0,4.0,Laurenn Vives,24.0,3.0,Teddy Wyman,28.0,2.0
+swat_2,5,True,Sarah Wheaton,Chris Conrad,32.0,1.0,Lex Jiganti,28.0,4.0,Emmanuel Murphy,30.0,2.0,Oliver Gainer,30.0,3.0
+swat_2,1,False,Cami Brix,Kelan Liu,29.0,3.0,Stephanie Callahan,27.0,4.0,Sarem Leghari,30.0,2.0,Yixuan Liu,31.0,1.0
+swat_2,3,False,Catherine Wang,Kelan Liu,24.0,4.0,Stephanie Callahan,24.0,3.0,Dhafer Muhammed,28.0,2.0,Gaeun Kim,29.0,1.0
+swat_2,5,False,Jeffrey Yin,Kelan Liu,29.0,3.0,Stephanie Callahan,29.0,4.0,Elizabeth Greer,31.0,1.0,Jake Lowe,30.0,2.0
+swat_2,1,True,Shelby Amato,Laurenn Vives,30.0,3.0,Teddy Wyman,31.0,2.0,Peter Mao,32.0,1.0,Sean Oddoye,28.0,4.0
+swat_2,4,False,Sarah Wheaton,Laurenn Vives,28.0,4.0,Teddy Wyman,31.0,3.0,Devesh Kodnani,32.0,1.0,Max Wu,31.0,2.0
+swat_2,1,True,Gillian Zipursky,Anish Welde,33.0,1.0,Vignesh Valliyur,31.0,2.0,Isabella Rocco,27.0,3.0,Mario Aguirre,27.0,4.0
+swat_2,3,True,Eddie Jones,Anish Welde,32.0,1.0,Vignesh Valliyur,31.0,2.0,Chris Conrad,29.0,3.0,Lex Jiganti,27.0,4.0
+swat_2,5,True,Will Meyer,Anish Welde,33.0,2.0,Vignesh Valliyur,33.0,1.0,Cayleigh Soderholm,31.0,3.0,Sergio Valente,31.0,4.0
+swat_2,2,False,Akshay Srinivasan,Shreyoshi Das,32.0,2.0,Tvisha Malik,30.0,4.0,Alex Hanna,32.0,1.0,Tierney Egan,30.0,3.0
+swat_2,4,True,Gaven Green - Patrick Holland,Shreyoshi Das,32.0,2.0,Tvisha Malik,33.0,1.0,Alexander Chang,31.0,3.0,Vara Mathiyalakan,31.0,4.0
+swat_2,3,False,Jeffrey Yin,Lena Lofgren,30.0,2.0,Tori Borlase,30.0,4.0,Lucy Augustine,31.0,1.0,Sania Shahid,30.0,3.0
+swat_2,5,True,Adi Jayakrishnan,Lena Lofgren,29.0,2.0,Tori Borlase,30.0,1.0,Andrew Harding,28.0,4.0,Spencer Yost-Wolff,28.0,3.0
+swat_2,2,True,Hannah Bartoshesky,Fletcher Calcagno,32.0,1.0,Robin Gloss,32.0,2.0,Kelan Liu,30.0,3.0,Stephanie Callahan,28.0,4.0
+swat_2,3,True,Parker Snipes,Fletcher Calcagno,28.0,2.0,Robin Gloss,29.0,1.0,David Morales Lam,25.0,3.0,Sebastian Bryant,24.0,4.0
+swat_2,2,True,Sagar Rao,An Lanh Le,31.0,2.0,Shreyas Kumar,32.0,1.0,Alexander Chang,31.0,3.0,Vara Mathiyalakan,31.0,4.0
+swat_2,4,True,Jake Grande - Nate Urban,An Lanh Le,32.0,1.0,Shreyas Kumar,30.0,2.0,Anish Welde,29.0,4.0,Vignesh Valliyur,29.0,3.0
+swat_2,1,True,Hannah Bartoshesky,Amna Amin,30.0,2.0,Jane Mentzinger,31.0,1.0,Ethan Liu,29.0,4.0,Harshit Bhasin,30.0,3.0
+swat_2,3,False,Cami Brix,Amna Amin,30.0,3.0,Jane Mentzinger,29.0,4.0,Kristen Buckholt,31.0,2.0,Stephanie Purwanto,32.0,1.0
+swat_2,1,True,Annie Hu,Rachel Pepper,30.0,1.0,Rachel Robbin,29.0,2.0,Muzammil Godil,26.0,4.0,Oliver McCammon,27.0,3.0
+swat_2,2,True,Sarah Wheaton,Daniel Ju,31.0,2.0,Greg Weaving,32.0,1.0,Grace Luckett,30.0,3.0,Zara Mermon,28.0,4.0
+swat_2,3,True,Jake Grande - Patrick Holland,Daniel Ju,34.0,1.0,Greg Weaving,34.0,2.0,Tiffany Yuan,33.0,3.0,Wingel Xue,33.0,4.0
+swat_2,4,True,Kate Santarelli - Will Meyer,Daniel Ju,33.0,1.0,Greg Weaving,32.0,3.0,Sarem Leghari,31.0,4.0,Yixuan Liu,32.0,2.0
+swat_2,1,False,Catherine Wang,Anantha Kashibhatla,27.0,4.0,Jessica Han,28.0,3.0,David Morales Lam,29.0,1.0,Sebastian Bryant,28.0,2.0
+swat_2,3,False,Sarah Wheaton,Anantha Kashibhatla,27.0,4.0,Jessica Han,30.0,3.0,Lucia Yang,30.0,2.0,Maxwell Sheremata,32.0,1.0
+swat_2,5,False,Akshay Srinivasan,Anantha Kashibhatla,29.0,4.0,Jessica Han,30.0,3.0,Amna Amin,32.0,2.0,Jane Mentzinger,33.0,1.0
+swat_2,2,False,Shelby Amato,Isabella Rocco,29.0,4.0,Mario Aguirre,30.0,3.0,Emmanuel Murphy,32.0,1.0,Oliver Gainer,31.0,2.0
+swat_2,3,False,Kate Santarelli,Isabella Rocco,26.0,4.0,Mario Aguirre,29.0,2.0,Peter Mao,30.0,1.0,Sean Oddoye,28.0,3.0
+swat_2,1,False,Megan Wu,Dhafer Muhammed,30.0,3.0,Gaeun Kim,30.0,4.0,Shreyoshi Das,31.0,2.0,Tvisha Malik,31.0,1.0
+swat_2,2,False,Jay Leeds,Dhafer Muhammed,28.0,4.0,Gaeun Kim,28.0,3.0,Andrew Harding,31.0,2.0,Spencer Yost-Wolff,32.0,1.0
+swat_2,5,False,Joe Clancy,Dhafer Muhammed,31.0,3.0,Gaeun Kim,31.0,4.0,Fletcher Calcagno,32.0,2.0,Robin Gloss,32.0,1.0
+swat_2,1,False,Akshay Srinivasan,Lucia Yang,31.0,3.0,Maxwell Sheremata,31.0,4.0,Tiffany Yuan,31.0,2.0,Wingel Xue,32.0,1.0
+swat_2,4,True,Eddie Jones,Lucia Yang,30.0,2.0,Maxwell Sheremata,31.0,1.0,Kristen Buckholt,28.0,3.0,Stephanie Purwanto,27.0,4.0
+swat_2,2,True,Joe Clancy,Tiffany Yuan,31.0,2.0,Wingel Xue,31.0,1.0,Kristen Buckholt,29.0,4.0,Stephanie Purwanto,29.0,3.0
+swat_2,4,True,Caroline Sagristano - Miles Saffran,Tiffany Yuan,33.0,2.0,Wingel Xue,34.0,1.0,Chris Conrad,28.0,3.0,Lex Jiganti,27.0,4.0
+swat_2,1,True,Sagar Rao,Drew Harrington,32.0,1.0,Josh Neudorf,32.0,2.0,Jared Sloan,28.0,4.0,Karan Makkar,29.0,3.0
+swat_2,4,True,Matt Donaghy,Drew Harrington,30.0,3.0,Josh Neudorf,32.0,1.0,Andrew Harding,29.0,4.0,Spencer Yost-Wolff,30.0,2.0
+swat_2,5,True,Jake Grande - Miles Saffran,Drew Harrington,33.0,1.0,Josh Neudorf,30.0,3.0,Sarem Leghari,28.0,4.0,Yixuan Liu,32.0,2.0
+swat_2,2,False,Sam Wang,David Morales Lam,30.0,3.0,Sebastian Bryant,29.0,4.0,Anish Welde,32.0,2.0,Vignesh Valliyur,33.0,1.0
+swat_2,4,False,Adi Jayakrishnan,David Morales Lam,29.0,3.0,Sebastian Bryant,28.0,4.0,Amna Amin,31.0,2.0,Jane Mentzinger,31.0,1.0
+swat_2,5,False,Caroline Sagristano,David Morales Lam,30.0,2.0,Sebastian Bryant,29.0,4.0,Anna Newell,31.0,1.0,Caitlin Bourke,30.0,3.0
+swat_2,1,True,Gabriel Straus,Alex Hanna,29.0,3.0,Tierney Egan,31.0,1.0,Elizabeth Greer,29.0,2.0,Jake Lowe,27.0,4.0
+swat_2,3,True,Gillian Zipursky,Alex Hanna,30.0,3.0,Tierney Egan,31.0,1.0,Drew Harrington,31.0,2.0,Josh Neudorf,30.0,4.0
+swat_2,5,False,Nate Urban,Alex Hanna,30.0,4.0,Tierney Egan,31.0,3.0,Daniel Ju,33.0,1.0,Greg Weaving,32.0,2.0
+swat_2,2,False,Eddie Jones,Ananya Kalahasti,29.0,4.0,Cindy Wang,30.0,3.0,Romina Lilollari,33.0,2.0,Ye Joo Han,33.0,1.0
+swat_2,3,True,Kyle Lee,Ananya Kalahasti,31.0,1.0,Cindy Wang,30.0,2.0,Ethan Liu,28.0,4.0,Harshit Bhasin,29.0,3.0
+swat_2,5,False,Miriam Pierson,Ananya Kalahasti,30.0,4.0,Cindy Wang,30.0,3.0,Tiffany Yuan,30.0,2.0,Wingel Xue,31.0,1.0
+swat_2,2,True,Annie Abruzzo,Sarem Leghari,32.0,1.0,Yixuan Liu,32.0,2.0,Anna Newell,27.0,4.0,Caitlin Bourke,28.0,3.0
+swat_2,3,True,Shelby Amato,Sarem Leghari,32.0,2.0,Yixuan Liu,32.0,1.0,Cayleigh Soderholm,30.0,3.0,Sergio Valente,30.0,4.0
+swat_2,1,False,Caroline Sagristano,Emmanuel Murphy,31.0,2.0,Oliver Gainer,30.0,4.0,Ananya Kalahasti,32.0,1.0,Cindy Wang,31.0,3.0
+swat_2,3,False,Maya Smith,Emmanuel Murphy,31.0,2.0,Oliver Gainer,31.0,4.0,Laurenn Vives,32.0,1.0,Teddy Wyman,31.0,3.0
+swat_2,2,True,Megan Wu,Lucy Augustine,31.0,2.0,Sania Shahid,32.0,1.0,Jared Sloan,29.0,4.0,Karan Makkar,29.0,3.0
+swat_2,4,False,Jay Leeds,Lucy Augustine,30.0,3.0,Sania Shahid,28.0,4.0,Ananya Kalahasti,32.0,1.0,Cindy Wang,31.0,2.0

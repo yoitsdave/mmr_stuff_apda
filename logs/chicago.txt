@@ -1,0 +1,61 @@
+Unexpected shape: (4, 8)
+Unexpected shape: (4, 8)
+Unexpected shape: (5, 8)
+Unexpected shape: (3, 8)
+Unexpected shape: (3, 8)
+Unexpected shape: (5, 8)
+Unexpected shape: (4, 8)
+Unexpected shape: (4, 8)
+Unexpected shape: (4, 8)
+Unexpected shape: (4, 8)
+Unexpected shape: (4, 8)
+Unexpected shape: (4, 8)
+Unexpected shape: (1, 8)
+Unexpected shape: (4, 8)
+Unexpected shape: (4, 8)
+Unexpected shape: (5, 8)
+Unexpected shape: (3, 8)
+********************************************************************************
+Tournament: chicago
+********************************************************************************
+--------------------------------------------------------------------------------
+A team appeared on opp that didnt appear on gov - this usually indicates unicode
+fuckery. manually exclude this team by setting --ignore [DEBATER ON THE TEAM].
+After rerunning with that setting, you can safely ignore this warning. It will 
+keep coming after all teams are excluded - sorry!
+--------------------------------------------------------------------------------
+The following teams were parsed abnormally and may have come out funky:
+
+--------------------------------------------------------------------------------
+The following teams failed and need to be added manually:
+Unknown card of shape (4, 8)
+Unknown card of shape (4, 8)
+Unknown card of shape (5, 8)
+Unknown card of shape (3, 8)
+Unknown card of shape (3, 8)
+Unknown card of shape (5, 8)
+Unknown card of shape (4, 8)
+Unknown card of shape (4, 8)
+Unknown card of shape (4, 8)
+Unknown card of shape (4, 8)
+Unknown card of shape (4, 8)
+Unknown card of shape (4, 8)
+Unknown card of shape (1, 8)
+Unknown card of shape (4, 8)
+Unknown card of shape (4, 8)
+Unknown card of shape (5, 8)
+Unknown card of shape (3, 8)
+('AlexEllerstein-GriffinBadalamente-MichaelRyter', '5')
+('AlexBradu-AlexEllerstein-BurkeCroft-DesmondHui-JasperPrimack', '3')
+('HazelMartello-SiddharthJain-SparshJain', '3')
+('AlexWeissman-AnatKarapanagiotidou-CarolineKoclanes-CharlesMayville-DrewHarrington', '3')
+('AdiRam-JoshNeudorf-RohanAjjarapu', '4')
+('AlexShura-HazelMartello-RachelBlume', '1')
+('AndrewKao-BurkeCroft-CharlesMayville-DesmondHui-RohanAjjarapu', '2')
+('JayGibbs-RobertBrown-TimRitter', '4')
+('AndrewKamen-AndrewKao-EliZerof-GrantChen-JacobSher', '1')
+('BrianLi-JaewanPark-JoshuaKim-MeghanHendrix-RagyAmin', '3')
+('CallumMcFarlane-MaxWu-SparshJain', '5')
+('JayGibbs-JosephDey-RohanKapoor-SiddharthJain-SparshJain', '2')
+('DrewHarrington-EliZerof-GrantChen', '4')
+--------------------------------------------------------------------------------

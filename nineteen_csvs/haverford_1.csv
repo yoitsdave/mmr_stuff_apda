@@ -1,0 +1,105 @@
+haverford_1,1,True,Julia Botkin,Katie Farrell,30.0,1.0,James Chang,28.0,3.0,Razmeet Samra,29.0,2.0,Kaleb Shah,27.0,4.0
+haverford_1,5,True,Kevin Jiyan Sang,Katie Farrell,33.0,1.0,James Chang,31.0,3.0,Andrew Shiman,24.0,4.0,Diva Harsoor,32.0,2.0
+haverford_1,2,False,Shivani Dixit,Kevin Deng,23.0,4.0,Dante Diggs,24.0,3.0,Rachel Kane,26.0,1.0,Taleen Khleifat,25.0,2.0
+haverford_1,5,True,Kiara Chen,Kevin Deng,25.0,2.0,Dante Diggs,25.0,1.0,Bess Markel,23.0,3.0,Ayleah Johnson,22.0,4.0
+haverford_1,1,True,Amanda Smith - Will Allsetter,Ally Ross,32.0,1.0,Joe Clancy,31.0,2.0,Larkin White,25.0,4.0,Gabriel Straus,26.0,3.0
+haverford_1,3,True,William Gilliland - Mitchell Mullen,Ally Ross,33.0,1.0,Joe Clancy,32.0,2.0,Chloe Hoff,26.0,4.0,Amarynth Ruch,27.0,3.0
+haverford_1,5,True,Nate Urban - Caspian Macky - Muzzamil Godil,Ally Ross,31.0,2.0,Joe Clancy,32.0,1.0,Aneree Rathod,29.0,4.0,Parker Kelly,31.0,3.0
+haverford_1,2,True,Daniel Feshbach,James Zhang,29.0,1.0,Lucia Yang,28.0,2.0,Katie Farrell,23.0,4.0,James Chang,26.0,3.0
+haverford_1,3,False,Nate Urban - Lillian Feist,James Zhang,32.0,3.0,Lucia Yang,29.0,4.0,Yixuan Liu,33.0,1.0,Eve Fidler,33.0,2.0
+haverford_1,4,True,Hannah Beilinson,James Zhang,29.0,2.0,Lucia Yang,29.0,3.0,Parker Snipes,29.0,1.0,Akshay Srinivasan,29.0,4.0
+haverford_1,1,False,Gus Kasper,Alex Kleinjan,26.0,3.0,Isaac Gold,24.0,4.0,James Zhang,30.0,1.0,Lucia Yang,28.0,2.0
+haverford_1,3,False,Emily Shein,Alex Kleinjan,21.0,3.0,Isaac Gold,20.0,4.0,Kyle Lee,23.0,1.0,Egor Chernyuk,22.0,2.0
+haverford_1,1,False,Kevin Wong - Kevin Jiyan Sang,Nathaniel Jordan,24.0,4.0,Destiny Magnett,25.0,3.0,Jordan Farenhem,33.0,2.0,Ellie Singer,34.0,1.0
+haverford_1,4,False,Muzzamil Godil,Nathaniel Jordan,25.0,4.0,Destiny Magnett,28.0,3.0,Hart Rapaport,30.0,2.0,Robert Vogel,31.0,1.0
+haverford_1,1,False,Alex Mack,Tony Ou,22.0,4.0,Saiham Sharif,22.0,3.0,Sagar Rao,23.0,2.0,Dylan Chan,25.0,1.0
+haverford_1,2,False,Lena Yeakey,Tony Ou,22.0,3.0,Saiham Sharif,21.0,4.0,Leah Block,29.0,1.0,Jackson Utley,29.0,2.0
+haverford_1,5,False,Gus Kasper,Tony Ou,26.0,2.0,Saiham Sharif,23.0,4.0,Samuel Choi,25.0,3.0,Alanna Du,27.0,1.0
+haverford_1,3,True,Alex Mack,Razmeet Samra,26.0,2.0,Kaleb Shah,27.0,1.0,Paul Jeong,26.0,3.0,Vara Mathiyalakan,26.0,4.0
+haverford_1,4,False,Shivani Dixit,Razmeet Samra,26.0,3.0,Kaleb Shah,25.0,4.0,Bess Markel,27.0,2.0,Ayleah Johnson,29.0,1.0
+haverford_1,5,False,Hannah Beilinson,Razmeet Samra,26.0,3.0,Kaleb Shah,25.0,4.0,Jela Shiver,28.0,1.0,Nathan Holliman,28.0,2.0
+haverford_1,1,False,William Gilliland,Maxwell Sheremeta,26.0,3.0,Sam Hall,25.0,4.0,Annie Abruzzo,26.0,2.0,Sarah Wheaton,27.0,1.0
+haverford_1,3,True,Shivani Dixit,Maxwell Sheremeta,30.0,1.0,Sam Hall,29.0,2.0,Nathaniel Jordan,25.0,4.0,Destiny Magnett,26.0,3.0
+haverford_1,2,True,Kiara Chen,Chloe Hoff,23.0,2.0,Amarynth Ruch,24.0,1.0,Razmeet Samra,21.0,3.0,Kaleb Shah,19.0,4.0
+haverford_1,5,False,Abi Mumme- Monheit - Jo Mikula,Chloe Hoff,25.0,3.0,Amarynth Ruch,25.0,4.0,Annie Abruzzo,31.0,2.0,Sarah Wheaton,33.0,1.0
+haverford_1,1,False,Eddie Jones,Cindy Wang,29.0,3.0,Rose Taury,26.0,4.0,Nate Sumimoto,31.0,1.0,Evan Rosenbaum,29.0,2.0
+haverford_1,4,False,Amanda Smith,Cindy Wang,30.0,2.0,Rose Taury,25.0,4.0,Aneree Rathod,26.0,3.0,Parker Kelly,31.0,1.0
+haverford_1,5,True,Mitchell Mullen,Cindy Wang,31.0,1.0,Rose Taury,31.0,2.0,Kyle Lee,31.0,3.0,Egor Chernyuk,30.0,4.0
+haverford_1,2,True,William Gilliland,Jela Shiver,29.0,1.0,Nathan Holliman,28.0,2.0,Samuel Choi,27.0,4.0,Alanna Du,28.0,3.0
+haverford_1,4,False,Kiara Chen,Jela Shiver,25.0,4.0,Nathan Holliman,27.0,2.0,Elijah Moon,27.0,1.0,David Arnold,26.0,3.0
+haverford_1,2,True,Gus Kasper,Adam Harrington,30.0,3.0,Jeffrey You,30.0,2.0,Paul Jeong,28.0,4.0,Vara Mathiyalakan,31.0,1.0
+haverford_1,3,True,Kiara Chen,Adam Harrington,27.0,1.0,Jeffrey You,26.0,3.0,Katie Farrell,27.0,2.0,James Chang,25.0,4.0
+haverford_1,4,False,Matt Rohn,Adam Harrington,31.0,2.0,Jeffrey You,25.0,4.0,Nate Sumimoto,32.0,1.0,Evan Rosenbaum,27.0,3.0
+haverford_1,2,False,Caspian Macky,Ryan Chernosky,32.0,1.0,Anna Newell,30.0,4.0,Maxwell Sheremeta,31.0,2.0,Sam Hall,31.0,3.0
+haverford_1,4,False,Ethan Weiss,Ryan Chernosky,21.0,4.0,Anna Newell,23.0,2.0,Chloe Hoff,22.0,3.0,Amarynth Ruch,24.0,1.0
+haverford_1,5,True,Shivani Dixit,Ryan Chernosky,26.0,2.0,Anna Newell,29.0,1.0,Alex Kleinjan,23.0,3.0,Isaac Gold,23.0,4.0
+haverford_1,1,True,Shivani Dixit,Ann Garth,29.0,1.0,Michael Froid,28.0,2.0,Adam Harrington,26.0,3.0,Jeffrey You,26.0,4.0
+haverford_1,3,True,Chris Conrad,Ann Garth,30.0,1.0,Michael Froid,28.0,3.0,Jaedon Abbott,29.0,2.0,Andrew Choi,27.0,4.0
+haverford_1,1,True,Matt Simons,Aneree Rathod,29.0,2.0,Parker Kelly,34.0,1.0,Zixin Liu,20.0,4.0,Kate Lowe,26.0,3.0
+haverford_1,3,True,Julia Botkin - Nuria Benitez,Aneree Rathod,26.0,4.0,Parker Kelly,31.0,1.0,Kevin Deng,28.0,2.0,Dante Diggs,28.0,3.0
+haverford_1,1,False,Matt Rohn,Leah Block,29.0,4.0,Jackson Utley,29.0,3.0,Jay Gibbs,31.0,1.0,Andrew Harrington,30.0,2.0
+haverford_1,4,True,Chris Conrad,Leah Block,32.0,1.0,Jackson Utley,31.0,2.0,Amelia Peck,29.0,4.0,Arya Royal,30.0,3.0
+haverford_1,5,True,Daniel Feshbach,Leah Block,35.0,1.0,Jackson Utley,34.0,2.0,Nate Sumimoto,33.0,3.0,Evan Rosenbaum,30.0,4.0
+haverford_1,1,True,Nuria Benitez,Ron Mucci,28.0,2.0,Will Donnelly,29.0,1.0,Kyle Lee,27.0,3.0,Egor Chernyuk,26.0,4.0
+haverford_1,3,False,Kevin Jiyan Sang,Ron Mucci,32.0,4.0,Will Donnelly,33.0,2.0,Max Neuman,34.0,1.0,Hannah Bartoshesky,32.0,3.0
+haverford_1,2,True,Matt Rohn,Rajul Bothra,32.0,1.0,Jeremy Kritz,30.0,2.0,Elijah Moon,24.0,4.0,David Arnold,26.0,3.0
+haverford_1,4,False,Nate Urban - Lillian Feist,Rajul Bothra,32.0,3.0,Jeremy Kritz,32.0,4.0,Jordan Farenhem,32.0,2.0,Ellie Singer,33.0,1.0
+haverford_1,5,False,Anish Welde - Will Allsetter,Rajul Bothra,31.0,2.0,Jeremy Kritz,29.0,3.0,James Zhang,29.0,4.0,Lucia Yang,33.0,1.0
+haverford_1,4,True,Daniel Feshbach,Paul Jeong,25.0,2.0,Vara Mathiyalakan,26.0,1.0,Tony Ou,24.0,3.0,Saiham Sharif,22.0,4.0
+haverford_1,5,True,Karan Makkar,Paul Jeong,31.0,1.0,Vara Mathiyalakan,30.0,2.0,Nassim Bahet,29.0,3.0,Sophia Di lorio,28.0,4.0
+haverford_1,1,False,Ethan Weiss,Samuel Choi,25.0,4.0,Alanna Du,28.0,3.0,Jaedon Abbott,32.0,1.0,Andrew Choi,30.0,2.0
+haverford_1,4,False,Nuria Benitez,Samuel Choi,28.0,1.0,Alanna Du,25.0,4.0,Alex Kleinjan,27.0,2.0,Isaac Gold,27.0,3.0
+haverford_1,2,True,Hannah Beilinson,Ananya Kalahasti,28.0,1.0,Aishwarya Rajapur,25.0,3.0,Bess Markel,24.0,4.0,Ayleah Johnson,27.0,2.0
+haverford_1,3,True,Jo Mikula,Ananya Kalahasti,30.0,1.0,Aishwarya Rajapur,27.0,4.0,Jela Shiver,28.0,2.0,Nathan Holliman,28.0,3.0
+haverford_1,5,True,Lena Yeakey,Ananya Kalahasti,26.0,2.0,Aishwarya Rajapur,25.0,3.0,Sagar Rao,27.0,1.0,Dylan Chan,23.0,4.0
+haverford_1,1,True,Karan Makkar,Max Neuman,30.0,1.0,Hannah Bartoshesky,27.0,2.0,Chloe Hoff,23.0,3.0,Amarynth Ruch,22.0,4.0
+haverford_1,4,True,Abi Mumme- Monheit,Max Neuman,32.0,1.0,Hannah Bartoshesky,28.0,3.0,Maxwell Sheremeta,30.0,2.0,Sam Hall,27.0,4.0
+haverford_1,5,True,Kevin Wong,Max Neuman,30.0,1.0,Hannah Bartoshesky,25.0,4.0,Ann Garth,27.0,2.0,Michael Froid,27.0,3.0
+haverford_1,2,True,Kevin Wong - Muzzamil Godil,Annie Abruzzo,32.0,1.0,Sarah Wheaton,30.0,2.0,Amelia Peck,24.0,4.0,Arya Royal,25.0,3.0
+haverford_1,3,False,Matt Rohn,Annie Abruzzo,30.0,4.0,Sarah Wheaton,32.0,3.0,Jordan Farenhem,33.0,1.0,Ellie Singer,32.0,2.0
+haverford_1,4,False,Matt Simons,Annie Abruzzo,32.0,2.0,Sarah Wheaton,31.0,3.0,Rachel Kane,33.0,1.0,Taleen Khleifat,30.0,4.0
+haverford_1,1,True,Abi Mumme- Monheit,Parker Snipes,28.0,2.0,Akshay Srinivasan,29.0,1.0,Jela Shiver,26.0,3.0,Nathan Holliman,23.0,4.0
+haverford_1,2,True,Emily Shein - Chris Conrad,Parker Snipes,29.0,3.0,Akshay Srinivasan,31.0,2.0,Aneree Rathod,25.0,4.0,Parker Kelly,32.0,1.0
+haverford_1,3,False,Matt Simons,Sagar Rao,30.0,3.0,Dylan Chan,26.0,4.0,Leah Block,31.0,2.0,Jackson Utley,31.0,1.0
+haverford_1,4,True,Karan Makkar,Sagar Rao,33.0,1.0,Dylan Chan,30.0,2.0,Kevin Deng,26.0,4.0,Dante Diggs,27.0,3.0
+haverford_1,3,False,Abi Mumme- Monheit,Larkin White,28.0,3.0,Gabriel Straus,29.0,2.0,Cindy Wang,31.0,1.0,Rose Taury,28.0,4.0
+haverford_1,4,True,Kevin Jiyan Sang,Larkin White,27.0,3.0,Gabriel Straus,29.0,2.0,Zixin Liu,24.0,4.0,Kate Lowe,31.0,1.0
+haverford_1,5,True,Matt Simons,Larkin White,24.0,3.0,Gabriel Straus,25.0,1.0,Maxwell Sheremeta,25.0,2.0,Sam Hall,20.0,4.0
+haverford_1,2,False,Lillian Feist,Kyle Lee,30.0,1.0,Egor Chernyuk,26.0,4.0,Nathaniel Jordan,27.0,3.0,Destiny Magnett,29.0,2.0
+haverford_1,4,True,William Gilliland,Kyle Lee,27.0,1.0,Egor Chernyuk,26.0,3.0,Katie Farrell,27.0,2.0,James Chang,26.0,4.0
+haverford_1,1,False,Lillian Feist,Bess Markel,21.0,3.0,Ayleah Johnson,20.0,4.0,Hart Rapaport,25.0,1.0,Robert Vogel,24.0,2.0
+haverford_1,3,False,Karan Makkar,Bess Markel,31.0,2.0,Ayleah Johnson,30.0,4.0,Ryan Chernosky,32.0,1.0,Anna Newell,31.0,3.0
+haverford_1,2,False,Kevin Jiyan Sang - Eddie Jones,Hart Rapaport,26.0,3.0,Robert Vogel,25.0,4.0,Yixuan Liu,32.0,2.0,Eve Fidler,32.0,1.0
+haverford_1,3,False,Daniel Feshbach,Hart Rapaport,27.0,4.0,Robert Vogel,30.0,3.0,Aditya Jayakrishnan,36.0,1.0,Matthew Neils,35.0,2.0
+haverford_1,5,True,Amanda Smith - Alex Mack,Hart Rapaport,29.0,1.0,Robert Vogel,27.0,3.0,Parker Snipes,26.0,4.0,Akshay Srinivasan,28.0,2.0
+haverford_1,2,True,Abi Mumme- Monheit,Jay Gibbs,30.0,2.0,Andrew Harrington,31.0,1.0,Ron Mucci,26.0,3.0,Will Donnelly,25.0,4.0
+haverford_1,3,True,Kevin Wong,Jay Gibbs,32.0,2.0,Andrew Harrington,35.0,1.0,Parker Snipes,25.0,4.0,Akshay Srinivasan,28.0,3.0
+haverford_1,4,True,Eddie Jones - Gus Kasper,Jay Gibbs,33.0,2.0,Andrew Harrington,33.0,1.0,Ally Ross,32.0,3.0,Joe Clancy,31.0,4.0
+haverford_1,1,True,Caspian Macky,Amelia Peck,31.0,2.0,Arya Royal,33.0,1.0,Andrew Shiman,25.0,4.0,Diva Harsoor,28.0,3.0
+haverford_1,3,True,Lena Yeakey,Amelia Peck,27.0,2.0,Arya Royal,28.0,1.0,Nassim Bahet,22.0,4.0,Sophia Di lorio,23.0,3.0
+haverford_1,5,True,Julia Botkin,Amelia Peck,29.0,1.0,Arya Royal,27.0,3.0,Adam Harrington,28.0,2.0,Jeffrey You,27.0,4.0
+haverford_1,1,True,Emily Shein - Mitchell Mullen,Yixuan Liu,32.0,2.0,Eve Fidler,33.0,1.0,Ananya Kalahasti,29.0,4.0,Aishwarya Rajapur,30.0,3.0
+haverford_1,4,True,Anish Welde - Will Allsetter - Caspian Macky,Yixuan Liu,34.0,1.0,Eve Fidler,34.0,2.0,Ann Garth,33.0,3.0,Michael Froid,32.0,4.0
+haverford_1,1,False,Hamza Hashim,Elijah Moon,24.0,4.0,David Arnold,26.0,3.0,Kashae Garland,30.0,1.0,Izzie McIlvaine,30.0,2.0
+haverford_1,3,True,Will Allsetter,Elijah Moon,27.0,1.0,David Arnold,26.0,2.0,Samuel Choi,24.0,3.0,Alanna Du,24.0,4.0
+haverford_1,5,False,Eddie Jones,Elijah Moon,26.0,3.0,David Arnold,25.0,4.0,Ron Mucci,29.0,1.0,Will Donnelly,28.0,2.0
+haverford_1,2,True,Will Allsetter - Mitchell Mullen,Jordan Farenhem,31.0,1.0,Ellie Singer,31.0,2.0,Sagar Rao,28.0,3.0,Dylan Chan,26.0,4.0
+haverford_1,5,False,William Gilliland - Emily Shein - Hamza Hashim,Jordan Farenhem,27.0,4.0,Ellie Singer,28.0,2.0,Jay Gibbs,29.0,1.0,Andrew Harrington,28.0,3.0
+haverford_1,1,True,Hannah Beilinson,Rachel Kane,29.0,1.0,Taleen Khleifat,29.0,2.0,Ryan Chernosky,25.0,4.0,Anna Newell,27.0,3.0
+haverford_1,3,False,Eddie Jones - Gus Kasper,Rachel Kane,30.0,3.0,Taleen Khleifat,30.0,4.0,Rajul Bothra,32.0,1.0,Jeremy Kritz,31.0,2.0
+haverford_1,5,False,Chris Conrad,Rachel Kane,29.0,3.0,Taleen Khleifat,27.0,4.0,Yixuan Liu,32.0,1.0,Eve Fidler,31.0,2.0
+haverford_1,2,False,Julia Botkin,Nate Sumimoto,32.0,2.0,Evan Rosenbaum,30.0,4.0,Ann Garth,33.0,1.0,Michael Froid,32.0,3.0
+haverford_1,3,True,Amanda Smith - Caspian Macky,Nate Sumimoto,28.0,2.0,Evan Rosenbaum,29.0,1.0,Tony Ou,23.0,4.0,Saiham Sharif,24.0,3.0
+haverford_1,2,True,Amanda Smith,Jaedon Abbott,30.0,1.0,Andrew Choi,29.0,2.0,Max Neuman,28.0,3.0,Hannah Bartoshesky,26.0,4.0
+haverford_1,4,True,Julia Botkin,Jaedon Abbott,30.0,1.0,Andrew Choi,29.0,3.0,Ananya Kalahasti,30.0,2.0,Aishwarya Rajapur,28.0,4.0
+haverford_1,5,False,Matt Rohn,Jaedon Abbott,30.0,2.0,Andrew Choi,27.0,3.0,Aditya Jayakrishnan,31.0,1.0,Matthew Neils,27.0,4.0
+haverford_1,1,False,Chris Conrad,Nassim Bahet,27.0,3.0,Sophia Di lorio,26.0,4.0,Rajul Bothra,34.0,1.0,Jeremy Kritz,33.0,2.0
+haverford_1,2,True,Alex Mack,Nassim Bahet,25.0,2.0,Sophia Di lorio,25.0,1.0,Alex Kleinjan,24.0,4.0,Isaac Gold,25.0,3.0
+haverford_1,2,False,Karan Makkar,Zixin Liu,25.0,4.0,Kate Lowe,30.0,2.0,Cindy Wang,32.0,1.0,Rose Taury,29.0,3.0
+haverford_1,3,True,Muzzamil Godil,Zixin Liu,25.0,3.0,Kate Lowe,28.0,1.0,Andrew Shiman,23.0,4.0,Diva Harsoor,26.0,2.0
+haverford_1,5,True,Nuria Benitez,Zixin Liu,25.0,4.0,Kate Lowe,29.0,1.0,Nathaniel Jordan,27.0,2.0,Destiny Magnett,26.0,3.0
+haverford_1,1,True,Lena Yeakey,Aditya Jayakrishnan,29.0,1.0,Matthew Neils,27.0,2.0,Paul Jeong,25.0,4.0,Vara Mathiyalakan,26.0,3.0
+haverford_1,2,False,Matt Simons,Aditya Jayakrishnan,31.0,3.0,Matthew Neils,29.0,4.0,Ally Ross,33.0,2.0,Joe Clancy,34.0,1.0
+haverford_1,4,True,Emily Shein - Mitchell Mullen,Aditya Jayakrishnan,31.0,1.0,Matthew Neils,30.0,2.0,Nassim Bahet,26.0,4.0,Sophia Di lorio,28.0,3.0
+haverford_1,2,False,Nuria Benitez,Andrew Shiman,24.0,4.0,Diva Harsoor,26.0,2.0,Larkin White,25.0,3.0,Gabriel Straus,27.0,1.0
+haverford_1,4,False,Shivani Dixit,Andrew Shiman,26.0,4.0,Diva Harsoor,26.0,3.0,Bess Markel,27.0,2.0,Ayleah Johnson,29.0,1.0

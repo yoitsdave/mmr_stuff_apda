@@ -1,0 +1,57 @@
+mb_1,1,True,Samuel Bowen,Ozan Egrungor,26.0,3.0,Eliot Brown,27.0,2.0,Josh Neudorf,27.0,1.0,Thadeus Obora,25.0,4.0
+mb_1,4,False,Micah Isfan,Ozan Egrungor,28.0,2.0,Eliot Brown,21.0,4.0,Daniel Polissky,22.0,3.0,Katherine Ottenbreit,31.0,1.0
+mb_1,2,True,Samuel Bowen,Prin Baskar,28.0,1.0,Jack Freilich,26.0,2.0,Alex Shura,25.0,3.0,Gregory Wong,25.0,4.0
+mb_1,3,True,Joshua Currey,Prin Baskar,25.0,3.0,Jack Freilich,25.0,2.0,Daniel Polissky,23.0,4.0,Katherine Ottenbreit,25.0,1.0
+mb_1,4,False,Sebastian Lopez,Prin Baskar,30.0,2.0,Jack Freilich,27.0,4.0,Rachel Blume,30.0,1.0,Ben Koch,28.0,3.0
+mb_1,1,False,Kai Newell,Gabriel Manak,26.0,2.0,Jack Fowler,23.0,4.0,Alex Shura,27.0,1.0,Gregory Wong,25.0,3.0
+mb_1,3,True,Abigail Hanrahan,Gabriel Manak,27.0,1.0,Jack Fowler,25.0,3.0,Rushmin Khazanchi,26.0,2.0,Monica Laud,24.0,4.0
+mb_1,2,False,Joshua Currey - Rebekah Harrington,Rushmin Khazanchi,26.0,3.0,Monica Laud,25.0,4.0,Rachel Blume,27.0,2.0,Ben Koch,28.0,1.0
+mb_1,4,True,Nick Troepper,Rushmin Khazanchi,28.0,1.0,Monica Laud,26.0,2.0,Mayar Darbi,24.0,3.0,Zana Zwayyed,23.0,4.0
+mb_1,5,True,Samuel Bowen,Rushmin Khazanchi,27.0,1.0,Monica Laud,24.0,3.0,Blake Johnston,27.0,2.0,Adam Hassoun,23.0,4.0
+mb_1,1,False,Joshua Currey - Hannah Fulkerson,Rema Ak,22.0,4.0,Ben Stanley,23.0,3.0,Kate Ferrera,25.0,2.0,Maddie Min,26.0,1.0
+mb_1,5,False,Anna Bolton,Rema Ak,24.0,4.0,Ben Stanley,26.0,3.0,Fred Goldstein- Rose,31.0,1.0,Megan Hanson,30.0,2.0
+mb_1,2,True,Joshua Brummel,Andrew Shiman,22.0,4.0,Jacob Ramer,27.0,1.0,Hazel Martello,25.0,2.0,Katherine Li,23.0,3.0
+mb_1,3,False,Sebastian Lopez,Andrew Shiman,22.0,4.0,Jacob Ramer,25.0,3.0,Fred Goldstein- Rose,29.0,1.0,Megan Hanson,25.0,2.0
+mb_1,5,False,Nick Troepper,Andrew Shiman,23.0,4.0,Jacob Ramer,26.0,3.0,Kate Ferrera,27.0,1.0,Maddie Min,26.0,2.0
+mb_1,2,False,Anna Bolton,Mayar Darbi,26.0,3.0,Zana Zwayyed,26.0,2.0,Andrew Hamilton,26.0,4.0,Zachary Lemonides,27.0,1.0
+mb_1,3,False,Joshua DePasacreta - Hannah Fulkerson,Mayar Darbi,23.0,4.0,Zana Zwayyed,29.0,3.0,Andrew Kao,30.0,2.0,Sarika Mahbubani,30.0,1.0
+mb_1,2,False,Bryce Dunn,Blake Johnston,21.0,4.0,Adam Hassoun,24.0,3.0,Josh Neudorf,28.0,1.0,Thadeus Obora,26.0,2.0
+mb_1,4,False,Rebekah Harrington - Abigail Hanrahan,Blake Johnston,27.0,2.0,Adam Hassoun,23.0,4.0,Andrew Hamilton,26.0,3.0,Zachary Lemonides,28.0,1.0
+mb_1,1,True,Joshua DePasacreta,Rachel Blume,26.0,3.0,Ben Koch,29.0,1.0,Andrew Shiman,20.0,4.0,Jacob Ramer,26.0,2.0
+mb_1,3,True,Logan Pauly,Rachel Blume,29.0,1.0,Ben Koch,29.0,2.0,Griffin Badalamente,27.0,3.0,Nasir Smith,24.0,4.0
+mb_1,1,False,Bryce Dunn,Andrew Hamilton,26.0,4.0,Zachary Lemonides,26.0,2.0,Jaewan Park,26.0,3.0,Adi Ram,28.0,1.0
+mb_1,3,False,Samuel Bowen,Andrew Hamilton,26.0,2.0,Zachary Lemonides,25.0,3.0,Andrew Harrington,26.0,1.0,Jay Gibbs,25.0,4.0
+mb_1,5,True,Kai Newell,Andrew Hamilton,30.0,1.0,Zachary Lemonides,28.0,3.0,Ozan Egrungor,29.0,2.0,Eliot Brown,28.0,4.0
+mb_1,3,True,Wyatt English - Rebekah Harrington,Jaewan Park,28.0,1.0,Adi Ram,27.0,2.0,Ozan Egrungor,26.0,3.0,Eliot Brown,24.0,4.0
+mb_1,4,True,Joshua Currey,Jaewan Park,25.0,3.0,Adi Ram,27.0,1.0,Andrew Harrington,26.0,2.0,Jay Gibbs,25.0,4.0
+mb_1,5,True,Joshua Brummel - Ben Mast,Jaewan Park,25.0,4.0,Adi Ram,27.0,1.0,Rachel Blume,26.0,2.0,Ben Koch,25.0,3.0
+mb_1,2,False,Rebekah Roberts - Abigail Hanrahan,Andrew Kao,24.0,4.0,Sarika Mahbubani,26.0,2.0,Jaedon Abbot,27.0,1.0,Karen Benzion,25.0,3.0
+mb_1,4,True,Anna Bolton,Andrew Kao,27.0,1.0,Sarika Mahbubani,26.0,2.0,Andrew Shiman,24.0,4.0,Jacob Ramer,25.0,3.0
+mb_1,1,True,Abigail Hanrahan,Daniel Polissky,27.0,1.0,Katherine Ottenbreit,26.0,2.0,Mayar Darbi,25.0,3.0,Zana Zwayyed,23.0,4.0
+mb_1,2,True,Kai Newell,Daniel Polissky,28.0,2.0,Katherine Ottenbreit,26.0,3.0,Fred Goldstein- Rose,28.0,1.0,Megan Hanson,25.0,4.0
+mb_1,3,True,Anna Bolton,Alex Shura,29.0,1.0,Gregory Wong,28.0,2.0,Ash Rose,27.0,3.0,Sam Butler,25.0,4.0
+mb_1,5,False,Joshua Currey,Alex Shura,26.0,2.0,Gregory Wong,24.0,4.0,Marc Loeb,25.0,3.0,Danila Babushkin,26.0,1.0
+mb_1,1,True,Elisabeth Paul,Marc Loeb,25.0,3.0,Danila Babushkin,29.0,1.0,Rushmin Khazanchi,27.0,2.0,Monica Laud,24.0,4.0
+mb_1,2,False,Hannah Fulkerson - Logan Pauly,Marc Loeb,27.0,4.0,Danila Babushkin,28.0,3.0,Ozan Egrungor,29.0,2.0,Eliot Brown,31.0,1.0
+mb_1,3,True,Joshua Brummel,Josh Neudorf,25.0,2.0,Thadeus Obora,27.0,1.0,Rema Ak,25.0,3.0,Ben Stanley,25.0,4.0
+mb_1,4,False,Joshua DePasacreta,Josh Neudorf,29.0,2.0,Thadeus Obora,28.0,4.0,Alex Shura,29.0,3.0,Gregory Wong,30.0,1.0
+mb_1,5,False,Micah Isfan - Hannah Fulkerson,Josh Neudorf,21.0,4.0,Thadeus Obora,25.0,3.0,Jaedon Abbot,27.0,1.0,Karen Benzion,25.0,2.0
+mb_1,1,True,Anna Bolton,Griffin Badalamente,28.0,1.0,Nasir Smith,23.0,3.0,Blake Johnston,27.0,2.0,Adam Hassoun,21.0,4.0
+mb_1,2,True,Wyatt English - Tyler Jones,Griffin Badalamente,27.0,2.0,Nasir Smith,28.0,1.0,Ash Rose,22.0,4.0,Sam Butler,23.0,3.0
+mb_1,5,False,Sebastian Lopez,Griffin Badalamente,25.0,4.0,Nasir Smith,27.0,3.0,Daniel Polissky,28.0,1.0,Katherine Ottenbreit,28.0,2.0
+mb_1,1,True,Nick Troepper,Fred Goldstein- Rose,27.0,1.0,Megan Hanson,26.0,2.0,Andrew Kao,25.0,3.0,Sarika Mahbubani,24.0,4.0
+mb_1,4,False,Bryce Dunn - Hannah Fulkerson,Fred Goldstein- Rose,29.0,3.0,Megan Hanson,28.0,4.0,Griffin Badalamente,30.0,1.0,Nasir Smith,29.0,2.0
+mb_1,1,True,Rebekah Harrington - Logan Pauly,Ash Rose,29.0,1.0,Sam Butler,26.0,4.0,Hazel Martello,28.0,2.0,Katherine Li,26.0,3.0
+mb_1,4,True,Kai Newell - Joshua McKee,Ash Rose,25.0,1.0,Sam Butler,24.0,2.0,Rema Ak,24.0,3.0,Ben Stanley,22.0,4.0
+mb_1,5,False,Bryce Dunn,Ash Rose,25.0,3.0,Sam Butler,24.0,4.0,Prin Baskar,30.0,1.0,Jack Freilich,29.0,2.0
+mb_1,2,False,Sebastian Lopez,Kate Ferrera,25.0,3.0,Maddie Min,25.0,2.0,Jaewan Park,25.0,4.0,Adi Ram,27.0,1.0
+mb_1,4,False,Samuel Bowen,Kate Ferrera,23.0,4.0,Maddie Min,25.0,2.0,Tian Geng,25.0,1.0,Angela He,24.0,3.0
+mb_1,1,False,Joshua Brummel,Andrew Harrington,23.0,4.0,Jay Gibbs,24.0,3.0,Prin Baskar,26.0,2.0,Jack Freilich,27.0,1.0
+mb_1,2,True,Joshua DePasacreta - Nick Troepper,Andrew Harrington,23.0,3.0,Jay Gibbs,27.0,1.0,Gabriel Manak,25.0,2.0,Jack Fowler,23.0,4.0
+mb_1,5,True,Rebekah Harrington - Joshua McKee,Andrew Harrington,28.0,1.0,Jay Gibbs,26.0,3.0,Andrew Kao,27.0,2.0,Sarika Mahbubani,23.0,4.0
+mb_1,3,False,Rebekah Roberts - Nick Troepper,Hazel Martello,26.0,2.0,Katherine Li,23.0,4.0,Blake Johnston,25.0,3.0,Adam Hassoun,27.0,1.0
+mb_1,5,True,Joshua DePasacreta,Hazel Martello,22.0,4.0,Katherine Li,28.0,1.0,Tian Geng,24.0,3.0,Angela He,25.0,2.0
+mb_1,1,False,Dummy,Jaedon Abbot,27.0,3.0,Karen Benzion,25.0,4.0,Dummy 1,28.0,1.0,Dummy 2,28.0,2.0
+mb_1,3,True,Bryce Dunn,Jaedon Abbot,29.0,1.0,Karen Benzion,27.0,3.0,Kate Ferrera,26.0,4.0,Maddie Min,28.0,2.0
+mb_1,4,False,Joshua Brummel - Ben Mast,Jaedon Abbot,26.0,3.0,Karen Benzion,26.0,2.0,Marc Loeb,26.0,4.0,Danila Babushkin,27.0,1.0
+mb_1,3,False,Kai Newell - Tyler Jones,Tian Geng,23.0,4.0,Angela He,25.0,2.0,Marc Loeb,25.0,3.0,Danila Babushkin,26.0,1.0

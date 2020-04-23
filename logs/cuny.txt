@@ -1,0 +1,70 @@
+Unexpected shape: (15, 9)
+Unexpected shape: (8, 9)
+Unexpected shape: (15, 8)
+Unexpected shape: (15, 8)
+Unexpected shape: (15, 8)
+Unexpected shape: (15, 8)
+Unexpected shape: (15, 9)
+Unexpected shape: (8, 9)
+Unexpected shape: (15, 8)
+Unexpected shape: (15, 9)
+Unexpected shape: (8, 9)
+Unexpected shape: (15, 8)
+Unexpected shape: (15, 9)
+Unexpected shape: (8, 9)
+Unexpected shape: (15, 8)
+Unexpected shape: (15, 8)
+Unexpected shape: (15, 8)
+Unexpected shape: (15, 8)
+Unexpected shape: (15, 8)
+Unexpected shape: (15, 8)
+Unexpected shape: (15, 9)
+Unexpected shape: (8, 9)
+Unexpected shape: (15, 8)
+********************************************************************************
+Tournament: cuny
+********************************************************************************
+--------------------------------------------------------------------------------
+A team appeared on opp that didnt appear on gov - this usually indicates unicode
+fuckery. manually exclude this team by setting --ignore [DEBATER ON THE TEAM].
+After rerunning with that setting, you can safely ignore this warning. It will 
+keep coming after all teams are excluded - sorry!
+--------------------------------------------------------------------------------
+The following teams were parsed abnormally and may have come out funky:
+
+--------------------------------------------------------------------------------
+The following teams failed and need to be added manually:
+Unknown card of shape (15, 9)
+Unknown card of shape (8, 9)
+Unknown card of shape (15, 8)
+Unknown card of shape (15, 8)
+Unknown card of shape (15, 8)
+Unknown card of shape (15, 8)
+Unknown card of shape (15, 9)
+Unknown card of shape (8, 9)
+Unknown card of shape (15, 8)
+Unknown card of shape (15, 9)
+Unknown card of shape (8, 9)
+Unknown card of shape (15, 8)
+Unknown card of shape (15, 9)
+Unknown card of shape (8, 9)
+Unknown card of shape (15, 8)
+Unknown card of shape (15, 8)
+Unknown card of shape (15, 8)
+Unknown card of shape (15, 8)
+Unknown card of shape (15, 8)
+Unknown card of shape (15, 8)
+Unknown card of shape (15, 9)
+Unknown card of shape (8, 9)
+Unknown card of shape (15, 8)
+('LeAnnFrazer-MattDunworth-TrevorColliton', '3')
+('BenWertkin', '1')
+('BenKessler-HiramRamos', '3')
+('ElizabethChen', '1')
+('SandorLorange', '3')
+('KathyPiperno', '5')
+('AminaKamagate-WaliUlah', '5')
+('KathyPiperno', '1')
+('RoseFischer', '1')
+('SandorLorange', '2')
+--------------------------------------------------------------------------------

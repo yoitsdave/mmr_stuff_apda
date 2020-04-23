@@ -1,0 +1,70 @@
+dartmouth_1,1,False,Anoop Nanda,Isabella Tomovski,24.0,2.0,Isabel Ortiz,21.0,4.0,Rocket Drew,23.0,3.0,Jackson Segal,25.0,1.0
+dartmouth_1,2,False,Ryan Shaffer,Isabella Tomovski,28.0,3.0,Isabel Ortiz,27.0,4.0,Jack Glaser,35.0,1.0,Elaine He,34.0,2.0
+dartmouth_1,5,True,Brandon Zhou,Isabella Tomovski,26.0,1.0,Isabel Ortiz,26.0,2.0,Joy Zhang,24.0,4.0,Matthew Shang,24.0,3.0
+dartmouth_1,3,True,Ryan Shaffer,Kavya Gopinath,30.0,3.0,Monica Ochoa,31.0,1.0,Ella Fanger,31.0,2.0,Greg Schwartz,29.0,4.0
+dartmouth_1,4,True,Manzi Bryan,Kavya Gopinath,27.0,1.0,Monica Ochoa,26.0,2.0,Brendon Lee,26.0,4.0,Richard Zhu,26.0,3.0
+dartmouth_1,2,True,Aditya Choudhari,Shreya Parjan,25.0,2.0,Cindy Zhao,25.0,1.0,Eric Pilchowski,25.0,3.0,ShiLu Vanasupa,24.0,4.0
+dartmouth_1,4,True,Maggie Johnston,Shreya Parjan,27.0,3.0,Cindy Zhao,28.0,1.0,Harry Xie,27.0,2.0,Roxanne Daniel,26.0,4.0
+dartmouth_1,1,True,Gracesenia Chahyadinata,Jack Glaser,30.0,1.0,Elaine He,29.0,2.0,Will Andriola,26.0,4.0,Luke Carstens,27.0,3.0
+dartmouth_1,4,True,Aditya Choudhari,Jack Glaser,29.0,2.0,Elaine He,29.0,1.0,Ann Garth,28.0,3.0,Craig Diskin,28.0,4.0
+dartmouth_1,2,True,Cindy Shen,Ann Garth,24.0,4.0,Craig Diskin,26.0,1.0,Brendon Lee,25.0,3.0,Richard Zhu,25.0,2.0
+dartmouth_1,5,True,Manzi Bryan,Ann Garth,27.0,4.0,Craig Diskin,29.0,1.0,Shruti Baxi,28.0,2.0,Arun Sharma,28.0,3.0
+dartmouth_1,1,True,Cindy Shen,Claire McMahon Fishman,26.0,1.0,Rachel Gifeisman,26.0,2.0,Mayesha Ahmed,25.0,4.0,Megan Yang,25.0,3.0
+dartmouth_1,2,True,Manzi Bryan,Claire McMahon Fishman,30.0,3.0,Rachel Gifeisman,32.0,1.0,Izzy Coleman,26.0,4.0,Shreeya Singh,30.0,2.0
+dartmouth_1,5,True,Auriel Haack,Claire McMahon Fishman,33.0,1.0,Rachel Gifeisman,31.0,3.0,Jack Glaser,31.0,4.0,Elaine He,32.0,2.0
+dartmouth_1,2,True,Alisya Reza,Rocket Drew,25.0,2.0,Jackson Segal,26.0,1.0,Leah Block,23.0,3.0,Ben Kessler,21.0,4.0
+dartmouth_1,4,True,Auriel Haack,Rocket Drew,28.0,3.0,Jackson Segal,29.0,1.0,Izzy Coleman,27.0,4.0,Shreeya Singh,28.0,2.0
+dartmouth_1,1,False,Auriel Haack,Harry Xie,26.0,3.0,Roxanne Daniel,25.0,4.0,Casey Macolino,28.0,1.0,Evan Weinstein,27.0,2.0
+dartmouth_1,3,True,Kevin Xiao,Harry Xie,27.0,2.0,Roxanne Daniel,27.0,1.0,Isabella Tomovski,27.0,3.0,Isabel Ortiz,22.0,4.0
+dartmouth_1,4,True,Sunint Bindra,Ben Murphy,26.0,1.0,Jared Samilow,23.0,3.0,Joy Zhang,22.0,4.0,Matthew Shang,25.0,2.0
+dartmouth_1,5,False,Aditya Choudhari,Ben Murphy,27.0,3.0,Jared Samilow,25.0,4.0,Izzy Coleman,28.0,2.0,Shreeya Singh,28.0,1.0
+dartmouth_1,2,True,Dhruv Uppal,Casey Macolino,25.0,3.0,Evan Weinstein,26.0,1.0,Kavya Gopinath,24.0,4.0,Monica Ochoa,26.0,2.0
+dartmouth_1,3,False,Manzi Bryan,Casey Macolino,27.0,4.0,Evan Weinstein,27.0,2.0,Jack Glaser,29.0,1.0,Elaine He,27.0,3.0
+dartmouth_1,4,False,Mia Stone- Molloy,Casey Macolino,25.0,4.0,Evan Weinstein,29.0,2.0,Nicole Kagan,31.0,1.0,Maya Razmi,27.0,3.0
+dartmouth_1,3,False,Aditya Choudhari,Will Andriola,26.0,4.0,Luke Carstens,26.0,3.0,Ali Medina,29.0,1.0,Austin Goldsmith- Lachut,28.0,2.0
+dartmouth_1,5,False,Alisya Reza,Will Andriola,22.0,4.0,Luke Carstens,24.0,3.0,Nikki Schuldt,25.0,1.0,Hannah Platter,24.0,2.0
+dartmouth_1,1,False,Manzi Bryan,Joy Zhang,25.0,4.0,Matthew Shang,27.0,3.0,Michael Mao,30.0,1.0,Trent Kannegieter,28.0,2.0
+dartmouth_1,2,True,Daniel Ha,Joy Zhang,28.0,2.0,Matthew Shang,28.0,1.0,Nikki Schuldt,26.0,3.0,Hannah Platter,25.0,4.0
+dartmouth_1,2,True,Brandon Zhou,Keir Adamson,26.0,1.0,Finlay Adamson,24.0,2.0,Harry Xie,23.0,4.0,Roxanne Daniel,24.0,3.0
+dartmouth_1,3,True,Auriel Haack,Keir Adamson,27.0,3.0,Finlay Adamson,28.0,1.0,John Lowe,27.0,2.0,Renee Nakkab,25.0,4.0
+dartmouth_1,5,False,Mia Stone- Molloy,Keir Adamson,27.0,4.0,Finlay Adamson,29.0,2.0,Ella Fanger,32.0,1.0,Greg Schwartz,28.0,3.0
+dartmouth_1,2,False,Kevin Xiao,Rex Xu,21.0,4.0,Victor Wang,21.0,3.0,Dan Oestericher,22.0,1.0,Roberto Breitman,22.0,2.0
+dartmouth_1,3,True,Sunint Bindra,Rex Xu,24.0,1.0,Victor Wang,22.0,3.0,Nikki Schuldt,20.0,4.0,Hannah Platter,23.0,2.0
+dartmouth_1,5,False,Maggie Johnston,Rex Xu,23.0,4.0,Victor Wang,23.0,3.0,John Lowe,24.0,2.0,Renee Nakkab,24.0,1.0
+dartmouth_1,1,True,Daniel Ha,John Lowe,30.0,1.0,Renee Nakkab,25.0,4.0,Dan Oestericher,25.0,3.0,Roberto Breitman,29.0,2.0
+dartmouth_1,2,False,Mia Stone- Molloy,John Lowe,28.0,3.0,Renee Nakkab,27.0,4.0,Shruti Baxi,30.0,2.0,Arun Sharma,33.0,1.0
+dartmouth_1,3,False,Brandon Zhou,Eric Pilchowski,26.0,2.0,ShiLu Vanasupa,24.0,4.0,Ben Murphy,28.0,1.0,Jared Samilow,24.0,3.0
+dartmouth_1,4,True,Alisya Reza,Eric Pilchowski,24.0,1.0,ShiLu Vanasupa,19.0,4.0,Isabella Tomovski,21.0,2.0,Isabel Ortiz,20.0,3.0
+dartmouth_1,5,False,Sunint Bindra,Eric Pilchowski,25.0,3.0,ShiLu Vanasupa,23.0,4.0,Harry Xie,27.0,2.0,Roxanne Daniel,27.0,1.0
+dartmouth_1,2,False,Taja Hirata- Epstein,Michael Mao,29.0,2.0,Trent Kannegieter,28.0,4.0,Nicole Kagan,29.0,3.0,Maya Razmi,30.0,1.0
+dartmouth_1,4,True,Cindy Shen,Michael Mao,28.0,1.0,Trent Kannegieter,28.0,2.0,Rex Xu,24.0,3.0,Victor Wang,24.0,4.0
+dartmouth_1,5,True,Gracesenia Chahyadinata,Michael Mao,30.0,1.0,Trent Kannegieter,29.0,2.0,Rocket Drew,26.0,3.0,Jackson Segal,26.0,4.0
+dartmouth_1,1,True,Taja Hirata- Epstein,Shruti Baxi,29.0,1.0,Arun Sharma,28.0,2.0,Keir Adamson,26.0,4.0,Finlay Adamson,27.0,3.0
+dartmouth_1,3,True,Cindy Shen,Shruti Baxi,27.0,3.0,Arun Sharma,30.0,1.0,Rocket Drew,27.0,4.0,Jackson Segal,29.0,2.0
+dartmouth_1,4,False,Dhruv Uppal,Shruti Baxi,26.0,4.0,Arun Sharma,26.0,2.0,Claire McMahon Fishman,26.0,3.0,Rachel Gifeisman,27.0,1.0
+dartmouth_1,1,True,Ryan Shaffer,Izzy Coleman,29.0,2.0,Shreeya Singh,30.0,1.0,Shreya Parjan,27.0,4.0,Cindy Zhao,29.0,3.0
+dartmouth_1,3,True,Taja Hirata- Epstein,Izzy Coleman,28.0,2.0,Shreeya Singh,30.0,1.0,Andrew Baillargeon,24.0,4.0,Alec Maclean,25.0,3.0
+dartmouth_1,1,True,Maggie Johnston,Ella Fanger,29.0,1.0,Greg Schwartz,27.0,4.0,Ali Medina,28.0,2.0,Austin Goldsmith- Lachut,27.0,3.0
+dartmouth_1,4,True,Daniel Ha,Ella Fanger,29.0,1.0,Greg Schwartz,28.0,2.0,Andrew Baillargeon,17.0,4.0,Alec Maclean,19.0,3.0
+dartmouth_1,2,True,Nikhil Ganjoo,Teresa Haberstroh,28.0,3.0,Zan Rozen,30.0,1.0,Ella Fanger,29.0,2.0,Greg Schwartz,27.0,4.0
+dartmouth_1,3,False,Dhruv Uppal,Teresa Haberstroh,26.0,3.0,Zan Rozen,26.0,4.0,Ann Garth,26.0,2.0,Craig Diskin,27.0,1.0
+dartmouth_1,2,False,Maggie Johnston,Mayesha Ahmed,24.0,2.0,Megan Yang,23.0,3.0,Will Andriola,22.0,4.0,Luke Carstens,26.0,1.0
+dartmouth_1,2,True,Auriel Haack,Ali Medina,28.0,1.0,Austin Goldsmith- Lachut,28.0,2.0,Ben Murphy,26.0,3.0,Jared Samilow,25.0,4.0
+dartmouth_1,4,True,Ryan Shaffer,Ali Medina,27.0,2.0,Austin Goldsmith- Lachut,28.0,1.0,Keir Adamson,26.0,3.0,Finlay Adamson,25.0,4.0
+dartmouth_1,5,True,Dhruv Uppal,Ali Medina,27.0,1.0,Austin Goldsmith- Lachut,27.0,2.0,Leah Block,26.0,4.0,Ben Kessler,27.0,3.0
+dartmouth_1,1,True,Dhruv Uppal,Nicole Kagan,27.0,2.0,Maya Razmi,27.0,1.0,Rex Xu,25.0,3.0,Victor Wang,25.0,4.0
+dartmouth_1,3,False,Nikhil Ganjoo,Nicole Kagan,27.0,4.0,Maya Razmi,28.0,3.0,Claire McMahon Fishman,29.0,2.0,Rachel Gifeisman,30.0,1.0
+dartmouth_1,5,True,Cindy Shen,Nicole Kagan,26.0,1.0,Maya Razmi,26.0,2.0,Kavya Gopinath,25.0,3.0,Monica Ochoa,25.0,4.0
+dartmouth_1,1,True,Kevin Xiao,Brendon Lee,28.0,1.0,Richard Zhu,25.0,3.0,Ben Murphy,22.0,4.0,Jared Samilow,27.0,2.0
+dartmouth_1,3,True,Maggie Johnston,Brendon Lee,28.0,2.0,Richard Zhu,29.0,1.0,Joy Zhang,27.0,4.0,Matthew Shang,27.0,3.0
+dartmouth_1,5,False,Daniel Ha,Brendon Lee,26.0,4.0,Richard Zhu,28.0,2.0,Casey Macolino,27.0,3.0,Evan Weinstein,29.0,1.0
+dartmouth_1,1,False,Nikhil Ganjoo,Nikki Schuldt,26.0,4.0,Hannah Platter,27.0,3.0,Ann Garth,30.0,1.0,Craig Diskin,28.0,2.0
+dartmouth_1,4,True,Kevin Xiao,Nikki Schuldt,28.0,1.0,Hannah Platter,24.0,3.0,John Lowe,25.0,2.0,Renee Nakkab,22.0,4.0
+dartmouth_1,1,False,Aditya Choudhari,Andrew Baillargeon,23.0,3.0,Alec Maclean,23.0,4.0,Teresa Haberstroh,27.0,2.0,Zan Rozen,28.0,1.0
+dartmouth_1,5,False,Kevin Xiao,Andrew Baillargeon,20.0,4.0,Alec Maclean,23.0,2.0,Shreya Parjan,23.0,3.0,Cindy Zhao,26.0,1.0
+dartmouth_1,3,False,Mia Stone- Molloy,Dan Oestericher,29.0,2.0,Roberto Breitman,26.0,4.0,Michael Mao,29.0,3.0,Trent Kannegieter,30.0,1.0
+dartmouth_1,4,True,Brandon Zhou,Dan Oestericher,25.0,2.0,Roberto Breitman,26.0,1.0,Will Andriola,25.0,3.0,Luke Carstens,24.0,4.0
+dartmouth_1,5,True,Ryan Shaffer,Dan Oestericher,29.0,3.0,Roberto Breitman,31.0,1.0,Teresa Haberstroh,29.0,4.0,Zan Rozen,30.0,2.0
+dartmouth_1,1,True,Mia Stone- Molloy,Leah Block,31.0,1.0,Ben Kessler,30.0,2.0,Eric Pilchowski,25.0,3.0,ShiLu Vanasupa,24.0,4.0
+dartmouth_1,3,True,Daniel Ha,Leah Block,29.0,3.0,Ben Kessler,29.0,2.0,Shreya Parjan,24.0,4.0,Cindy Zhao,30.0,1.0
+dartmouth_1,4,True,Taja Hirata- Epstein,Leah Block,31.0,1.0,Ben Kessler,30.0,2.0,Teresa Haberstroh,30.0,3.0,Zan Rozen,30.0,4.0

@@ -1,0 +1,18 @@
+********************************************************************************
+Tournament: cmu_1
+********************************************************************************
+--------------------------------------------------------------------------------
+The following teams were parsed abnormally and may have come out funky:
+Chicago HM FirstOnPage 
+Aesthetics 14 SecondOnPage 
+Aesthetics 56 (8, 9)
+Aesthetics 88 FirstOnPage (8, 9)
+Aesthetics 00 SecondOnPage 
+UVA Manic Pixie Nightmare FirstOnPage 
+Hopkins GW FirstOnPage 
+Hopkins SK SecondOnPage 
+GW Claire FirstOnPage 
+GW Initials SecondOnPage 
+GW Brown and Frown (8, 9)
+GW Sparks Joy FirstOnPage 
+--------------------------------------------------------------------------------

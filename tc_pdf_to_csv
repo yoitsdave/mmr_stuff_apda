@@ -1,0 +1,341 @@
+#!/usr/bin/env python3
+
+import click
+import tabula
+import sys
+
+WARNING_ISSUED = False
+
+@click.command()
+@click.argument("tourney", type=str)
+@click.argument("pdf_path", type=click.Path(exists=True))
+@click.argument("csv_path", default="-", type=click.File('w'))
+@click.argument("log_path", default=sys.stderr, type=click.File('w'))
+@click.option("-i", "--ignore", type=str, multiple=True, help="Name of a debater\
+on any team to exclude. Use when team names lead to parsing errors (you'll see \
+a warning to do so). Can be used multiple times, and will ignore ALL teams with\
+listed debaters")
+@click.option("-l", "--legacy", type=bool, default=False, help="For use with tab cards before 2019-2020, when rodda made them work.")
+@click.option("-h", "--header", type=bool, default=False, help="Include header for csv")
+@click.option("-r", "--rounds", type=int, default=5, help="Number of rounds")
+@click.option("-e", "--encoding", type=str, default="utf-8", help="Encoding used for pdf")
+def convert_to_pdf(tourney, pdf_path, csv_path, log_path, ignore, legacy, header, rounds, encoding):
+    """
+Parses a printed tab card pdf file located at PDF_PATH. Outputs a csv of all\
+rounds to CSV_PATH (or stdout, if ommitted), while outputting a log of some \
+potential and confirmed parsing errors to LOG_PATH, (or stderr, if omitted). \
+TOURNEY will be the first column of csv output - use a useful name to allow \
+for later csv merges! 
+    """
+    cards = tabula.read_pdf(pdf_path, pages='all', multiple_tables=True, headers=False, lattice=True, encoding=encoding)
+    if header:
+        lines = ["tourney,round,gov_win,judge,gov_left,speaks,ranks,gov_right,speaks,ranks,opp_left,speaks,ranks,opp_right,speaks,ranks"]
+    else:
+        lines = []
+    team_names = {}
+    opp_srs = {}
+    failed = []
+    maybes = []
+    
+    for card in cards:
+        if card.shape == (0,0): continue
+        if legacy:
+            lines += first_pass_legacy(card, team_names, opp_srs, tourney, ignore, maybes, failed, log_path, rounds)   
+        else:
+            lines += first_pass(card, team_names, opp_srs, tourney, ignore, maybes, failed, log_path, rounds)
+    lines = [second_pass(line, team_names, opp_srs, failed, log_path) for line in lines]
+    print("*"*80, file=log_path)
+    print("Tournament:", tourney, file=log_path)
+    print("*"*80, file=log_path)
+    
+    global WARNING_ISSUED
+    if WARNING_ISSUED:
+        print("-"*80, file=log_path)
+        print(\
+"""A team appeared on opp that didnt appear on gov - this usually indicates unicode
+fuckery. manually exclude this team by setting --ignore [DEBATER ON THE TEAM].
+After rerunning with that setting, you can safely ignore this warning. It will 
+keep coming after all teams are excluded - sorry!""", file=log_path)
+
+    print(*filter(lambda x: x, lines), sep="\n", file=csv_path)
+    print("-"*80, file=log_path)
+    print("The following teams were parsed abnormally and may have come out funky:", file=log_path)
+    print(*maybes, sep="\n", file=log_path)
+    print("-"*80, file=log_path)
+    
+    if failed:
+        print("The following teams failed and need to be added manually:", file=log_path)
+        print(*failed, sep="\n", file=log_path)
+        print("-"*80, file=log_path)
+        exit(1)
+    else:
+        exit(0)
+
+def first_pass(card, team_names, opp_srs, tourney, ignore, maybes, failed, log_path, rounds, funky=""):
+    out = []
+    
+    HANDLED_SHAPES = [
+        (rounds+2, 8),      #default shape
+        (rounds+2, 9),      #column of NaNs
+        (rounds+3, 8),      #row of NaNs
+    ]
+
+    if card.shape not in HANDLED_SHAPES:
+        print("Unexpected shape:", card.shape, file=log_path)
+        failed.append("Unknown card of shape " + str(card.shape))
+        return ""
+
+    if card.shape == (rounds+2, 9):
+        all_nas = -1
+        for i, vals in card.iteritems():
+            if vals.isna().all():
+                all_nas = i
+        if all_nas != -1:
+            funky += str(card.shape)
+            card.drop(columns=all_nas, inplace=True)
+
+    if card.shape == (rounds+3, 8):
+        all_nas = -1
+        for i, vals in card.iterrows():
+            if vals[1:].isna().all():
+                all_nas = i
+        if all_nas != -1:
+            funky += str(card.shape)
+            card.drop(all_nas, inplace=True)
+
+    *_, raw_left, raw_right, __ = card.iloc[0]
+    debater_left = str(raw_left).replace("\r", " ").split("(")[0].strip()
+    debater_right = str(raw_right).replace("\r", " ").split("(")[0].strip()
+    
+    if card.shape != (rounds+2, 8):
+        failed.append(str((debater_left, debater_right)))
+        return out
+    
+    for round in range(1, rounds+1):
+        r_check, gov, won, opp, judge, sr_left, sr_right, _ = card.iloc[round]
+        
+        assert round == int(r_check)
+        if type(gov) == str and gov.strip() == "G":
+            
+            speaks_left, ranks_left = sr_left[1:-1].split(", ")
+            speaks_right, ranks_right = sr_right[1:-1].split(", ")
+            
+            
+            line = ",".join([str(x) for x in [
+                tourney,
+                round, 
+                type(won) == str and won.strip() == "W",
+                judge.replace("\r", " "),
+                debater_left, speaks_left, ranks_left,
+                debater_right, speaks_right, ranks_right,
+                judge.replace("\r", " ").replace(" ", ""),
+            ]])
+
+            out.append(line)
+            
+        elif type(gov) == str and gov.strip() == "O":
+                    
+            speaks_left, ranks_left = sr_left[1:-1].split(", ")
+            speaks_right, ranks_right = sr_right[1:-1].split(", ")
+
+            srs = ",".join([str(x) for x in [
+                debater_left, speaks_left, ranks_left,
+                debater_right, speaks_right, ranks_right,
+            ]])
+            
+            opp_srs[(judge.replace("\r", " ").replace(" ", ""), str(round))] = srs
+
+    return out
+    
+def first_pass_legacy(card, team_names, opp_srs, tourney, ignore, maybes, failed, log_path, rounds, funky=""):
+    out = []
+    debug_print = False
+    
+    #the following section will massage all of the parsed tables until they look
+    #like the most common form (marked default)
+    HANDLED_SHAPES = [
+        (rounds+3, 8),     #default
+        (rounds+3, 9),     #col of NaNs
+        (rounds+3, 10),    #col of NaNs, final total in own column
+        (rounds+4, 8),     #first row duplicated, first copy is combined into one cell
+        ((rounds+3)*2+1, 8),    #whole page read as one table - usually dupes
+        ((rounds+3)*2, 8),      #whole page read as one table with no leading NaNs - usually dupes
+        ((rounds+3)*2+1, 9),    #whole page read as one table, col of NaNs - usually dupes
+        (rounds+4, 9),     #first row duplicated as in (rounds+3, 8), row of NaNs 
+        (rounds+3, 17),    #a bunch of NaN columns
+        (rounds+4, 17),    #a bunch of NaN columns, one NaN row randomly placed
+        (2, 1),            #noise
+    ]
+    
+    if card.shape not in HANDLED_SHAPES:
+        print("Unexpected shape:", card.shape, file=log_path)
+        failed.append("Unknown card of shape " + str(card.shape))
+        return ""
+    
+    if card.shape == (rounds+3,9):
+        all_nas = -1
+        for i, vals in card.iteritems():
+            if vals.isna().all():
+                all_nas = i
+        if all_nas != -1:
+            funky += str(card.shape)
+            card.drop(columns=all_nas, inplace=True)
+            
+    if card.shape == (rounds+3,10):
+        all_nas = []
+        for i, vals in card.iteritems():
+            if vals[:-1].isna().all():
+                all_nas.append(i)
+        if len(all_nas) == 2:
+            funky += str(card.shape)
+            card.drop(columns=all_nas, inplace=True)
+
+    if card.shape == (rounds+4,8):
+        for i, vals in card.iterrows():
+            if vals[1:].isna().all():
+                card.drop(i, inplace=True)
+        
+    if card.shape == ((rounds+3)*2+1, 8):
+        first = card.iloc[1:9].copy()
+        second = card.iloc[9:17].copy()
+        out += first_pass(first, team_names, opp_srs, tourney, ignore, maybes, failed, log_path, rounds, funky="FirstOnPage ")
+        out += first_pass(second, team_names, opp_srs, tourney, ignore, maybes, failed, log_path, rounds, funky="SecondOnPage ")
+        return out
+
+    if card.shape == ((rounds+3)*2, 8):
+        first = card.iloc[0:8].copy()
+        second = card.iloc[8:16].copy()
+        out += first_pass(first, team_names, opp_srs, tourney, ignore, maybes, failed, log_path, rounds, funky="FirstOnPage ")
+        out += first_pass(second, team_names, opp_srs, tourney, ignore, maybes, failed, log_path, rounds, funky="SecondOnPage ")
+        return out
+
+    if card.shape == ((rounds+3)*2+1, 9):
+        first = card.iloc[1:9].copy()
+        second = card.iloc[9:17].copy()
+        out += first_pass(first, team_names, opp_srs, tourney, ignore, maybes, failed, log_path, rounds, funky="FirstOnPage ")
+        out += first_pass(second, team_names, opp_srs, tourney, ignore, maybes, failed, log_path, rounds, funky="SecondOnPage ")
+        return out
+
+    if card.shape == (rounds+4, 9):
+        card.drop(0, inplace=True)
+        all_nas = -1
+        for i, vals in card.iteritems():
+            if vals.isna().all():
+                all_nas = i
+        if all_nas != -1:
+            funky += str(card.shape)
+            card.drop(columns=all_nas, inplace=True)
+
+    if card.shape == (rounds+3, 17):
+        all_nas = []
+        for i, vals in card.iteritems():
+            if vals[2:].isna().all():
+                all_nas.append(i)
+        if len(all_nas) == 9:
+            funky += str(card.shape)
+            card.drop(columns=all_nas, inplace=True)
+    
+    if card.shape == (rounds+4, 17):
+        all_nas = []
+        for i, vals in card.iterrows():
+            if vals.isna().all():
+                card.drop(i, inplace=True)
+        for i, vals in card.iteritems():
+            if vals[2:].isna().all():
+                all_nas.append(i)
+        if len(all_nas) == 9:
+            funky += str(card.shape)
+            card.drop(columns=all_nas, inplace=True)
+            
+    if card.shape == (2, 1):
+        return []
+
+    if len(card.iloc[0].dropna()) == 2:
+        raw_left, raw_right = card.iloc[0].dropna().tolist()
+        debater_left = str(raw_left).replace("\r", " ").split("(")[0].strip()
+        debater_right = str(raw_right).replace("\r", " ").split("(")[0].strip()
+        team = "MISSING(" + debater_left + "," + debater_right + ")"
+    elif len(card.iloc[0].dropna()) == 3:
+        team, raw_left, raw_right = card.iloc[0].dropna().tolist()
+        team = team[6:team.rindex("(")-1].replace(",", "_")
+        debater_left = str(raw_left).replace("\r", " ").split("(")[0].strip()
+        debater_right = str(raw_right).replace("\r", " ").split("(")[0].strip()
+    elif len(card.iloc[0].dropna()) == 4: #weird parsing thing where team is sometimes duplicated
+        team, _, raw_left, raw_right = card.iloc[0].dropna().tolist()
+        team = team[6:team.rindex("(")-1].replace(",", "_")
+        debater_left = str(raw_left).replace("\r", " ").split("(")[0].strip()
+        debater_right = str(raw_right).replace("\r", " ").split("(")[0].strip()
+    else:
+        raise ValueError("Card has wacky first row :(", card.iloc[0].dropna().tolist())
+                    
+    if card.shape != (rounds+3,8) or debater_left in ignore or debater_right in ignore:
+        failed.append(team)
+        return out
+
+    if team not in team_names:
+        team_names[team] = (debater_left, debater_right)
+    else:
+        return out
+    
+    if funky:
+        maybes.append(team + " " + funky)
+    
+    for round in range(1, 6):
+        r_check, gov, won, opp, judge, sr_left, sr_right, _ = card.iloc[round+1]
+        
+        assert round == int(r_check)
+        if type(gov) == str and gov.strip() == "G":
+            
+            speaks_left, ranks_left = sr_left[1:-1].split(", ")
+            speaks_right, ranks_right = sr_right[1:-1].split(", ")
+            
+            
+            line = ",".join([str(x) for x in [
+                tourney,
+                round, 
+                type(won) == str and won.strip() == "W",
+                judge.replace("\r", " "),
+                debater_left, speaks_left, ranks_left,
+                debater_right, speaks_right, ranks_right,
+                judge.replace("\r", " ").replace(" ", ""),
+            ]])
+
+            if debug_print: print(line, file=sys.stderr)
+
+            out.append(line)
+            
+        elif type(gov) == str and gov.strip() == "O":
+                    
+            speaks_left, ranks_left = sr_left[1:-1].split(", ")
+            speaks_right, ranks_right = sr_right[1:-1].split(", ")
+
+            srs = ",".join([str(x) for x in [
+                debater_left, speaks_left, ranks_left,
+                debater_right, speaks_right, ranks_right,
+            ]])
+            
+            opp_srs[(judge.replace("\r", " ").replace(" ", ""), str(round))] = srs
+
+    return out
+
+def second_pass(line, team_names, opp_srs, failed, log_path):
+    _, round, *__, judge = line.split(",")
+        
+    if round == "round": #header lmao
+        return line
+    
+    opp_sr = opp_srs.get((judge, round))
+    
+    if opp_sr == None:
+        global WARNING_ISSUED
+        if not WARNING_ISSUED:
+            WARNING_ISSUED = True
+
+        failed.append((judge, round))
+        return ""
+        
+    lhs = ",".join(line.split(",")[:-1])
+    return lhs + "," + opp_sr 
+
+if __name__ == "__main__":
+    convert_to_pdf()

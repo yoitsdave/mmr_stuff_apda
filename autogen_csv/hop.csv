@@ -1,0 +1,129 @@
+hop,1,False,Will Choi,Jacob Atkins,29.0,3.0,Josh Book,28.0,4.0,Aashray Khanna,31.0,1.0,Shreyoshi Das,30.0,2.0
+hop,3,True,Ambika Kandasamy - Thomas Kim,Jacob Atkins,29.0,1.0,Josh Book,27.0,4.0,Anna Newell,28.0,2.0,Caitlin Bourke,27.0,3.0
+hop,2,True,Ananya Kalahasti - Linnea Collins,Jonah Goldman,32.0,1.0,Max Sheremeta,30.0,2.0,Annalise Callaghan,24.0,3.0,Erica Harper,20.0,4.0
+hop,5,True,Nathan Frederickson - Wingel Xue,Jonah Goldman,27.0,2.0,Max Sheremeta,29.0,1.0,Dominic DeRamo,26.0,4.0,Patrick Han,26.0,3.0
+hop,2,True,Caleb Foote,Megha Prasad,30.0,1.0,Mesoun Hassan,29.0,2.0,Katie Santarelli,26.0,4.0,Mario Aguirre,27.0,3.0
+hop,3,False,Sim Low,Megha Prasad,27.0,2.0,Mesoun Hassan,26.0,4.0,Alex Hanna,28.0,1.0,Shreyas Gullapalli,26.0,3.0
+hop,1,True,Anthony Corey - Wingel Xue,Sergio Valente,31.0,2.0,Yixuan Liu,32.0,1.0,Megha Prasad,28.0,3.0,Mesoun Hassan,26.0,4.0
+hop,3,True,Joe Clancy - Nafiz Zaman,Sergio Valente,32.0,2.0,Yixuan Liu,34.0,1.0,Evan Rosenbaum,31.0,3.0,Yosua Siagian,29.0,4.0
+hop,4,True,Amy Kim - Evan Dotas,Sergio Valente,32.0,3.0,Yixuan Liu,33.0,1.0,Arya Royal,33.0,2.0,Fletcher Calcagno,32.0,4.0
+hop,1,False,Kaylah Costa,Carley Calfee,25.0,4.0,Zara Memon,27.0,2.0,Julia Malnak,27.0,3.0,Sara Zdancewicz,28.0,1.0
+hop,2,False,Will Choi,Carley Calfee,27.0,3.0,Zara Memon,28.0,2.0,Caroline Sagristino,26.0,4.0,Gaurav Gawankar,30.0,1.0
+hop,5,True,Erin Converse,Carley Calfee,28.0,2.0,Zara Memon,29.0,1.0,Gaven Green,26.0,3.0,Henry Lei,26.0,4.0
+hop,1,True,Amy Kim - Tierney Egan,Cayleigh Soderholm,31.0,2.0,Kate Jones,31.0,1.0,Alex Burgess,26.0,4.0,Gavin Shapiro,27.0,3.0
+hop,4,False,Sean Oddoye - Tiffany Yuan,Cayleigh Soderholm,31.0,3.0,Kate Jones,32.0,2.0,Arun Sharma,33.0,1.0,Trent Kannegieter,30.0,4.0
+hop,5,True,Caleb Foote - Juliette Berger,Cayleigh Soderholm,32.0,1.0,Kate Jones,30.0,2.0,Andrew Conkey,22.0,4.0,Danila Babushkin,24.0,3.0
+hop,1,True,Isabel Thomas - Muzamil Godil,Hazel Martello,27.0,3.0,Jay Gibbs,32.0,1.0,Michael Alisky,27.0,4.0,William Golub,28.0,2.0
+hop,4,False,Elizabeth Qiao - Joe Clancy,Hazel Martello,32.0,4.0,Jay Gibbs,33.0,2.0,Nate Sumimoto,32.0,3.0,Parker Kelly,33.0,1.0
+hop,5,True,Madeline Cheshire - Sean Oddoye - Sophia Caldera,Hazel Martello,30.0,2.0,Jay Gibbs,31.0,1.0,Ethan Liu,28.0,3.0,Jeffrey yin,25.0,4.0
+hop,1,False,Erin Converse,Andrew Kaman,27.0,3.0,Rohan Kapoor,27.0,2.0,Dhruva Sumeshwar,29.0,1.0,Natt Sears,26.0,4.0
+hop,2,True,Sim Low,Andrew Kaman,28.0,1.0,Rohan Kapoor,25.0,2.0,Caleb Betts,23.0,4.0,Miles Richardson,25.0,3.0
+hop,1,False,Michael Koo - Nathan Frederickson,David Morales,28.0,2.0,Griffin Badalamente,28.0,4.0,Paloma O'connor,29.0,1.0,Sarah Ryan,28.0,3.0
+hop,3,True,Ananya Kalahasti - Mehul Agrawal,David Morales,30.0,3.0,Griffin Badalamente,32.0,1.0,Caroline Sagristino,28.0,4.0,Gaurav Gawankar,31.0,2.0
+hop,4,False,Jack Rao - Muzamil Godil,David Morales,27.0,3.0,Griffin Badalamente,26.0,4.0,Ethan Liu,31.0,1.0,Jeffrey yin,29.0,2.0
+hop,2,False,Jerry Yang,Charles Mayville,28.0,2.0,George Harrison,25.0,4.0,Alex Nielsen,26.0,3.0,Ben Schwartz,29.0,1.0
+hop,4,False,Ananya Kalahasti - Kyuhee Jo,Charles Mayville,28.0,3.0,George Harrison,26.0,4.0,Anna Newell,29.0,2.0,Caitlin Bourke,30.0,1.0
+hop,5,False,Stephanie Lee,Charles Mayville,28.0,2.0,George Harrison,24.0,3.0,Jake Lowe,30.0,1.0,Sam Widell,23.0,4.0
+hop,3,True,Elizabeth Greer - Muzamil Godil,Dominic DeRamo,26.0,3.0,Patrick Han,27.0,1.0,Gillian Zipursky,27.0,2.0,Julia Botkin,26.0,4.0
+hop,4,False,Madeline Cheshire - Nathan Holliman,Dominic DeRamo,29.0,3.0,Patrick Han,28.0,4.0,Anish Welde,32.0,2.0,Vignesh Valliyur,33.0,1.0
+hop,2,True,Stephanie Lee,Harin Ok,27.0,1.0,Sarem Haq,25.0,3.0,Ariane Sharifi,25.0,2.0,Rebecca Mollet,24.0,4.0
+hop,3,True,Rush Patel - Vara Mathiyalakan,Harin Ok,30.0,1.0,Sarem Haq,29.0,4.0,Jonah Goldman,29.0,3.0,Max Sheremeta,30.0,2.0
+hop,1,True,Elizabeth Qiao - Emily Steirman,Evan Rosenbaum,30.0,1.0,Yosua Siagian,27.0,2.0,Harin Ok,27.0,3.0,Sarem Haq,27.0,4.0
+hop,4,False,Alexander Chang - Nathan Frederickson,Evan Rosenbaum,30.0,2.0,Yosua Siagian,27.0,3.0,Eunisa Liu,26.0,4.0,Judah Levy,31.0,1.0
+hop,5,False,Ananth Ghosh - Muzamil Godil,Evan Rosenbaum,27.0,4.0,Yosua Siagian,28.0,2.0,Andrew Kaman,27.0,3.0,Rohan Kapoor,29.0,1.0
+hop,1,False,Madeline Cheshire,Caroline Sagristino,27.0,4.0,Gaurav Gawankar,29.0,2.0,Dhafer Muhammad,28.0,3.0,Sajan Mehrota,30.0,1.0
+hop,5,False,Sim Low,Caroline Sagristino,26.0,4.0,Gaurav Gawankar,29.0,2.0,Harin Ok,27.0,3.0,Sarem Haq,29.0,1.0
+hop,2,True,Anthony Corey - Caleb Foote,Nate Sumimoto,32.0,2.0,Parker Kelly,32.0,1.0,Dominic DeRamo,24.0,4.0,Patrick Han,27.0,3.0
+hop,5,True,Isabella Rocco - Michael Koo,Nate Sumimoto,32.0,3.0,Parker Kelly,33.0,1.0,Sergio Valente,31.0,4.0,Yixuan Liu,32.0,2.0
+hop,3,False,Harshit Bhasin,Akshara Desai,23.0,4.0,Trevor Haefner,25.0,3.0,Charles Mayville,27.0,1.0,George Harrison,26.0,2.0
+hop,4,False,Stephanie Lee,Akshara Desai,23.0,4.0,Trevor Haefner,25.0,3.0,Alex Burgess,26.0,1.0,Gavin Shapiro,26.0,2.0
+hop,5,True,Paul Jeong,Akshara Desai,26.0,1.0,Trevor Haefner,25.0,2.0,Megha Prasad,24.0,3.0,Mesoun Hassan,24.0,4.0
+hop,1,True,Stephanie Lee,Claire Raulston,31.0,3.0,Stephanie Purwanto,32.0,1.0,Gillian Zipursky,29.0,4.0,Julia Botkin,31.0,2.0
+hop,3,False,Evan Dotas - Nathan Frederickson,Claire Raulston,28.0,4.0,Stephanie Purwanto,28.0,2.0,Hazel Martello,28.0,3.0,Jay Gibbs,30.0,1.0
+hop,4,False,Ananth Ghosh - Oliver McCammon,Claire Raulston,0.0,1.0,Stephanie Purwanto,0.0,2.0,Jacob Atkins,0.0,4.0,Josh Book,0.0,3.0
+hop,1,False,Ananth Ghosh - Tina Gao,Caleb Betts,28.0,3.0,Miles Richardson,27.0,4.0,Lucy Augustine,30.0,2.0,Oliver Gainer,31.0,1.0
+hop,3,False,Kaylah Costa,Caleb Betts,26.0,2.0,Miles Richardson,24.0,4.0,Ethan Knox,26.0,3.0,Karthik Tadepalli,28.0,1.0
+hop,4,False,Isabella Rocco,Caleb Betts,0.0,2.0,Miles Richardson,0.0,1.0,Abby Russ,0.0,3.0,Jamal Oakman,0.0,4.0
+hop,1,False,Linnea Collins - Tiffany Yuan,Jake Lowe,28.0,3.0,Sam Widell,23.0,4.0,Anish Welde,33.0,1.0,Vignesh Valliyur,30.0,2.0
+hop,2,False,Kyuhee Jo,Jake Lowe,30.0,2.0,Sam Widell,23.0,4.0,David Morales,29.0,3.0,Griffin Badalamente,31.0,1.0
+hop,4,False,Bev Soriano - Haseeb Waseem,Jake Lowe,27.0,3.0,Sam Widell,25.0,4.0,Paloma O'connor,33.0,1.0,Sarah Ryan,33.0,2.0
+hop,1,False,Jared Stone,Katie Santarelli,27.0,4.0,Mario Aguirre,28.0,3.0,Rachel Pepper,30.0,1.0,Rachel Robbin,28.0,2.0
+hop,4,True,Jela Shriver,Katie Santarelli,27.0,1.0,Mario Aguirre,25.0,4.0,Annalise Callaghan,26.0,2.0,Erica Harper,26.0,3.0
+hop,5,False,Evan Dotas,Katie Santarelli,23.0,4.0,Mario Aguirre,25.0,3.0,Dhruva Sumeshwar,27.0,1.0,Natt Sears,26.0,2.0
+hop,2,True,Bev Soriano - Vara Mathiyalakan,Alison Chan,30.0,2.0,Robin Gloss,31.0,1.0,Allan Lee,29.0,4.0,Tvisha Malik,30.0,3.0
+hop,4,True,Linnea Collins - Tierney Egan,Alison Chan,30.0,2.0,Robin Gloss,31.0,1.0,Dhafer Muhammad,29.0,4.0,Sajan Mehrota,30.0,3.0
+hop,5,True,Mehul Agrawal - Nathan Holliman,Alison Chan,30.0,2.0,Robin Gloss,31.0,1.0,Lucy Augustine,29.0,4.0,Oliver Gainer,30.0,3.0
+hop,1,True,Alexander Chang - Ambika Kandasamy,Arya Royal,30.0,1.0,Fletcher Calcagno,30.0,2.0,Jonah Goldman,29.0,3.0,Max Sheremeta,29.0,4.0
+hop,3,True,Becca Barer - Wingel Xue,Arya Royal,33.0,1.0,Fletcher Calcagno,33.0,2.0,Aashray Khanna,32.0,4.0,Shreyoshi Das,32.0,3.0
+hop,5,True,Isabel Thomas - Joe Clancy,Arya Royal,33.0,1.0,Fletcher Calcagno,31.0,4.0,Eunisa Liu,31.0,3.0,Judah Levy,32.0,2.0
+hop,2,False,Joe Brennan - Joe Clancy,Paloma O'connor,31.0,2.0,Sarah Ryan,28.0,4.0,Claire Raulston,28.0,3.0,Stephanie Purwanto,32.0,1.0
+hop,3,False,Isabella Sorial - Tina Gao,Paloma O'connor,28.0,2.0,Sarah Ryan,28.0,4.0,Andrew Conkey,28.0,1.0,Danila Babushkin,28.0,3.0
+hop,1,False,Emily Xu,Ethan Knox,27.0,4.0,Karthik Tadepalli,28.0,3.0,Alison Chan,29.0,2.0,Robin Gloss,29.0,1.0
+hop,4,True,Isabella Sorial - Paul Jeong,Ethan Knox,29.0,1.0,Karthik Tadepalli,28.0,2.0,Gaven Green,26.0,3.0,Henry Lei,25.0,4.0
+hop,1,True,Jerry Yang,Allan Lee,29.0,2.0,Tvisha Malik,30.0,1.0,Akshara Desai,26.0,4.0,Trevor Haefner,27.0,3.0
+hop,3,True,Alexander Chang - Isabel Thomas,Allan Lee,32.0,1.0,Tvisha Malik,31.0,2.0,Rachel Pepper,27.0,3.0,Rachel Robbin,27.0,4.0
+hop,4,False,Amala Karri - Wingel Xue,Allan Lee,27.0,4.0,Tvisha Malik,27.0,3.0,Andrew Conkey,28.0,2.0,Danila Babushkin,28.0,1.0
+hop,3,True,Isabella Rocco - Michael Koo,Anish Welde,34.0,1.0,Vignesh Valliyur,34.0,2.0,Lydia Vlasto,31.0,3.0,Matthew Wilson,30.0,4.0
+hop,5,True,Jela Shriver - Jerry Yang,Anish Welde,33.0,1.0,Vignesh Valliyur,33.0,3.0,Arun Sharma,33.0,4.0,Trent Kannegieter,33.0,2.0
+hop,2,True,Mehul Agrawal - Tierney Egan,Aashray Khanna,30.0,2.0,Shreyoshi Das,30.0,1.0,Dan Berardino,30.0,4.0,Kalista Schauer,30.0,3.0
+hop,4,True,Anthony Corey - Jared Stone,Aashray Khanna,32.0,2.0,Shreyoshi Das,33.0,1.0,Harin Ok,30.0,4.0,Sarem Haq,30.0,3.0
+hop,5,True,Nafiz Zaman - Oliver McCammon,Aashray Khanna,32.0,2.0,Shreyoshi Das,32.0,1.0,Michael Alisky,28.0,3.0,William Golub,27.0,4.0
+hop,2,False,Amy Kim - Evan Dotas,Julia Malnak,28.0,3.0,Sara Zdancewicz,26.0,4.0,Anish Welde,33.0,1.0,Vignesh Valliyur,32.0,2.0
+hop,3,False,Ananth Ghosh - Jared Stone,Julia Malnak,27.0,4.0,Sara Zdancewicz,29.0,3.0,Michael Alisky,29.0,2.0,William Golub,29.0,1.0
+hop,5,False,Anthony Corey - Kyuhee Jo,Julia Malnak,26.0,3.0,Sara Zdancewicz,27.0,2.0,Caleb Betts,29.0,1.0,Miles Richardson,24.0,4.0
+hop,2,False,Isabel Thomas - Wingel Xue,Jake Love,28.0,3.0,Kyle Coopersmith,26.0,4.0,Cayleigh Soderholm,32.0,2.0,Kate Jones,32.0,1.0
+hop,3,False,Emily Xu - Jack Rao,Jake Love,0.0,3.0,Kyle Coopersmith,0.0,4.0,Dan Berardino,28.33,2.0,Kalista Schauer,28.67,1.0
+hop,5,True,Jared Stone - Joe Brennan,Jake Love,28.0,3.0,Kyle Coopersmith,30.0,1.0,Allan Lee,28.0,4.0,Tvisha Malik,29.0,2.0
+hop,2,True,Harshit Bhasin,Michael Alisky,31.0,2.0,William Golub,32.0,1.0,Gaven Green,28.0,3.0,Henry Lei,27.0,4.0
+hop,4,True,Emily Xu - Rush Patel,Michael Alisky,27.0,1.0,William Golub,26.0,4.0,Lydia Vlasto,26.0,3.0,Matthew Wilson,27.0,2.0
+hop,2,True,Alexander Chang - Sean Oddoye,Dhafer Muhammad,30.0,2.0,Sajan Mehrota,30.0,1.0,Adam Harrington,29.0,3.0,Malcolm Ferguson,27.0,4.0
+hop,3,False,Anthony Corey - Jela Shriver,Dhafer Muhammad,29.0,4.0,Sajan Mehrota,30.0,3.0,Cayleigh Soderholm,31.0,2.0,Kate Jones,32.0,1.0
+hop,5,True,Kaylah Costa,Dhafer Muhammad,25.0,2.0,Sajan Mehrota,26.0,1.0,Ariane Sharifi,25.0,3.0,Rebecca Mollet,24.0,4.0
+hop,1,False,Isabella Sorial - Thomas Kim,Alex Nielsen,28.0,2.0,Ben Schwartz,27.0,4.0,Jake Love,29.0,1.0,Kyle Coopersmith,28.0,3.0
+hop,3,False,Amy Kim - Emily Steirman,Alex Nielsen,28.0,4.0,Ben Schwartz,29.0,3.0,Adam Harrington,32.0,1.0,Malcolm Ferguson,30.0,2.0
+hop,4,True,Sim Low,Alex Nielsen,27.0,2.0,Ben Schwartz,28.0,1.0,Carley Calfee,27.0,3.0,Zara Memon,25.0,4.0
+hop,1,False,Evan Dotas - Sean Oddoye,Andrew Conkey,27.0,4.0,Danila Babushkin,28.0,3.0,Nate Sumimoto,33.0,2.0,Parker Kelly,34.0,1.0
+hop,2,True,Erin Converse,Andrew Conkey,27.0,4.0,Danila Babushkin,30.0,1.0,Ethan Knox,28.0,3.0,Karthik Tadepalli,28.0,2.0
+hop,2,True,Emily Steirman - Rush Patel,Gillian Zipursky,31.0,1.0,Julia Botkin,30.0,2.0,Blake James,28.0,4.0,Chayne Desasso,29.0,3.0
+hop,5,True,Ananya Kalahasti - Isabella Sorial,Gillian Zipursky,31.0,2.0,Julia Botkin,32.0,1.0,Alex Hanna,29.0,4.0,Shreyas Gullapalli,30.0,3.0
+hop,1,False,Oliver McCammon - Rush Patel,Gaven Green,26.0,4.0,Henry Lei,27.0,3.0,Arun Sharma,32.0,2.0,Trent Kannegieter,33.0,1.0
+hop,3,False,Linnea Collins - Stephanie Lee,Gaven Green,0.0,3.0,Henry Lei,0.0,4.0,Blake James,24.33,2.0,Chayne Desasso,25.33,1.0
+hop,3,False,Bev Soriano - Madeline Cheshire - Tiffany Yuan,Dhruva Sumeshwar,29.0,3.0,Natt Sears,27.0,4.0,Nate Sumimoto,32.0,2.0,Parker Kelly,32.0,1.0
+hop,4,False,Thomas Kim,Dhruva Sumeshwar,28.0,2.0,Natt Sears,26.0,3.0,Caroline Sagristino,26.0,4.0,Gaurav Gawankar,29.0,1.0
+hop,1,True,Isabella Rocco,Adam Harrington,31.0,1.0,Malcolm Ferguson,30.0,2.0,Charles Mayville,28.0,3.0,George Harrison,25.0,4.0
+hop,5,True,Harshit Bhasin - Tiffany Yuan,Adam Harrington,32.0,1.0,Malcolm Ferguson,30.0,2.0,Claire Raulston,27.0,4.0,Stephanie Purwanto,28.0,3.0
+hop,2,True,Isabella Rocco,Eunisa Liu,28.0,3.0,Judah Levy,32.0,1.0,Alex Burgess,28.0,2.0,Gavin Shapiro,27.0,4.0
+hop,3,True,Amala Karri - Will Choi,Eunisa Liu,27.0,3.0,Judah Levy,29.0,1.0,Grady Martin,28.0,2.0,Max Tabarrok,26.0,4.0
+hop,2,False,Jack Rao - Tina Gao,Abby Russ,27.0,4.0,Jamal Oakman,28.0,3.0,Jacob Atkins,29.0,1.0,Josh Book,29.0,2.0
+hop,3,False,Jerry Yang,Abby Russ,21.0,4.0,Jamal Oakman,24.0,3.0,Carley Calfee,25.0,2.0,Zara Memon,27.0,1.0
+hop,2,False,Elizabeth Greer - Tiffany Yuan,Anna Newell,29.0,3.0,Caitlin Bourke,28.0,4.0,Sergio Valente,31.0,2.0,Yixuan Liu,32.0,1.0
+hop,5,True,Tina Gao,Anna Newell,28.0,4.0,Caitlin Bourke,29.0,1.0,Ethan Knox,28.0,3.0,Karthik Tadepalli,28.0,2.0
+hop,1,True,Nafiz Zaman,Ethan Liu,31.0,1.0,Jeffrey yin,31.0,2.0,Alex Hanna,29.0,3.0,Shreyas Gullapalli,27.0,4.0
+hop,2,False,Isabella Sorial - Oliver McCammon,Ethan Liu,28.0,4.0,Jeffrey yin,28.0,2.0,Lydia Vlasto,31.0,1.0,Matthew Wilson,28.0,3.0
+hop,3,True,Kyuhee Jo,Ethan Liu,29.0,1.0,Jeffrey yin,27.0,2.0,Andrew Kaman,27.0,3.0,Rohan Kapoor,27.0,4.0
+hop,2,False,Muzamil Godil - Nathan Frederickson,Rachel Pepper,26.0,3.0,Rachel Robbin,25.0,4.0,Arya Royal,29.0,2.0,Fletcher Calcagno,30.0,1.0
+hop,4,True,Harshit Bhasin,Rachel Pepper,28.0,1.0,Rachel Robbin,28.0,2.0,Julia Malnak,26.0,4.0,Sara Zdancewicz,27.0,3.0
+hop,5,False,Elizabeth Greer - Tierney Egan,Rachel Pepper,26.0,4.0,Rachel Robbin,27.0,3.0,David Morales,28.0,2.0,Griffin Badalamente,31.0,1.0
+hop,1,False,Kyuhee Jo,Ariane Sharifi,28.0,3.0,Rebecca Mollet,27.0,4.0,Grady Martin,29.0,1.0,Max Tabarrok,29.0,2.0
+hop,3,True,Tierney Egan,Ariane Sharifi,28.0,1.0,Rebecca Mollet,27.0,2.0,Katie Santarelli,27.0,3.0,Mario Aguirre,27.0,4.0
+hop,4,True,Erin Converse,Ariane Sharifi,28.0,3.0,Rebecca Mollet,29.0,1.0,Megha Prasad,29.0,2.0,Mesoun Hassan,26.0,4.0
+hop,2,False,Becca Barer - Emily Xu,Grady Martin,27.0,4.0,Max Tabarrok,28.0,3.0,Hazel Martello,29.0,2.0,Jay Gibbs,31.0,1.0
+hop,4,False,Kaylah Costa,Grady Martin,27.0,2.0,Max Tabarrok,26.0,3.0,Andrew Kaman,28.0,1.0,Rohan Kapoor,26.0,4.0
+hop,2,True,Ambika Kandasamy - Thomas Kim,Alex Hanna,29.0,1.0,Shreyas Gullapalli,29.0,2.0,Akshara Desai,26.0,4.0,Trevor Haefner,27.0,3.0
+hop,4,False,Mehul Agrawal - Vara Mathiyalakan,Alex Hanna,27.0,3.0,Shreyas Gullapalli,26.0,4.0,Adam Harrington,30.0,1.0,Malcolm Ferguson,29.0,2.0
+hop,1,True,Elizabeth Greer,Lydia Vlasto,30.0,1.0,Matthew Wilson,27.0,3.0,Eunisa Liu,27.0,4.0,Judah Levy,28.0,2.0
+hop,5,True,Haseeb Waseem - Linnea Collins,Lydia Vlasto,27.0,3.0,Matthew Wilson,28.0,1.0,Alex Nielsen,25.0,4.0,Ben Schwartz,27.0,2.0
+hop,2,False,Jared Stone - Juliette Berger,Lucy Augustine,33.0,1.0,Oliver Gainer,29.0,4.0,Evan Rosenbaum,32.0,2.0,Yosua Siagian,30.0,3.0
+hop,3,False,Joe Brennan - Oliver McCammon,Lucy Augustine,0.0,3.0,Oliver Gainer,0.0,4.0,Annalise Callaghan,24.67,1.0,Erica Harper,23.33,2.0
+hop,4,True,Caleb Foote - Elizabeth Greer,Lucy Augustine,30.0,1.0,Oliver Gainer,29.0,2.0,Jake Love,26.0,4.0,Kyle Coopersmith,27.0,3.0
+hop,1,False,Harshit Bhasin,Annalise Callaghan,24.0,4.0,Erica Harper,24.0,3.0,Anna Newell,28.0,2.0,Caitlin Bourke,28.0,1.0
+hop,5,False,Emily Xu,Annalise Callaghan,0.0,1.0,Erica Harper,0.0,2.0,Blake James,0.0,4.0,Chayne Desasso,0.0,3.0
+hop,1,True,Ananya Kalahasti - Becca Barer,Dan Berardino,28.0,2.0,Kalista Schauer,29.0,1.0,Abby Russ,25.0,4.0,Jamal Oakman,26.0,3.0
+hop,4,False,Juliette Berger - Tina Gao,Dan Berardino,27.0,4.0,Kalista Schauer,27.0,3.0,Gillian Zipursky,28.0,1.0,Julia Botkin,28.0,2.0
+hop,5,True,Thomas Kim,Dan Berardino,30.0,1.0,Kalista Schauer,28.0,3.0,Grady Martin,29.0,2.0,Max Tabarrok,28.0,4.0
+hop,3,False,Erin Converse,Alex Burgess,26.67,1.0,Gavin Shapiro,26.67,2.0,Jake Lowe,0.0,3.0,Sam Widell,0.0,4.0
+hop,5,False,Alexander Chang - Amala Karri,Alex Burgess,0.0,4.0,Gavin Shapiro,0.0,3.0,Paloma O'connor,0.0,2.0,Sarah Ryan,0.0,1.0
+hop,1,False,Sim Low,Blake James,23.0,4.0,Chayne Desasso,24.0,3.0,Dominic DeRamo,26.0,1.0,Patrick Han,26.0,2.0
+hop,4,False,Jerry Yang,Blake James,22.0,4.0,Chayne Desasso,23.0,3.0,Jonah Goldman,29.0,2.0,Max Sheremeta,30.0,1.0
+hop,2,True,Michael Koo - Nafiz Zaman,Arun Sharma,32.0,1.0,Trent Kannegieter,30.0,2.0,Dhruva Sumeshwar,25.0,3.0,Natt Sears,21.0,4.0
+hop,3,True,Caleb Foote - Juliette Berger,Arun Sharma,31.0,1.0,Trent Kannegieter,28.0,3.0,Alison Chan,26.0,4.0,Robin Gloss,30.0,2.0

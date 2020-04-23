@@ -1,0 +1,244 @@
+columbia,2,True,Keren Benzion,Kyle Cook,32.0,1.0,Shreya Parjan,27.0,2.0,Gaurav Bagur,25.0,3.0,Ting,22.0,4.0
+columbia,4,False,Zach Ginsberg,Kyle Cook,28.0,3.0,Shreya Parjan,27.0,4.0,Tai Henrichs,28.0,2.0,Yannick Davidson,28.0,1.0
+columbia,5,True,Matthew Simons,Kyle Cook,18.0,2.0,Shreya Parjan,25.0,1.0,Ananth Ghosh,18.0,3.0,Anthony Corey,18.0,4.0
+columbia,1,False,Layne Donovan,Clara Page,0.0,1.0,Mollie Hartenstein,0.0,2.0,Alex Burgess,0.0,3.0,Gavin Shapiro,0.0,4.0
+columbia,3,False,Edie Weinhardt,Clara Page,25.0,4.0,Mollie Hartenstein,26.0,3.0,Ben Kessler,28.0,1.0,Mitchell Mullen,27.0,2.0
+columbia,5,True,Liam Rahav,Clara Page,27.0,2.0,Mollie Hartenstein,28.0,1.0,Allie Wu,23.0,3.0,Gena Rising,22.0,4.0
+columbia,2,True,Hart Rapaport,Jacob Boehm,29.0,3.0,Zan Rozen,30.0,1.0,Haseeb Waseem,28.0,4.0,Monica Ochoa,29.0,2.0
+columbia,3,True,Leah Block,Jacob Boehm,30.0,1.0,Zan Rozen,30.0,2.0,Bhav Agarwal,25.0,4.0,Natalia Zorrilla,27.0,3.0
+columbia,4,False,Keren Benzion,Jacob Boehm,27.0,3.0,Zan Rozen,27.0,4.0,Ben Kessler,30.0,1.0,Mitchell Mullen,28.0,2.0
+columbia,1,False,Liam Rahav,Defei Gao,20.0,4.0,Maya Roberts,22.0,3.0,Dana Jacoby,26.0,1.0,Ethan Kim,26.0,2.0
+columbia,2,False,Raymond Fang,Defei Gao,28.0,4.0,Maya Roberts,28.0,3.0,Aashray Khanna,30.0,1.0,Sarem Leghari Khan,29.0,2.0
+columbia,4,False,Anna Lang,Defei Gao,22.0,4.0,Maya Roberts,25.0,2.0,Audrey Shing,24.0,3.0,Brendan Prestage,26.0,1.0
+columbia,1,True,Ilina Logani,Anirudh Iyer,30.0,1.0,Connor Bils,29.0,2.0,Renxi Xu,26.0,3.0,Victor Wang,25.0,4.0
+columbia,3,True,Matthew Simons,Anirudh Iyer,27.0,1.0,Connor Bils,21.0,4.0,Vikram Balasubramanian,23.0,3.0,Vita Raskevičiūtė,25.0,2.0
+columbia,5,False,Chiara Caraccio,Anirudh Iyer,29.0,3.0,Connor Bils,27.0,4.0,Maya Rubin,35.0,1.0,Nick Devito,33.0,2.0
+columbia,1,False,Ann Garth,Ally Boehning,23.0,3.0,Anara Chiongbian,22.0,4.0,Anish Welde,28.0,1.0,Vignesh Valliyur,27.0,2.0
+columbia,4,True,David Chen,Ally Boehning,28.0,1.0,Anara Chiongbian,27.0,2.0,Gabby Pavlakis,26.0,3.0,Jewel Thomas,24.0,4.0
+columbia,5,False,Andrea Huang,Ally Boehning,27.0,3.0,Anara Chiongbian,25.0,4.0,Eduardo Fernandez,28.0,2.0,Niti Ghosh,30.0,1.0
+columbia,1,True,Anna Lang,Allie Wu,24.0,3.0,Gena Rising,25.0,2.0,Sasha Chuprakova,26.0,1.0,Tim Formanuk,22.0,4.0
+columbia,4,False,Miranda Li,Allie Wu,0.0,1.0,Gena Rising,0.0,2.0,Atlas K.Y,0.0,3.0,Onder Kilinc,0.0,4.0
+columbia,1,True,Alia Derriey,Gaurav Bagur,28.0,1.0,Ting,24.0,3.0,Annabel Halaby,20.0,4.0,Kiley Hartman,26.0,2.0
+columbia,4,True,Daniel Kang,Gaurav Bagur,29.0,2.0,Ting,30.0,1.0,Mathilda Stricherz,27.0,3.0,Mikael Zarett,25.0,4.0
+columbia,5,False,Kathyrn Evans,Gaurav Bagur,26.0,3.0,Ting,26.0,4.0,Jackson Lubke,28.0,1.0,Katrina Hotaling,27.0,2.0
+columbia,1,False,Habiba Mbugua,Noah Lennon,27.0,2.0,Zach Pinto,25.0,4.0,Jason Walter,26.0,3.0,John Lowe,28.0,1.0
+columbia,4,False,Julia Powell,Noah Lennon,25.0,4.0,Zach Pinto,25.0,3.0,Gabby Mateo,26.0,2.0,Scott Santaella,27.0,1.0
+columbia,2,False,Jesse Maltese,Jason Walter,22.0,4.0,John Lowe,25.0,2.0,Lucy Gonzalez,24.0,3.0,Stephanie Wu,27.0,1.0
+columbia,3,False,Aditya Sharma,Jason Walter,23.0,4.0,John Lowe,24.0,3.0,Bruce Wu,27.0,2.0,Julian Galaz,27.0,1.0
+columbia,4,False,Nicolas Hortiguera,Jason Walter,23.0,4.0,John Lowe,26.0,3.0,Renxi Xu,28.0,1.0,Victor Wang,27.0,2.0
+columbia,1,True,Yasemin Reis,Anya Lukavsky,28.0,1.0,William Ott,26.0,2.0,Eric Kopp,26.0,4.0,Yohanna Torres,26.0,3.0
+columbia,4,False,Layne Donovan,Anya Lukavsky,16.0,4.0,William Ott,20.0,2.0,Edan Larkin,18.0,3.0,Joe Pate,23.0,1.0
+columbia,1,False,Edie Weinhardt,Joshua Jacob,23.0,4.0,Shiv Chawla,24.0,3.0,Aditiya Ram,28.0,1.0,Ben Koch,27.0,2.0
+columbia,3,False,Liam Rahav,Joshua Jacob,20.0,3.0,Shiv Chawla,18.0,4.0,Kaya Panchalingam,22.0,2.0,Nathaniel Hylton,26.0,1.0
+columbia,2,False,Zachary Lemonides,Cleo Elrashidy,29.0,3.0,Isaiah Paik,28.0,4.0,Cindy Zhao,33.0,1.0,Jackson Sega,31.0,2.0
+columbia,3,False,Nora Sam,Cleo Elrashidy,25.0,4.0,Isaiah Paik,27.0,3.0,Austin Goldsmith- Lachut,29.0,1.0,Greg Schwartz,28.0,2.0
+columbia,1,False,Layne Donovan,Wasi Ahmed,0.0,1.0,Yaroslav Opanasyuk,0.0,2.0,Alex Burgess,0.0,3.0,Gavin Shapiro,0.0,4.0
+columbia,2,False,Keir Adamson,Wasi Ahmed,22.0,3.0,Yaroslav Opanasyuk,20.0,4.0,Clara Page,30.0,1.0,Mollie Hartenstein,25.0,2.0
+columbia,1,False,Jacob Atkins,Jackson Lubke,25.0,4.0,Katrina Hotaling,25.0,2.0,Lindsey Perlman,25.0,3.0,Shreyoshi Das,27.0,1.0
+columbia,3,True,Ian Gates,Jackson Lubke,29.0,1.0,Katrina Hotaling,27.0,2.0,Hannah Patterson,24.0,4.0,Laurenn Vives,26.0,3.0
+columbia,4,False,Max Neuman,Jackson Lubke,24.0,4.0,Katrina Hotaling,26.0,3.0,Amna Amin,29.0,1.0,Quang Trinh,29.0,2.0
+columbia,2,True,Elijah Brown,Romina Lilollari,31.0,1.0,Teddy Wyman,28.0,2.0,Kelly Mu,26.0,4.0,Megan Hanson,26.0,3.0
+columbia,4,True,Nick Cathcart,Romina Lilollari,33.0,1.0,Teddy Wyman,32.0,2.0,Ben White,24.0,4.0,Kate Perrone,25.0,3.0
+columbia,5,True,Caleb Foote,Romina Lilollari,33.0,1.0,Teddy Wyman,32.0,2.0,Allan Lee,30.0,3.0,Szilveszter Palvolgyi,27.0,4.0
+columbia,1,True,Andrew Hong,Cindy Zhao,32.0,1.0,Jackson Sega,30.0,2.0,Caitlin Han,28.0,3.0,Hector Hernandez,25.0,4.0
+columbia,3,True,Pasha Temkin,Cindy Zhao,28.0,1.0,Jackson Sega,28.0,2.0,Wasi Ahmed,22.0,3.0,Yaroslav Opanasyuk,16.0,4.0
+columbia,3,True,Zoe Ewing,Andrew Choi,32.0,3.0,Jaedon Abbott,34.0,1.0,Romina Lilollari,33.0,2.0,Teddy Wyman,31.0,4.0
+columbia,5,False,Ann Garth,Andrew Choi,30.0,3.0,Jaedon Abbott,29.0,4.0,Jackson Utley,31.0,2.0,Rajul Bothra,32.0,1.0
+columbia,3,False,Nick Cathcart,Adam Ramzi,25.0,4.0,Andrew Souther,27.0,3.0,Aditiya Ram,30.0,1.0,Ben Koch,28.0,2.0
+columbia,4,False,Cyrus Jackson,Adam Ramzi,27.0,4.0,Andrew Souther,28.0,3.0,Maya Rubin,29.0,2.0,Nick Devito,30.0,1.0
+columbia,5,True,Alan Sun,Adam Ramzi,26.0,1.0,Andrew Souther,25.0,3.0,Sasha Chuprakova,25.0,2.0,Tim Formanuk,23.0,4.0
+columbia,1,True,Miranda Li,Mathilda Stricherz,26.0,1.0,Mikael Zarett,23.0,3.0,Lauren Long,20.0,4.0,Paola Apolinario,24.0,2.0
+columbia,3,False,Samarth Chawla,Mathilda Stricherz,25.0,3.0,Mikael Zarett,23.0,4.0,Ali Medina,28.0,1.0,Harper Oreck,27.0,2.0
+columbia,5,True,Rana Urek,Mathilda Stricherz,20.0,4.0,Mikael Zarett,31.0,1.0,Anya Lukavsky,28.0,2.0,William Ott,22.0,3.0
+columbia,1,False,Max Neuman,Samantha Wong,26.0,1.0,Shannon Rodgers,22.0,4.0,Ash Rose,24.0,2.0,Curtis McMackin,24.0,3.0
+columbia,3,False,Elijah Brown,Samantha Wong,0.0,1.0,Shannon Rodgers,0.0,2.0,Luke Carstens,0.0,3.0,Matthew Shang,0.0,4.0
+columbia,1,False,Sandor Lorange,Hannah Patterson,23.0,4.0,Laurenn Vives,24.0,3.0,Ben Dodge,29.0,1.0,Rebecca Han,27.0,2.0
+columbia,4,True,Catherine Zhu,Hannah Patterson,25.0,2.0,Laurenn Vives,26.0,1.0,Jenna Kaplan,25.0,3.0,Vinicius Freitas,24.0,4.0
+columbia,2,False,Liam Rahav,Luke Carstens,29.0,3.0,Matthew Shang,28.0,4.0,Charlene Canning,30.0,1.0,Joe Anderson,29.0,2.0
+columbia,4,False,Sandor Lorange,Luke Carstens,25.0,4.0,Matthew Shang,26.0,3.0,Lindsey Perlman,28.0,1.0,Shreyoshi Das,27.0,2.0
+columbia,5,False,Lilly Anderson,Luke Carstens,28.0,2.0,Matthew Shang,28.0,3.0,Gabby Mateo,27.0,4.0,Scott Santaella,29.0,1.0
+columbia,2,True,Zach Ginsberg,Renxi Xu,26.0,3.0,Victor Wang,26.0,1.0,Sasha Chuprakova,26.0,2.0,Tim Formanuk,25.0,4.0
+columbia,3,False,Julia Powell,Renxi Xu,24.0,3.0,Victor Wang,24.0,4.0,Allan Lee,26.0,2.0,Szilveszter Palvolgyi,26.0,1.0
+columbia,4,True,Robert Vogel,Annabel Halaby,23.0,3.0,Kiley Hartman,27.0,1.0,Lauren Long,22.0,4.0,Paola Apolinario,25.0,2.0
+columbia,5,True,Jacob Atkins,Annabel Halaby,30.0,4.0,Kiley Hartman,30.0,1.0,Kelly Mu,30.0,2.0,Megan Hanson,30.0,3.0
+columbia,2,False,Andrew Hong,Eric Kopp,24.0,4.0,Yohanna Torres,26.0,1.0,Joshua Jacob,25.0,3.0,Shiv Chawla,26.0,2.0
+columbia,3,False,Emanuel Zbeda,Eric Kopp,25.0,4.0,Yohanna Torres,25.0,3.0,Ben White,25.0,2.0,Kate Perrone,26.0,1.0
+columbia,1,False,Elijah Brown,Elisa Gonzalez,27.0,4.0,Nicole Kagan,28.0,3.0,Andrew Choi,31.0,1.0,Jaedon Abbott,30.0,2.0
+columbia,2,True,Ian Gates,Elisa Gonzalez,28.0,1.0,Nicole Kagan,27.0,2.0,Blake James,25.0,3.0,Chayne Dessaso,24.0,4.0
+columbia,5,True,Jesse Maltese,Elisa Gonzalez,28.0,1.0,Nicole Kagan,24.0,2.0,Luke Stoner,22.0,3.0,Nathan Frederickson,22.0,4.0
+columbia,1,False,Michael Wang (the younger),Gabrielle Salvado,25.0,4.0,Lena Lofgren,27.0,3.0,Drew Harrington,30.0,1.0,Josh Neudorf,29.0,2.0
+columbia,2,False,Rebekah Agwunobi,Gabrielle Salvado,0.0,1.0,Lena Lofgren,0.0,2.0,Ben White,24.0,3.25,Kate Perrone,24.5,2.75
+columbia,4,True,Jesse Maltese,Gabrielle Salvado,23.0,3.0,Lena Lofgren,26.0,1.0,Kaya Panchalingam,22.0,4.0,Nathaniel Hylton,24.0,2.0
+columbia,2,True,Yaniv Goren,Ali Medina,28.0,1.0,Harper Oreck,27.0,3.0,Josephine Kim,27.0,2.0,Maia Harrison,26.0,4.0
+columbia,4,False,Liam Rahav,Ali Medina,27.0,4.0,Harper Oreck,28.0,3.0,Ryan Jiang,30.0,1.0,Xiao-ke Lu,29.0,2.0
+columbia,1,False,Cyrus Jackson,Justin Qi,27.0,3.0,Tanay Patri,27.0,4.0,Jacob Boehm,29.0,1.0,Zan Rozen,28.0,2.0
+columbia,2,True,Jessica Han,Justin Qi,30.0,1.0,Tanay Patri,30.0,2.0,Amy Rose,22.0,4.0,Anna Smith,26.0,3.0
+columbia,4,True,Ann Garth,Justin Qi,30.0,1.0,Tanay Patri,27.0,4.0,Grace Xu,28.0,3.0,Jane Mentzinger,28.0,2.0
+columbia,2,False,Layne Donovan,Tarin Martinez,20.0,2.0,Đỗ Nguyên Tùng,19.0,3.0,Eduardo Fernandez,17.0,4.0,Niti Ghosh,23.0,1.0
+columbia,3,False,Raymond Banke,Tarin Martinez,33.0,1.0,Đỗ Nguyên Tùng,29.0,4.0,Ananya Hajra,31.0,3.0,Patrick Song,32.0,2.0
+columbia,5,False,Nicolas Hortiguera,Tarin Martinez,20.0,4.0,Đỗ Nguyên Tùng,22.0,2.0,Audrey Shing,21.0,3.0,Brendan Prestage,24.0,1.0
+columbia,4,False,Finlay Adamson,Caitlin Han,24.0,3.0,Hector Hernandez,24.0,4.0,Aashray Khanna,27.0,1.0,Sarem Leghari Khan,26.0,2.0
+columbia,5,False,Aditya Sharma,Caitlin Han,25.0,3.0,Hector Hernandez,25.0,4.0,Dana Jacoby,27.0,1.0,Ethan Kim,27.0,2.0
+columbia,3,True,Justin Roach,Haseeb Waseem,31.0,2.0,Monica Ochoa,32.0,1.0,Annabel Halaby,23.0,4.0,Kiley Hartman,24.0,3.0
+columbia,4,True,Matthew Simons,Haseeb Waseem,30.0,1.0,Monica Ochoa,30.0,2.0,Clara Page,29.0,3.0,Mollie Hartenstein,26.0,4.0
+columbia,1,True,Jesse Maltese,Liz Chen,28.0,1.0,Mohammed Sarker,22.0,2.0,Bolun Xia,21.0,4.0,Evan Ning,21.0,3.0
+columbia,2,False,Habiba Mbugua,Liz Chen,28.0,2.0,Mohammed Sarker,27.0,3.0,Anirudh Iyer,29.0,1.0,Connor Bils,27.0,4.0
+columbia,3,False,Andrew Hong,Liz Chen,30.0,2.0,Mohammed Sarker,28.0,4.0,Gabrielle Salvado,30.0,3.0,Lena Lofgren,32.0,1.0
+columbia,1,True,Michael Wang,Maya Rubin,31.0,1.0,Nick Devito,28.0,2.0,Katie Farrell,26.0,4.0,Tvisha Malik,26.0,3.0
+columbia,3,False,Keren Benzion,Maya Rubin,27.0,4.0,Nick Devito,29.0,2.0,Ben Dodge,33.0,1.0,Rebecca Han,27.0,3.0
+columbia,3,True,Jessica Han,Awsam Bouabid,26.0,2.0,Frank Rodriguez,26.0,1.0,Allie Wu,25.0,3.0,Gena Rising,24.0,4.0
+columbia,4,False,Ron Mucci,Awsam Bouabid,24.0,4.0,Frank Rodriguez,26.0,3.0,Katie Farrell,29.0,2.0,Tvisha Malik,30.0,1.0
+columbia,5,False,Ian Gates,Awsam Bouabid,25.0,4.0,Frank Rodriguez,25.0,3.0,Kaya Panchalingam,27.0,1.0,Nathaniel Hylton,26.0,2.0
+columbia,1,False,Adiba Ejaz,Audrey Shing,20.0,3.0,Brendan Prestage,18.0,4.0,Alex Purn,32.0,1.0,Daniel Lin,27.0,2.0
+columbia,2,False,Alan Sun,Audrey Shing,23.0,3.0,Brendan Prestage,22.0,4.0,Dan Berardino,24.0,2.0,Kalista Schauer,25.0,1.0
+columbia,2,False,Chengfeng Shao,Andrew Avalos,18.0,3.0,Joe Cox,17.0,4.0,Alex Gordon,22.0,1.0,Caleb Crayton,21.0,2.0
+columbia,4,True,Kathyrn Evans,Andrew Avalos,27.0,2.0,Joe Cox,28.0,1.0,Amber Gao,25.0,4.0,Skylar Jones,26.0,3.0
+columbia,2,False,Miranda Li,Dominic Mears,23.0,4.0,Vivek Kanpa,26.0,2.0,Jamie Clark,25.0,3.0,Rozey Hill,27.0,1.0
+columbia,4,False,Andrea Huang,Dominic Mears,27.0,3.0,Vivek Kanpa,26.0,4.0,Cleo Elrashidy,28.0,2.0,Isaiah Paik,30.0,1.0
+columbia,1,True,Benjamin Xu,Arushi Sahay,26.0,3.0,Kiara Chen,27.0,1.0,Jamie Clark,26.0,2.0,Rozey Hill,25.0,4.0
+columbia,2,False,Edie Weinhardt,Arushi Sahay,26.0,4.0,Kiara Chen,26.0,3.0,Arun Sharma,28.0,2.0,Ellie Singer,29.0,1.0
+columbia,5,True,Ron Mucci,Arushi Sahay,26.0,1.0,Kiara Chen,26.0,2.0,Renxi Xu,25.0,3.0,Victor Wang,25.0,4.0
+columbia,2,False,Daniel Kang,Amber Gao,27.0,3.0,Skylar Jones,26.0,4.0,Hannah Patterson,30.0,2.0,Laurenn Vives,33.0,1.0
+columbia,3,True,Miranda Li,Amber Gao,28.0,1.0,Skylar Jones,25.0,3.0,Gabby Pavlakis,28.0,2.0,Jewel Thomas,25.0,4.0
+columbia,5,True,Yasemin Reis,Amber Gao,22.0,2.0,Skylar Jones,23.0,1.0,Atlas K.Y,19.0,4.0,Onder Kilinc,21.0,3.0
+columbia,3,True,Michael Wang (the younger),Elias Shammas,23.0,1.0,Jackie Wang,22.0,2.0,Defei Gao,20.0,4.0,Maya Roberts,21.0,3.0
+columbia,4,True,Jessica Han,Elias Shammas,23.0,2.0,Jackie Wang,23.0,1.0,Gabe Cronin- Golomb,20.0,4.0,Wayland Bardwell,22.0,3.0
+columbia,5,False,Sandor Lorange,Elias Shammas,20.0,4.0,Jackie Wang,22.0,3.0,Austin Goldsmith- Lachut,27.0,1.0,Greg Schwartz,26.0,2.0
+columbia,1,True,Andrea Huang,Bruce Wu,28.0,2.0,Julian Galaz,30.0,1.0,Gabe Cronin- Golomb,27.0,3.0,Wayland Bardwell,25.0,4.0
+columbia,2,False,Cyrus Jackson,Bruce Wu,25.0,4.0,Julian Galaz,26.0,3.0,Caitlyn Kim,28.0,1.0,Tori Borlase,27.0,2.0
+columbia,5,True,Chengfeng Shao,Bruce Wu,27.0,2.0,Julian Galaz,29.0,1.0,Alex Purn,26.0,4.0,Daniel Lin,27.0,3.0
+columbia,3,False,Adiba Ejaz,Bolun Xia,25.0,2.0,Evan Ning,23.0,3.0,Dominic Mears,28.0,1.0,Vivek Kanpa,21.0,4.0
+columbia,4,False,Ilina Logani,Bolun Xia,24.0,3.0,Evan Ning,23.0,4.0,Blake James,30.0,1.0,Chayne Dessaso,29.0,2.0
+columbia,5,True,David Chen,Bolun Xia,27.0,1.0,Evan Ning,26.0,2.0,Defei Gao,24.0,4.0,Maya Roberts,25.0,3.0
+columbia,1,True,Wajiha Zhaffar,Devesh Kodnani,28.0,1.0,Max Wu,27.0,2.0,Ananya Hajra,24.0,4.0,Patrick Song,25.0,3.0
+columbia,3,True,Finlay Adamson,Devesh Kodnani,30.0,1.0,Max Wu,30.0,2.0,Eduardo Fernandez,26.0,4.0,Niti Ghosh,26.0,3.0
+columbia,4,True,Zoe Ewing,Devesh Kodnani,33.0,2.0,Max Wu,34.0,1.0,Jake Sledge,25.0,4.0,Tom Earl,25.0,3.0
+columbia,1,True,Keir Adamson,Craig Diskin,31.0,1.0,Ryan Shaffer,30.0,2.0,Dominic Mears,23.0,4.0,Vivek Kanpa,24.0,3.0
+columbia,2,True,Leah Block,Craig Diskin,30.0,2.0,Ryan Shaffer,31.0,1.0,Mathilda Stricherz,28.0,3.0,Mikael Zarett,25.0,4.0
+columbia,4,True,Chengfeng Shao,Craig Diskin,28.0,2.0,Ryan Shaffer,30.0,1.0,Samantha Wong,25.0,4.0,Shannon Rodgers,26.0,3.0
+columbia,1,True,Alan Sun,Charlene Canning,27.0,2.0,Joe Anderson,28.0,1.0,Gabby Mateo,24.0,4.0,Scott Santaella,25.0,3.0
+columbia,5,True,Varun Venkatesh,Charlene Canning,27.0,2.0,Joe Anderson,28.0,1.0,Samantha Wong,23.0,3.0,Shannon Rodgers,22.0,4.0
+columbia,2,True,Michael Wang,Vikram Balasubramanian,30.0,1.0,Vita Raskevičiūtė,29.0,4.0,Devesh Kodnani,30.0,2.0,Max Wu,29.0,3.0
+columbia,4,True,Lilly Anderson,Vikram Balasubramanian,28.0,3.0,Vita Raskevičiūtė,29.0,1.0,Nick Bukofsky,28.0,4.0,Rory Mahon,29.0,2.0
+columbia,5,True,Edie Weinhardt,Vikram Balasubramanian,29.0,1.0,Vita Raskevičiūtė,28.0,2.0,Jacob Boehm,25.0,4.0,Zan Rozen,27.0,3.0
+columbia,2,False,Caleb Foote,Lindsey Perlman,26.0,4.0,Shreyoshi Das,27.0,3.0,Maya Rubin,30.0,1.0,Nick Devito,28.0,2.0
+columbia,3,True,Yaniv Goren,Lindsey Perlman,28.0,2.0,Shreyoshi Das,28.0,1.0,Noah Lennon,26.0,3.0,Zach Pinto,26.0,4.0
+columbia,5,True,Ben Feshbach,Lindsey Perlman,29.0,4.0,Shreyoshi Das,34.0,1.0,Devesh Kodnani,31.0,3.0,Max Wu,32.0,2.0
+columbia,1,True,Kuangye Wang,Caitlyn Kim,27.0,1.0,Tori Borlase,26.0,3.0,Anna Izyumova,25.0,4.0,Jemima Williams,26.0,2.0
+columbia,4,False,Jacob Atkins,Caitlyn Kim,31.0,4.0,Tori Borlase,31.0,3.0,Drew Harrington,33.0,1.0,Josh Neudorf,32.0,2.0
+columbia,3,True,Caleb Foote,Lucy Gonzalez,23.0,4.0,Stephanie Wu,31.0,1.0,Kyle Cook,28.0,2.0,Shreya Parjan,26.0,3.0
+columbia,4,False,Malik Jarvis,Lucy Gonzalez,26.0,4.0,Stephanie Wu,29.0,3.0,Jaewan Park,29.0,2.0,Jay Gibbs,30.0,1.0
+columbia,5,False,Pasha Temkin,Lucy Gonzalez,27.0,4.0,Stephanie Wu,30.0,2.0,Craig Diskin,31.0,1.0,Ryan Shaffer,29.0,3.0
+columbia,2,True,Julia Powell,Katie Farrell,26.0,3.0,Tvisha Malik,27.0,1.0,Ally Boehning,27.0,2.0,Anara Chiongbian,25.0,4.0
+columbia,3,True,Andrea Huang,Katie Farrell,31.0,3.0,Tvisha Malik,33.0,1.0,Dan Berardino,30.0,4.0,Kalista Schauer,32.0,2.0
+columbia,5,False,Cyrus Jackson,Katie Farrell,31.0,3.0,Tvisha Malik,30.0,4.0,Ryan Jiang,33.0,1.0,Xiao-ke Lu,32.0,2.0
+columbia,2,True,Samarth Chawla,Anish Welde,30.0,1.0,Vignesh Valliyur,28.0,3.0,Ryan Jiang,27.0,4.0,Xiao-ke Lu,29.0,2.0
+columbia,3,True,Jesse Maltese,Anish Welde,33.0,1.0,Vignesh Valliyur,32.0,2.0,Arun Sharma,31.0,3.0,Ellie Singer,31.0,4.0
+columbia,4,True,Zachary Lemonides,Anish Welde,34.0,1.0,Vignesh Valliyur,33.0,2.0,Alex Purn,30.0,4.0,Daniel Lin,31.0,3.0
+columbia,1,True,Rebekah Agwunobi,Kaya Panchalingam,29.0,1.0,Nathaniel Hylton,26.0,3.0,Ali Medina,26.0,4.0,Harper Oreck,27.0,2.0
+columbia,2,False,Kuangye Wang,Kaya Panchalingam,29.0,1.0,Nathaniel Hylton,28.0,4.0,Bhav Agarwal,29.0,2.0,Natalia Zorrilla,28.0,3.0
+columbia,2,True,Ron Mucci,Allan Lee,27.0,1.0,Szilveszter Palvolgyi,25.0,3.0,Ananth Ghosh,25.0,4.0,Anthony Corey,26.0,2.0
+columbia,4,True,Edie Weinhardt,Allan Lee,27.0,1.0,Szilveszter Palvolgyi,25.0,4.0,Elisa Gonzalez,25.0,3.0,Nicole Kagan,26.0,2.0
+columbia,1,False,Robert Vogel,Aashray Khanna,28.0,2.0,Sarem Leghari Khan,25.0,4.0,Amna Amin,27.0,3.0,Quang Trinh,29.0,1.0
+columbia,5,True,Zach Ginsberg,Aashray Khanna,31.0,1.0,Sarem Leghari Khan,29.0,4.0,Justin Qi,30.0,3.0,Tanay Patri,30.0,2.0
+columbia,1,False,Erica Harper,Jaren Friesen,25.0,3.0,Mila Maglov,25.0,4.0,Vikram Balasubramanian,27.0,2.0,Vita Raskevičiūtė,29.0,1.0
+columbia,4,True,Habiba Mbugua,Jaren Friesen,28.0,1.0,Mila Maglov,25.0,4.0,Alex Burgess,26.0,3.0,Gavin Shapiro,26.0,2.0
+columbia,2,True,Finlay Adamson,Ben Dodge,27.0,1.0,Rebecca Han,26.0,2.0,Anya Lukavsky,23.0,3.0,William Ott,22.0,4.0
+columbia,4,False,Adrian Ivashkiv,Ben Dodge,24.0,4.0,Rebecca Han,25.0,3.0,Andrew Choi,25.0,2.0,Jaedon Abbott,29.0,1.0
+columbia,5,False,Max Neuman,Ben Dodge,25.0,4.0,Rebecca Han,29.0,2.0,Haseeb Waseem,26.0,3.0,Monica Ochoa,31.0,1.0
+columbia,1,True,Aditya Sharma,Ryan Jiang,27.0,2.0,Xiao-ke Lu,28.0,1.0,Tarin Martinez,25.0,3.0,Đỗ Nguyên Tùng,24.0,4.0
+columbia,3,True,Alan Sun,Ryan Jiang,28.0,1.0,Xiao-ke Lu,27.0,2.0,Anya Lukavsky,25.0,3.0,William Ott,24.0,4.0
+columbia,1,True,Connie Lee,Grace Xu,25.0,1.0,Jane Mentzinger,24.0,2.0,Elias Shammas,18.0,4.0,Jackie Wang,19.0,3.0
+columbia,3,True,Benjamin Xu,Grace Xu,27.0,3.0,Jane Mentzinger,29.0,1.0,Kelly Mu,26.0,4.0,Megan Hanson,28.0,2.0
+columbia,5,True,Finlay Adamson,Grace Xu,30.0,1.0,Jane Mentzinger,30.0,2.0,Andrew Avalos,28.0,3.0,Joe Cox,28.0,4.0
+columbia,2,False,Jacob Atkins,Amna Amin,32.0,2.0,Quang Trinh,30.0,4.0,Aditiya Ram,34.0,1.0,Ben Koch,32.0,3.0
+columbia,3,True,Hart Rapaport,Amna Amin,31.0,1.0,Quang Trinh,28.0,3.0,Andrew Avalos,29.0,2.0,Joe Cox,27.0,4.0
+columbia,5,False,Zachary Lemonides,Amna Amin,30.0,1.0,Quang Trinh,27.0,4.0,Gabrielle Salvado,29.0,2.0,Lena Lofgren,28.0,3.0
+columbia,1,True,Samarth Chawla,Bhav Agarwal,29.0,1.0,Natalia Zorrilla,27.0,2.0,Amelia Rothermel,21.0,4.0,Zoe Bagenstose,22.0,3.0
+columbia,4,True,Hilary Song,Bhav Agarwal,27.0,1.0,Natalia Zorrilla,26.0,2.0,Charlene Canning,25.0,4.0,Joe Anderson,26.0,3.0
+columbia,1,False,Jessica Han,Josephine Kim,21.0,3.0,Maia Harrison,20.0,4.0,Cleo Elrashidy,22.0,2.0,Isaiah Paik,22.0,1.0
+columbia,3,False,Anna Lang,Josephine Kim,27.0,1.0,Maia Harrison,26.0,2.0,Jaren Friesen,25.0,3.0,Mila Maglov,22.0,4.0
+columbia,5,True,Michael Wang (the younger),Josephine Kim,27.0,1.0,Maia Harrison,25.0,2.0,Alex Burgess,23.0,4.0,Gavin Shapiro,24.0,3.0
+columbia,1,True,Yaniv Goren,Jake Sledge,27.0,3.0,Tom Earl,27.0,1.0,Awsam Bouabid,27.0,4.0,Frank Rodriguez,27.0,2.0
+columbia,3,True,Alia Derriey,Jake Sledge,28.0,1.0,Tom Earl,25.0,3.0,Arushi Sahay,27.0,2.0,Kiara Chen,24.0,4.0
+columbia,5,True,Nora Sam,Jake Sledge,24.0,3.0,Tom Earl,26.0,1.0,Hannah Patterson,23.0,4.0,Laurenn Vives,25.0,2.0
+columbia,2,False,Emanuel Zbeda,Anna Izyumova,26.0,3.0,Jemima Williams,26.0,4.0,Annabel Halaby,27.0,1.0,Kiley Hartman,26.0,2.0
+columbia,3,True,Nicolas Hortiguera,Anna Izyumova,22.0,3.0,Jemima Williams,27.0,1.0,Amelia Rothermel,26.0,2.0,Zoe Bagenstose,19.0,4.0
+columbia,5,False,Miranda Li,Anna Izyumova,20.0,4.0,Jemima Williams,23.0,3.0,Jason Walter,25.0,2.0,John Lowe,26.0,1.0
+columbia,1,False,Leah Block,Eduardo Fernandez,25.0,4.0,Niti Ghosh,25.0,2.0,Adam Ramzi,25.0,1.0,Andrew Souther,25.0,3.0
+columbia,4,False,Andrew Hong,Eduardo Fernandez,25.0,4.0,Niti Ghosh,26.0,3.0,Arushi Sahay,28.0,1.0,Kiara Chen,27.0,2.0
+columbia,1,False,Zachary Lemonides,Atlas K.Y,25.0,3.0,Onder Kilinc,24.0,4.0,Kyle Cook,29.0,2.0,Shreya Parjan,30.0,1.0
+columbia,2,True,Erica Harper,Atlas K.Y,25.0,3.0,Onder Kilinc,26.0,1.0,Edan Larkin,24.0,4.0,Joe Pate,25.0,2.0
+columbia,3,False,Ron Mucci,Atlas K.Y,24.0,4.0,Onder Kilinc,25.0,3.0,Elisa Gonzalez,31.0,2.0,Nicole Kagan,32.0,1.0
+columbia,1,False,Nora Sam,Jenna Kaplan,26.0,3.0,Vinicius Freitas,25.0,4.0,Romina Lilollari,28.0,2.0,Teddy Wyman,29.0,1.0
+columbia,2,False,Ilina Logani,Jenna Kaplan,26.0,1.0,Vinicius Freitas,21.0,4.0,Samantha Wong,23.0,3.0,Shannon Rodgers,25.0,2.0
+columbia,5,True,Habiba Mbugua,Jenna Kaplan,28.0,1.0,Vinicius Freitas,26.0,3.0,Ananya Hajra,24.0,4.0,Patrick Song,27.0,2.0
+columbia,3,True,Max Neuman,Jackson Utley,30.0,2.0,Rajul Bothra,33.0,1.0,Caitlyn Kim,25.0,4.0,Tori Borlase,28.0,3.0
+columbia,4,True,Caleb Foote,Jackson Utley,31.0,1.0,Rajul Bothra,30.0,2.0,Ash Rose,23.0,3.0,Curtis McMackin,21.0,4.0
+columbia,3,True,Raymond Fang,Lauren Long,27.0,4.0,Paola Apolinario,29.0,1.0,Audrey Shing,28.0,3.0,Brendan Prestage,28.0,2.0
+columbia,5,False,Alia Derriey,Lauren Long,20.0,4.0,Paola Apolinario,27.0,2.0,Amy Rose,26.0,3.0,Anna Smith,31.0,1.0
+columbia,2,False,David Chen,Ananya Hajra,23.0,4.0,Patrick Song,25.0,2.0,Jackson Lubke,27.0,1.0,Katrina Hotaling,24.0,3.0
+columbia,4,False,Varun Venkatesh,Ananya Hajra,20.0,4.0,Patrick Song,22.0,2.0,Joshua Jacob,23.0,1.0,Shiv Chawla,21.0,3.0
+columbia,2,True,Zoe Ewing,Alex Purn,27.0,3.0,Daniel Lin,29.0,1.0,Grace Xu,27.0,4.0,Jane Mentzinger,28.0,2.0
+columbia,3,True,Cyrus Jackson,Alex Purn,27.0,2.0,Daniel Lin,28.0,1.0,Charlene Canning,26.0,3.0,Joe Anderson,25.0,4.0
+columbia,3,True,Daniel Kang,Sasha Chuprakova,27.0,1.0,Tim Formanuk,22.0,4.0,Blake James,23.0,3.0,Chayne Dessaso,26.0,2.0
+columbia,4,True,Alia Derriey,Sasha Chuprakova,30.0,1.0,Tim Formanuk,26.0,3.0,Anna Izyumova,20.0,4.0,Jemima Williams,27.0,2.0
+columbia,2,True,Pasha Temkin,Jaewan Park,29.0,2.0,Jay Gibbs,31.0,1.0,Allie Wu,27.0,3.0,Gena Rising,26.0,4.0
+columbia,5,True,Nick Cathcart,Jaewan Park,32.0,3.0,Jay Gibbs,34.0,1.0,Ben Kessler,33.0,2.0,Mitchell Mullen,30.0,4.0
+columbia,2,True,Raymond Banke,Gabe Cronin- Golomb,29.0,1.0,Wayland Bardwell,27.0,3.0,Lauren Long,25.0,4.0,Paola Apolinario,28.0,2.0
+columbia,5,True,Andrew Hong,Gabe Cronin- Golomb,25.0,1.0,Wayland Bardwell,24.0,2.0,Wasi Ahmed,24.0,3.0,Yaroslav Opanasyuk,24.0,4.0
+columbia,4,True,Leah Block,Aditiya Ram,30.0,2.0,Ben Koch,30.0,1.0,Anirudh Iyer,29.0,3.0,Connor Bils,27.0,4.0
+columbia,5,True,Keren Benzion,Aditiya Ram,27.0,2.0,Ben Koch,28.0,1.0,Cindy Zhao,26.0,4.0,Jackson Sega,27.0,3.0
+columbia,2,False,Justin Roach,Amelia Rothermel,0.0,1.0,Zoe Bagenstose,0.0,2.0,Caitlin Han,0.0,3.0,Hector Hernandez,0.0,4.0
+columbia,4,False,Erica Harper,Amelia Rothermel,24.0,3.0,Zoe Bagenstose,24.0,4.0,Tarin Martinez,25.0,2.0,Đỗ Nguyên Tùng,26.0,1.0
+columbia,1,False,Rana Urek,Gabby Pavlakis,23.0,3.0,Jewel Thomas,20.0,4.0,Alex Gordon,29.0,2.0,Caleb Crayton,30.0,1.0
+columbia,2,False,Benjamin Xu,Gabby Pavlakis,23.25,3.0,Jewel Thomas,21.5,3.75,Noah Lennon,0.0,3.0,Zach Pinto,0.0,4.0
+columbia,5,False,Daniel Kang,Gabby Pavlakis,16.0,4.0,Jewel Thomas,17.0,3.0,Eric Kopp,19.0,1.0,Yohanna Torres,18.0,2.0
+columbia,1,False,Varun Venkatesh,Ben White,22.0,4.0,Kate Perrone,23.0,3.0,Andrew Avalos,24.0,2.0,Joe Cox,25.0,1.0
+columbia,5,False,Julia Powell,Ben White,25.0,3.0,Kate Perrone,24.0,4.0,Liz Chen,28.0,1.0,Mohammed Sarker,27.0,2.0
+columbia,2,True,Michael Wang (the younger),Gabby Mateo,22.0,3.0,Scott Santaella,25.0,1.0,Jaren Friesen,24.0,2.0,Mila Maglov,21.0,4.0
+columbia,3,False,Hilary Song,Gabby Mateo,24.0,3.0,Scott Santaella,24.0,4.0,Drew Harrington,27.0,2.0,Josh Neudorf,27.0,1.0
+columbia,2,False,Varun Venkatesh,Austin Goldsmith- Lachut,28.0,3.0,Greg Schwartz,27.0,4.0,Jackson Utley,30.0,1.0,Rajul Bothra,29.0,2.0
+columbia,4,False,Elijah Brown,Austin Goldsmith- Lachut,29.0,2.0,Greg Schwartz,27.0,4.0,Bruce Wu,28.0,3.0,Julian Galaz,29.0,1.0
+columbia,2,True,Matthew Simons,Dana Jacoby,24.0,2.0,Ethan Kim,26.0,1.0,Luke Stoner,18.0,4.0,Nathan Frederickson,22.0,3.0
+columbia,3,False,Chengfeng Shao,Dana Jacoby,26.0,4.0,Ethan Kim,27.0,3.0,Jaewan Park,29.0,2.0,Jay Gibbs,31.0,1.0
+columbia,1,False,Matthew Simons,Edan Larkin,26.0,3.0,Joe Pate,23.0,4.0,Jaewan Park,29.0,2.0,Jay Gibbs,32.0,1.0
+columbia,5,False,Elijah Brown,Edan Larkin,27.0,3.0,Joe Pate,26.0,4.0,Ali Medina,28.0,2.0,Harper Oreck,29.0,1.0
+columbia,1,True,Ian Gates,Ben Kessler,29.0,1.0,Mitchell Mullen,28.0,2.0,Nick Bukofsky,27.0,3.0,Rory Mahon,26.0,4.0
+columbia,2,True,Sandor Lorange,Ben Kessler,29.0,2.0,Mitchell Mullen,30.0,1.0,Jake Sledge,24.0,4.0,Tom Earl,26.0,3.0
+columbia,1,True,Finlay Adamson,Kelly Mu,28.0,1.0,Megan Hanson,25.0,3.0,Amber Gao,24.0,4.0,Skylar Jones,27.0,2.0
+columbia,4,True,Aditya Sharma,Kelly Mu,29.0,1.0,Megan Hanson,27.0,2.0,Amy Rose,25.0,4.0,Anna Smith,26.0,3.0
+columbia,2,False,Max Neuman,Drew Harrington,31.0,2.0,Josh Neudorf,24.0,4.0,Adam Ramzi,25.0,3.0,Andrew Souther,32.0,1.0
+columbia,5,True,Malik Jarvis,Drew Harrington,29.0,1.0,Josh Neudorf,28.0,2.0,Bhav Agarwal,26.0,3.0,Natalia Zorrilla,26.0,4.0
+columbia,2,False,Nick Cathcart,Ash Rose,21.0,4.0,Curtis McMackin,23.0,3.0,Andrew Choi,26.0,1.0,Jaedon Abbott,25.0,2.0
+columbia,3,False,Varun Venkatesh,Ash Rose,0.0,1.0,Curtis McMackin,0.0,3.0,Justin Qi,0.0,2.0,Tanay Patri,0.0,4.0
+columbia,5,False,Robert Vogel,Ash Rose,23.0,4.0,Curtis McMackin,25.0,3.0,Caitlyn Kim,26.0,2.0,Tori Borlase,29.0,1.0
+columbia,1,False,Ron Mucci,Blake James,0.0,1.0,Chayne Dessaso,0.0,2.0,Luke Carstens,0.0,3.0,Matthew Shang,0.0,4.0
+columbia,5,False,Yasemin Reis,Blake James,0.0,3.0,Chayne Dessaso,0.0,4.0,Atlas K.Y,19.0,4.0,Onder Kilinc,21.0,3.0
+columbia,2,False,Andrea Huang,Alex Burgess,28.0,2.0,Gavin Shapiro,25.0,4.0,Awsam Bouabid,26.0,3.0,Frank Rodriguez,29.0,1.0
+columbia,3,False,David Chen,Alex Burgess,25.0,4.0,Gavin Shapiro,27.0,2.0,Edan Larkin,29.0,1.0,Joe Pate,26.0,3.0
+columbia,1,False,Hart Rapaport,Dan Berardino,28.0,2.0,Kalista Schauer,27.0,3.0,Lucy Gonzalez,26.0,4.0,Stephanie Wu,31.0,1.0
+columbia,4,True,Nora Sam,Dan Berardino,26.0,1.0,Kalista Schauer,25.0,2.0,Wasi Ahmed,22.0,3.0,Yaroslav Opanasyuk,20.0,4.0
+columbia,5,True,Hilary Song,Dan Berardino,27.0,1.0,Kalista Schauer,26.0,2.0,Jaren Friesen,26.0,3.0,Mila Maglov,25.0,4.0
+columbia,1,True,Daniel Kang,Luke Stoner,29.0,1.0,Nathan Frederickson,29.0,2.0,Tai Henrichs,27.0,4.0,Yannick Davidson,28.0,3.0
+columbia,3,False,Keir Adamson,Luke Stoner,0.0,4.0,Nathan Frederickson,0.0,3.0,Aashray Khanna,0.0,1.0,Sarem Leghari Khan,0.0,2.0
+columbia,4,True,Ian Gates,Luke Stoner,25.0,4.0,Nathan Frederickson,28.0,1.0,Liz Chen,27.0,2.0,Mohammed Sarker,26.0,3.0
+columbia,1,False,Kathyrn Evans,Ananth Ghosh,0.0,1.0,Anthony Corey,0.0,2.0,Jackson Utley,0.0,3.0,Rajul Bothra,0.0,4.0
+columbia,3,False,Layne Donovan,Ananth Ghosh,16.0,3.0,Anthony Corey,15.0,4.0,Jenna Kaplan,17.0,2.0,Vinicius Freitas,18.0,1.0
+columbia,4,True,Michael Wang (the younger),Ananth Ghosh,26.0,1.0,Anthony Corey,24.0,2.0,Eric Kopp,23.0,3.0,Yohanna Torres,22.0,4.0
+columbia,1,False,Julia Powell,Amy Rose,20.0,4.0,Anna Smith,21.0,3.0,Haseeb Waseem,26.0,2.0,Monica Ochoa,27.0,1.0
+columbia,3,True,Erica Harper,Amy Rose,25.0,3.0,Anna Smith,25.0,2.0,Ally Boehning,26.0,1.0,Anara Chiongbian,23.0,4.0
+columbia,3,False,Habiba Mbugua,Jamie Clark,25.0,4.0,Rozey Hill,26.0,3.0,Caitlin Han,28.0,1.0,Hector Hernandez,27.0,2.0
+columbia,4,True,Hart Rapaport,Jamie Clark,26.0,1.0,Rozey Hill,25.0,3.0,Josephine Kim,25.0,2.0,Maia Harrison,24.0,4.0
+columbia,5,False,Catherine Zhu,Jamie Clark,26.0,3.0,Rozey Hill,25.0,4.0,Cleo Elrashidy,28.0,2.0,Isaiah Paik,29.0,1.0
+columbia,2,True,Nora Sam,Tai Henrichs,24.0,1.0,Yannick Davidson,23.0,2.0,Elias Shammas,22.0,3.0,Jackie Wang,20.0,4.0
+columbia,3,True,Kathyrn Evans,Tai Henrichs,28.0,2.0,Yannick Davidson,29.0,1.0,Gabe Cronin- Golomb,26.0,4.0,Wayland Bardwell,27.0,3.0
+columbia,2,True,Kathyrn Evans,Nick Bukofsky,29.0,2.0,Rory Mahon,30.0,1.0,Bolun Xia,26.0,3.0,Evan Ning,26.0,4.0
+columbia,3,True,Jacob Atkins,Nick Bukofsky,26.0,2.0,Rory Mahon,28.0,1.0,Gaurav Bagur,26.0,3.0,Ting,25.0,4.0
+columbia,5,True,Hart Rapaport,Nick Bukofsky,28.0,1.0,Rory Mahon,27.0,2.0,Joshua Jacob,27.0,3.0,Shiv Chawla,27.0,4.0
+columbia,3,True,Zachary Lemonides,Alex Gordon,29.0,1.0,Caleb Crayton,27.0,3.0,Craig Diskin,27.0,4.0,Ryan Shaffer,28.0,2.0
+columbia,4,False,Ben Feshbach,Alex Gordon,25.0,3.0,Caleb Crayton,24.0,4.0,Cindy Zhao,29.0,1.0,Jackson Sega,27.0,2.0
+columbia,5,False,Leah Block,Alex Gordon,29.0,3.0,Caleb Crayton,29.0,4.0,Anish Welde,30.0,1.0,Vignesh Valliyur,30.0,2.0
+columbia,1,True,David Chen,Arun Sharma,28.0,3.0,Ellie Singer,30.0,1.0,Allan Lee,29.0,2.0,Szilveszter Palvolgyi,26.0,4.0
+columbia,4,True,Chiara Caraccio,Arun Sharma,32.0,2.0,Ellie Singer,33.0,1.0,Dana Jacoby,27.0,4.0,Ethan Kim,28.0,3.0
+columbia,5,True,Adrian Ivashkiv,Arun Sharma,31.0,2.0,Ellie Singer,32.0,1.0,Tai Henrichs,27.0,4.0,Yannick Davidson,27.0,3.0

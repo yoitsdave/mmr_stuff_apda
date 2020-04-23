@@ -1,0 +1,7 @@
+
+au_1 			 2
+bing_1 			 2
+brown_1 			 0
+brown_2 			 0
+bu_1 			 1
+cmu_1 			 1

@@ -1,0 +1,18 @@
+********************************************************************************
+Tournament: pitt
+********************************************************************************
+--------------------------------------------------------------------------------
+A team appeared on opp that didnt appear on gov - this usually indicates unicode
+fuckery. manually exclude this team by setting --ignore [DEBATER ON THE TEAM].
+After rerunning with that setting, you can safely ignore this warning. It will 
+keep coming after all teams are excluded - sorry!
+--------------------------------------------------------------------------------
+The following teams were parsed abnormally and may have come out funky:
+
+--------------------------------------------------------------------------------
+The following teams failed and need to be added manually:
+('Josh Neudorf', 'Thomas II Hyun Kim')
+('EricaFisher', '4')
+('AlexSaraff-TravisHunsburger-ZachSchaub', '3')
+('AlisonChan-KyleCoopersmith', '2')
+--------------------------------------------------------------------------------

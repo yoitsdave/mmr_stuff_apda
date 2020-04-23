@@ -1,0 +1,11 @@
+echo "" > logs/failures.txt
+echo "" > logs/all.stderr
+
+for file in `ls 18_19/*.pdf`
+do
+  tourney=`basename $file .pdf`
+  echo Running $tourney
+  echo "Running $tourney" >> logs/all.stderr
+  ./tc_pdf_to_csv $tourney 19_20/$tourney.pdf autogen_csv/$tourney.csv logs/$tourney.txt 2>> logs/all.stderr
+  echo -e "$tourney \t\t\t $?" >> logs/failures.txt
+done

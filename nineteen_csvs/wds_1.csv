@@ -1,0 +1,38 @@
+wds_1,2,True,Monica Ochoa,Ann Garth,31.0,2.0,Claire Fishman,32.0,1.0,Romina Lilollari,31.0,3.0,Teddy Wyman,30.0,4.0
+wds_1,4,False,Kelsey Dunn,Ann Garth,28.0,4.0,Claire Fishman,29.0,3.0,Ravi Simon,32.0,1.0,Tanay Patri,31.0,2.0
+wds_1,5,True,Angelina Li,Ann Garth,30.0,2.0,Claire Fishman,31.0,1.0,Maya Benziger,27.0,3.0,Christina Wang,26.0,4.0
+wds_1,2,True,Isabella Tomovski,Kavya Gopinath,27.0,3.0,Mia Stone- Molloy,30.0,1.0,Michael Froid,28.0,2.0,Sean Anderson,26.0,4.0
+wds_1,3,True,Angelina Li,Kavya Gopinath,28.0,2.0,Mia Stone- Molloy,29.0,1.0,Ella Gagne,25.0,3.0,Madeline Turner,25.0,4.0
+wds_1,4,False,Kizzy Dhaliwal,Kavya Gopinath,28.0,4.0,Mia Stone- Molloy,29.0,3.0,Ben Feshbach,30.0,2.0,Ryan Shaffer,32.0,1.0
+wds_1,2,True,Angelina Li,Harry Xie,24.0,3.0,Roxanne Daniel,24.0,2.0,Claire Fraise,22.0,4.0,Kyle Cook,25.0,1.0
+wds_1,5,True,Isabella Tomovski,Harry Xie,27.0,2.0,Roxanne Daniel,27.0,1.0,Ella Gagne,26.0,3.0,Madeline Turner,25.0,4.0
+wds_1,1,False,Madeline Hudalla,Ella Gagne,26.0,4.0,Madeline Turner,27.0,2.0,Maya Benziger,26.0,3.0,Christina Wang,28.0,1.0
+wds_1,2,True,Bridget Peak,Ella Gagne,31.0,3.0,Madeline Turner,33.0,1.0,Harry Meadows,33.0,2.0,Adam Naddaff- Slocum,27.0,4.0
+wds_1,2,True,Maya Rubin,Carly Longman,27.0,1.0,Cameron Bonnel,24.0,4.0,Zander Maitland,25.0,3.0,Pete Riley,26.0,2.0
+wds_1,3,False,Sandy Greenberg,Carly Longman,27.0,3.0,Cameron Bonnel,25.0,4.0,Nick DeVito,27.0,2.0,John Goulandris,32.0,1.0
+wds_1,3,False,Kelsey Dunn,Erin Crowell,26.0,3.0,David Javadian,25.0,4.0,Harry Meadows,27.0,1.0,Adam Naddaff- Slocum,26.0,2.0
+wds_1,4,False,Monica Ochoa,Erin Crowell,27.0,3.0,David Javadian,25.0,4.0,Ella Gagne,30.0,1.0,Madeline Turner,29.0,2.0
+wds_1,1,True,Bridget Peak,Ben Feshbach,33.0,1.0,Ryan Shaffer,32.0,2.0,Carly Longman,27.0,3.0,Cameron Bonnel,25.0,4.0
+wds_1,3,False,Maya Rubin,Ben Feshbach,29.0,4.0,Ryan Shaffer,30.0,2.0,Ann Garth,30.0,3.0,Claire Fishman,32.0,1.0
+wds_1,5,False,Monica Ochoa,Ben Feshbach,29.0,4.0,Ryan Shaffer,30.0,2.0,Nick DeVito,29.0,3.0,John Goulandris,31.0,1.0
+wds_1,2,True,Jonah Goldberg,Ravi Simon,31.0,3.0,Tanay Patri,31.0,2.0,Nick DeVito,28.0,4.0,John Goulandris,34.0,1.0
+wds_1,3,True,Monica Ochoa,Ravi Simon,31.0,1.0,Tanay Patri,31.0,2.0,Harry Xie,28.0,3.0,Roxanne Daniel,27.0,4.0
+wds_1,5,True,Michael Froid,Ravi Simon,31.0,1.0,Tanay Patri,28.0,3.0,Greg Schwarts,26.0,4.0,Yuan Wong,31.0,2.0
+wds_1,2,True,Madeline Hudalla,Greg Schwarts,29.0,1.0,Yuan Wong,29.0,2.0,Erin Crowell,27.0,3.0,David Javadian,25.0,4.0
+wds_1,4,True,Sandy Greenberg,Greg Schwarts,30.0,1.0,Yuan Wong,26.0,3.0,Romina Lilollari,27.0,2.0,Teddy Wyman,25.0,4.0
+wds_1,1,True,Maya Rubin,Romina Lilollari,30.0,2.0,Teddy Wyman,31.0,1.0,Erin Crowell,29.0,3.0,David Javadian,26.0,4.0
+wds_1,5,True,Kelsey Dunn,Romina Lilollari,33.0,1.0,Teddy Wyman,31.0,2.0,Carly Longman,28.0,3.0,Cameron Bonnel,27.0,4.0
+wds_1,1,False,Sandy Greenberg,Harry Meadows,30.0,2.0,Adam Naddaff- Slocum,26.0,4.0,Ravi Simon,31.0,1.0,Tanay Patri,30.0,3.0
+wds_1,4,True,Angelina Li,Harry Meadows,25.0,1.0,Adam Naddaff- Slocum,23.0,3.0,Carly Longman,24.0,2.0,Cameron Bonnel,22.0,4.0
+wds_1,5,False,Madeline Hudalla,Harry Meadows,28.0,2.0,Adam Naddaff- Slocum,25.0,4.0,Kavya Gopinath,26.0,3.0,Mia Stone- Molloy,28.0,1.0
+wds_1,2,False,Sandy Greenberg,Maya Benziger,27.0,2.0,Christina Wang,25.0,4.0,Ben Feshbach,26.0,3.0,Ryan Shaffer,29.0,1.0
+wds_1,3,False,Jonah Goldberg,Maya Benziger,24.0,3.0,Christina Wang,24.0,4.0,Greg Schwarts,26.0,2.0,Yuan Wong,27.0,1.0
+wds_1,4,True,Michael Froid,Maya Benziger,31.0,1.0,Christina Wang,28.0,3.0,Claire Fraise,30.0,2.0,Kyle Cook,28.0,4.0
+wds_1,1,False,Elizabeth Mason,Zander Maitland,31.0,2.0,Pete Riley,29.0,4.0,Harry Xie,32.0,1.0,Roxanne Daniel,30.0,3.0
+wds_1,5,False,Jonah Goldberg,Zander Maitland,24.0,4.0,Pete Riley,25.0,3.0,Claire Fraise,27.0,2.0,Kyle Cook,28.0,1.0
+wds_1,1,True,Marie Zhang,Nick DeVito,31.0,1.0,John Goulandris,29.0,2.0,Greg Schwarts,28.0,3.0,Yuan Wong,27.0,4.0
+wds_1,4,True,Maya Rubin,Nick DeVito,29.0,1.0,John Goulandris,29.0,2.0,Harry Xie,28.0,3.0,Roxanne Daniel,27.0,4.0
+wds_1,1,True,Monica Ochoa,Claire Fraise,27.0,3.0,Kyle Cook,29.0,1.0,Kavya Gopinath,27.0,4.0,Mia Stone- Molloy,28.0,2.0
+wds_1,3,False,Isabella Tomovski,Claire Fraise,27.0,4.0,Kyle Cook,28.0,3.0,Romina Lilollari,29.0,2.0,Teddy Wyman,30.0,1.0
+wds_1,1,False,Jenny Tang,Michael Froid,28.0,3.0,Sean Anderson,26.0,4.0,Ann Garth,29.0,2.0,Claire Fishman,30.0,1.0
+wds_1,3,True,Bridget Peak,Michael Froid,31.0,1.0,Sean Anderson,27.0,3.0,Zander Maitland,27.0,4.0,Pete Riley,27.0,2.0

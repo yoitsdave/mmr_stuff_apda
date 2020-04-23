@@ -1,0 +1,55 @@
+pitt_1,2,False,Joseph McGroarty - Erica Fisher,Elijah Brown,19.0,4.0,Joel Macklin,22.0,3.0,Joey Schnide,34.0,1.0,Rachel Kane,30.0,2.0
+pitt_1,3,False,Kristen Buckholt,Elijah Brown,23.0,4.0,Joel Macklin,24.0,3.0,Alex Mericola,30.0,2.0,Sean Taltavall,30.0,1.0
+pitt_1,4,False,Dan Cobos2,Elijah Brown,28.0,3.0,Joel Macklin,28.0,4.0,Arya Royal,30.0,2.0,Yixuan Liu,33.0,1.0
+pitt_1,2,True,Travis Hunsberger,John Boyer,27.0,2.0,Langdon Ogburn,28.0,1.0,Lucia Yang,25.0,3.0,Simon Ospenson,20.0,4.0
+pitt_1,3,False,Joseph McGroarty,John Boyer,23.0,3.0,Langdon Ogburn,21.0,4.0,Jared Gaby- Biegel,24.0,2.0,Lydia Kim,24.0,1.0
+pitt_1,5,False,John Bogert2,John Boyer,16.0,4.0,Langdon Ogburn,17.0,3.0,Gaurav Gawankar,19.0,1.0,Stephanie Purwanto,18.0,2.0
+pitt_1,2,False,Mike Riederer,Isaiah Suggs,16.0,4.0,Luke Stoner,18.0,3.0,Hunter Conrad,23.0,1.0,Reagan Werner,20.0,2.0
+pitt_1,3,True,Dan Cobos,Ananth Ghosh,27.0,1.0,Josh Foust,26.0,2.0,Daniel Coyne,25.0,4.0,Alex Mackenzie,26.0,3.0
+pitt_1,4,False,Miles Stepleton2,Ananth Ghosh,20.0,4.0,Josh Foust,20.0,3.0,Lucia Yang,32.0,1.0,Simon Ospenson,30.0,2.0
+pitt_1,2,False,Sam Slezak,Sam Rosende,21.0,4.0,Vanessa Chen,22.0,3.0,Parker Kelly,26.0,1.0,Adam Brown,25.0,2.0
+pitt_1,4,True,Nate Sumimoto2,Sam Rosende,23.0,3.0,Vanessa Chen,24.0,1.0,Daniel Coyne,21.0,4.0,Alex Mackenzie,24.0,2.0
+pitt_1,5,False,Dan Cobos2,Sam Rosende,25.0,4.0,Vanessa Chen,26.0,2.0,Ananth Ghosh,27.0,1.0,Josh Foust,25.0,3.0
+pitt_1,1,False,Miles Stepleton,Daniel Coyne,20.0,4.0,Alex Mackenzie,23.0,2.0,Elijah Brown,21.0,3.0,Joel Macklin,24.0,1.0
+pitt_1,5,False,Tyler Viljaste2,Daniel Coyne,21.0,4.0,Alex Mackenzie,24.0,1.0,Isaiah Suggs,23.0,2.0,Luke Stoner,23.0,3.0
+pitt_1,1,True,Joseph McGroarty - Lenny Brahin,Adam Harrington,27.0,2.0,Malcolm Ferguson,29.0,1.0,Cayleigh Soderholm,22.0,3.0,Matt Cryer,21.0,4.0
+pitt_1,4,True,Sam Slezak2,Adam Harrington,25.0,3.0,Malcolm Ferguson,27.0,2.0,Isaiah Suggs,17.0,4.0,Luke Stoner,28.0,1.0
+pitt_1,1,True,Dean Walters - Nate Sumimoto,Arya Royal,29.0,2.0,Yixuan Liu,30.0,1.0,Isaiah Suggs,21.0,4.0,Luke Stoner,23.0,3.0
+pitt_1,2,True,Alison Chan,Arya Royal,29.0,3.0,Yixuan Liu,31.0,1.0,Jared Gaby- Biegel,28.0,4.0,Lydia Kim,31.0,2.0
+pitt_1,1,True,Dan Cobos - Travis Hunsberger,Alex Mericola,29.0,3.0,Sean Taltavall,30.0,2.0,Hunter Daniels,27.0,4.0,Kalista Schauer,31.0,1.0
+pitt_1,5,False,Haseeb Waseem2,Alex Mericola,30.0,3.0,Sean Taltavall,27.0,4.0,Cayleigh Soderholm,32.0,1.0,Matt Cryer,30.0,2.0
+pitt_1,3,False,Haseeb Waseem,Hunter Conrad,23.0,3.0,Reagan Werner,23.0,4.0,Rajul Bothra,30.0,2.0,Jackson Utley,30.0,1.0
+pitt_1,4,True,Mike Riederer2,Hunter Conrad,22.0,2.0,Reagan Werner,24.0,1.0,Hunter Daniels,20.0,4.0,Kalista Schauer,22.0,3.0
+pitt_1,5,False,Sam Slezak2 - Shelby Vanvhet2,Hunter Conrad,28.0,3.0,Reagan Werner,27.0,4.0,John Somerlott,29.0,2.0,Evan Rosenbaum,31.0,1.0
+pitt_1,2,True,Sara Zdancewicz,John Somerlott,28.0,2.0,Evan Rosenbaum,30.0,1.0,Ananth Ghosh,25.0,4.0,Josh Foust,27.0,3.0
+pitt_1,4,True,Haseeb Waseem,John Somerlott,28.0,3.0,Evan Rosenbaum,30.0,1.0,Alex Mericola,28.0,2.0,Sean Taltavall,26.0,4.0
+pitt_1,2,False,Jake Love - Tyler Viljaste - Shelby Vanvhet,Cayleigh Soderholm,28.0,4.0,Matt Cryer,28.0,3.0,Eve Fidler,30.0,1.0,Jared Stone,29.0,2.0
+pitt_1,3,True,Sara Zdancewicz,Cayleigh Soderholm,27.0,2.0,Matt Cryer,28.0,1.0,Isaiah Suggs,25.0,3.0,Luke Stoner,24.0,4.0
+pitt_1,4,True,Travis Hunsberger2,Cayleigh Soderholm,27.0,2.0,Matt Cryer,28.0,1.0,John Boyer,17.0,4.0,Langdon Ogburn,20.0,3.0
+pitt_1,1,True,Mike Riederer,Gaurav Gawankar,30.0,1.0,Stephanie Purwanto,30.0,2.0,Lucia Yang,28.0,3.0,Simon Ospenson,20.0,4.0
+pitt_1,2,True,Haseeb Waseem,Gaurav Gawankar,30.0,2.0,Stephanie Purwanto,30.0,1.0,Adam Harrington,27.0,4.0,Malcolm Ferguson,28.0,3.0
+pitt_1,3,False,Erica Fisher - Alison Chan,Gaurav Gawankar,28.0,4.0,Stephanie Purwanto,29.0,3.0,Jela Shriver,32.0,1.0,Nikhil Kishore,32.0,2.0
+pitt_1,1,True,Haseeb Waseem - Shelby Vanvhet,Joey Schnide,30.0,2.0,Rachel Kane,31.0,1.0,John Boyer,23.0,4.0,Langdon Ogburn,24.0,3.0
+pitt_1,3,True,Jake Love - Travis Hunsberger - Tyler Viljaste,Joey Schnide,34.0,1.0,Rachel Kane,31.0,3.0,Arya Royal,30.0,4.0,Yixuan Liu,33.0,2.0
+pitt_1,3,True,John Bogert,Parker Kelly,27.0,1.0,Adam Brown,25.0,3.0,Adam Harrington,26.0,2.0,Malcolm Ferguson,24.0,4.0
+pitt_1,4,False,Dean Walters2 - John Bogert2,Parker Kelly,26.0,3.0,Adam Brown,25.0,4.0,Eve Fidler,30.0,1.0,Jared Stone,29.0,2.0
+pitt_1,1,True,Sara Zdancewicz,Jared Gaby- Biegel,27.0,1.0,Lydia Kim,26.0,2.0,Sam Rosende,24.0,3.0,Vanessa Chen,20.0,4.0
+pitt_1,4,False,Brynne Zubey - Kyle Coopersmith - Lenny Brahin,Jared Gaby- Biegel,28.0,4.0,Lydia Kim,29.0,3.0,Joe Clancy,30.0,1.0,Ally Ross,29.0,2.0
+pitt_1,5,True,Mike Riederer,Jared Gaby- Biegel,32.0,3.0,Lydia Kim,33.0,1.0,Adam Harrington,33.0,2.0,Malcolm Ferguson,30.0,4.0
+pitt_1,1,True,Tyler Viljaste - Kristen Buckholt,Rajul Bothra,26.0,2.0,Jackson Utley,27.0,1.0,Ananth Ghosh,23.0,4.0,Josh Foust,24.0,3.0
+pitt_1,4,True,Joseph McGroarty,Rajul Bothra,33.0,1.0,Jackson Utley,31.0,2.0,Gaurav Gawankar,25.0,3.0,Stephanie Purwanto,24.0,4.0
+pitt_1,5,True,Dean Walters2 - Joseph McGroarty2,Rajul Bothra,32.0,1.0,Jackson Utley,32.0,2.0,Arya Royal,21.0,4.0,Yixuan Liu,25.0,3.0
+pitt_1,1,True,Jake Love - Erica Fisher,Joe Clancy,30.0,3.0,Ally Ross,31.0,1.0,Parker Kelly,30.0,2.0,Adam Brown,28.0,4.0
+pitt_1,2,True,Dan Cobos - Miles Stepleton,Joe Clancy,30.0,3.0,Ally Ross,31.0,1.0,Rajul Bothra,30.0,2.0,Jackson Utley,29.0,4.0
+pitt_1,5,True,Alison Chan - Lenny Brahin2,Joe Clancy,31.0,3.0,Ally Ross,33.0,1.0,Joey Schnide,32.0,2.0,Rachel Kane,30.0,4.0
+pitt_1,3,True,Miles Stepleton,Lucia Yang,31.0,1.0,Simon Ospenson,29.0,3.0,Sam Rosende,25.0,4.0,Vanessa Chen,30.0,2.0
+pitt_1,5,True,Travis Hunsberger2,Lucia Yang,32.0,1.0,Simon Ospenson,31.0,2.0,Parker Kelly,30.0,3.0,Adam Brown,29.0,4.0
+pitt_1,1,True,Sam Slezak,Jela Shriver,29.0,2.0,Nikhil Kishore,30.0,1.0,Hunter Conrad,25.0,4.0,Reagan Werner,27.0,3.0
+pitt_1,2,True,Nate Sumimoto,Jela Shriver,31.0,2.0,Nikhil Kishore,32.0,1.0,Alex Mericola,30.0,4.0,Sean Taltavall,31.0,3.0
+pitt_1,4,False,Paul Cox - Alison Chan2 - Tyler Viljaste2,Jela Shriver,32.0,2.0,Nikhil Kishore,30.0,4.0,Joey Schnide,33.0,1.0,Rachel Kane,31.0,3.0
+pitt_1,2,True,Kristen Buckholt,Hunter Daniels,25.0,2.0,Kalista Schauer,26.0,1.0,Daniel Coyne,22.0,4.0,Alex Mackenzie,23.0,3.0
+pitt_1,3,False,Sam Slezak,Hunter Daniels,19.0,4.0,Kalista Schauer,24.0,3.0,John Somerlott,28.0,2.0,Evan Rosenbaum,28.0,1.0
+pitt_1,5,True,Miles Stepleton2,Hunter Daniels,27.0,2.0,Kalista Schauer,27.0,1.0,Elijah Brown,25.0,3.0,Joel Macklin,22.0,4.0
+pitt_1,1,True,Timmy Miller - Alison Chan,Eve Fidler,31.0,2.0,Jared Stone,31.0,1.0,John Somerlott,27.0,3.0,Evan Rosenbaum,25.0,4.0
+pitt_1,3,False,Mike Riederer - Nate Sumimoto,Eve Fidler,33.0,3.0,Jared Stone,32.0,4.0,Joe Clancy,33.0,2.0,Ally Ross,34.0,1.0
+pitt_1,5,True,Nate Sumimoto2 - Paul Cox2,Eve Fidler,32.0,2.0,Jared Stone,33.0,1.0,Jela Shriver,31.0,4.0,Nikhil Kishore,32.0,3.0

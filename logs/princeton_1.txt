@@ -1,0 +1,23 @@
+********************************************************************************
+Tournament: princeton_1
+********************************************************************************
+--------------------------------------------------------------------------------
+The following teams were parsed abnormally and may have come out funky:
+NYU @ CC (8, 9)
+NYU Living Room (8, 17)
+NYU Nassim Doesn't Flow (8, 17)
+Wasian Persuasian (8, 17)
+Tactical D.I.N.O (8, 17)
+Stanford HN (8, 17)
+Stanford GS (8, 17)
+Chicago PR (8, 9)
+Ken Griffin's Econ Sluts (8, 9)
+Pull It! (8, 9)
+AU MM (8, 9)
+AU MUN isn't Fun (8, 17)
+Antitrust Paradox (8, 17)
+<3 + Akshay = Good Rapport (8, 10)
+Mahowald and Mahowald (8, 17)
+ (8, 17)
+Yale/Georgetown SS (8, 9)
+--------------------------------------------------------------------------------

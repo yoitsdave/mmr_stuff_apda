@@ -1,0 +1,54 @@
+cuny,2,False,Ben Kessler - Wayho Zhang,Niharika Rao,27.0,4.0,Zoe Ewing,29.0,3.0,Josh Neudorf,30.0,1.0,Josh Zakharov,30.0,2.0
+cuny,5,True,Hiram Ramos - Kevin Garcia - Will Donnelly,Niharika Rao,31.0,2.0,Zoe Ewing,33.0,1.0,Colby Rogers,30.0,4.0,Sam Sagawa,30.0,3.0
+cuny,1,False,Jessica Han,Christian Sekosan,19.0,3.0,Noah Lennon,18.0,4.0,Niharika Rao,20.0,2.0,Zoe Ewing,21.0,1.0
+cuny,3,False,Edie Weinhardt,Christian Sekosan,27.0,3.0,Noah Lennon,26.0,4.0,Paola Apolinario,29.0,1.0,Samantha Wing,28.0,2.0
+cuny,2,False,Monica Chin,David Timmerman,28.0,2.0,Gena Rising,24.0,4.0,Adiba Ejaz,30.0,1.0,Esther Kardos,26.0,3.0
+cuny,5,False,John Goulandris,David Timmerman,28.0,4.0,Gena Rising,28.0,3.0,Rajul Bothra,34.0,1.0,Zachary Ginsberg,32.0,2.0
+cuny,1,False,Ethan Milich - Hiram Ramos - Justin Roach,Srivatsav Pyda,25.0,4.0,Varun Venkatesh,28.0,3.0,Josh Neudorf,32.0,1.0,Josh Zakharov,31.0,2.0
+cuny,5,True,Emanuel Zbeda,Devyani Goel,30.0,2.0,Emily Ringel,30.0,1.0,Christian Sekosan,26.0,3.0,Noah Lennon,24.0,4.0
+cuny,1,False,Arielle Gallagos,Nico Hortiguera,28.0,4.0,Robert Vogel,29.0,3.0,Akshay Srinivasan,30.0,2.0,Jacob Bezner,30.0,1.0
+cuny,4,False,Zach Lemonides,Nico Hortiguera,27.0,4.0,Robert Vogel,28.0,2.0,David Timmerman,27.0,3.0,Gena Rising,29.0,1.0
+cuny,5,False,Mohammed Sarker,Nico Hortiguera,27.0,3.0,Robert Vogel,28.0,2.0,Ron Mucci,29.0,1.0,Sam Rohwer,26.0,4.0
+cuny,2,False,Edie Weinhardt,Aditya Pandey,30.0,2.0,Jaedon Abbott,28.0,3.0,Devesh Kodnani,27.0,4.0,Drew Harrington,31.0,1.0
+cuny,5,True,Jessica Han,Aditya Pandey,26.0,4.0,Jaedon Abbott,27.0,1.0,Adiba Ejaz,26.0,3.0,Esther Kardos,26.0,2.0
+cuny,1,False,Max F. Neuman,Devon Mitchell,26.0,2.0,Will Chapin,24.0,4.0,Aditya Pandey,30.0,1.0,Jaedon Abbott,26.0,3.0
+cuny,3,False,Amina Kamagate - Mohammed Sarker - Wayho Zhang,Devon Mitchell,26.0,3.0,Will Chapin,25.0,4.0,Nora Sam,27.0,2.0,Sasha Chuprakova,27.0,1.0
+cuny,2,False,Kathy Piperno,Anneliese Stattelman,25.0,4.0,Destiny Magnett,29.0,3.0,Srivatsav Pyda,30.0,2.0,Varun Venkatesh,31.0,1.0
+cuny,4,True,Alfonso Tan,Anneliese Stattelman,23.0,3.0,Destiny Magnett,25.0,1.0,Devon Mitchell,24.0,2.0,Will Chapin,23.0,4.0
+cuny,2,True,Max F. Neuman,Akshay Srinivasan,31.0,2.0,Jacob Bezner,30.0,3.0,Brian Li,33.0,1.0,Ishan Maunder,25.0,4.0
+cuny,3,False,Zach Lemonides,Akshay Srinivasan,31.0,2.0,Jacob Bezner,31.0,4.0,Amna Amin,33.0,1.0,Xiao-ke Lu,31.0,3.0
+cuny,4,True,Justin Roach,Akshay Srinivasan,31.0,1.0,Jacob Bezner,31.0,3.0,Niharika Rao,30.0,4.0,Zoe Ewing,31.0,2.0
+cuny,1,True,Matt Dunworth,Adiba Ejaz,28.0,1.0,Esther Kardos,27.0,3.0,Nora Sam,25.0,4.0,Sasha Chuprakova,27.0,2.0
+cuny,4,False,Emanuel Zbeda,Adiba Ejaz,32.0,2.0,Esther Kardos,32.0,4.0,Brian Li,32.0,1.0,Ishan Maunder,32.0,3.0
+cuny,3,True,Pasha Temkin,Josh Neudorf,27.0,3.0,Josh Zakharov,29.0,1.0,Adiba Ejaz,28.0,2.0,Esther Kardos,26.0,4.0
+cuny,4,True,Elizabeth Chen,Josh Neudorf,30.0,1.0,Josh Zakharov,29.0,2.0,Rajul Bothra,28.0,3.0,Zachary Ginsberg,28.0,4.0
+cuny,5,False,Alfonso Tan,Josh Neudorf,30.0,4.0,Josh Zakharov,30.0,3.0,Amna Amin,33.0,1.0,Xiao-ke Lu,32.0,2.0
+cuny,3,False,Max F. Neuman,Amber Gao,25.0,4.0,Isabella Franklin,28.0,2.0,Colby Rogers,25.0,3.0,Sam Sagawa,29.0,1.0
+cuny,4,True,Shlomo Grun,Amber Gao,25.0,2.0,Isabella Franklin,27.0,1.0,Meghan Hendrix,25.0,3.0,Nathan Peng,24.0,4.0
+cuny,2,False,Will Donnelly,Alan Sun,24.0,3.0,Angelica Terc,24.0,4.0,Devyani Goel,31.0,2.0,Emily Ringel,31.0,1.0
+cuny,3,True,Catherine Zhu - Jessica Han - Rose Fischer,Alan Sun,22.0,2.0,Angelica Terc,22.0,3.0,Anneliese Stattelman,21.0,4.0,Destiny Magnett,23.0,1.0
+cuny,1,False,Will Donnelly,Nick Bukofsky,28.0,3.0,Rory Mahon,27.0,4.0,Grace Protasiewicz,30.0,2.0,Matthew Simons,30.0,1.0
+cuny,3,False,Courtney Kaufman - Justin Roach,Nick Bukofsky,27.0,4.0,Rory Mahon,28.0,3.0,Nico Hortiguera,28.0,2.0,Robert Vogel,29.0,1.0
+cuny,2,True,Justin Roach - Mohammed Sarker - Wali Ulah,Amna Amin,32.0,2.0,Xiao-ke Lu,33.0,1.0,Grace Protasiewicz,30.0,4.0,Matthew Simons,32.0,3.0
+cuny,4,True,Max F. Neuman,Amna Amin,30.0,2.0,Xiao-ke Lu,32.0,1.0,Devesh Kodnani,29.0,3.0,Drew Harrington,29.0,4.0
+cuny,1,True,Emanuel Zbeda,Ron Mucci,30.0,1.0,Sam Rohwer,28.0,4.0,Colby Rogers,30.0,2.0,Sam Sagawa,28.0,3.0
+cuny,2,True,Alfonso Tan,Ron Mucci,28.0,1.0,Sam Rohwer,26.0,3.0,Christian Sekosan,27.0,2.0,Noah Lennon,26.0,4.0
+cuny,3,False,Ben Wertkin,Benjamin Mione,31.0,3.0,Hart Rapaport,30.0,4.0,Devesh Kodnani,33.0,2.0,Drew Harrington,33.0,1.0
+cuny,4,True,Trevor Colliton,Benjamin Mione,28.0,3.0,Hart Rapaport,30.0,1.0,Ron Mucci,30.0,2.0,Sam Rohwer,27.0,4.0
+cuny,1,False,Catherine Zhu,Paola Apolinario,25.0,3.0,Samantha Wing,24.0,4.0,Amna Amin,27.0,2.0,Xiao-ke Lu,28.0,1.0
+cuny,2,False,Emanuel Zbeda,Paola Apolinario,29.0,3.0,Samantha Wing,28.0,4.0,Nick Bukofsky,30.0,2.0,Rory Mahon,31.0,1.0
+cuny,5,False,Zach Lemonides,Paola Apolinario,26.0,3.0,Samantha Wing,25.0,4.0,Amber Gao,27.0,2.0,Isabella Franklin,27.0,1.0
+cuny,2,True,Ben Wertkin,Rajul Bothra,30.0,2.0,Zachary Ginsberg,32.0,1.0,Meghan Hendrix,28.0,4.0,Nathan Peng,28.0,3.0
+cuny,3,True,Monica Chin,Rajul Bothra,31.0,2.0,Zachary Ginsberg,32.0,1.0,Ron Mucci,28.0,3.0,Sam Rohwer,23.0,4.0
+cuny,2,False,Rose Fischer,Nora Sam,25.0,4.0,Sasha Chuprakova,25.0,3.0,Amber Gao,25.0,2.0,Isabella Franklin,25.0,1.0
+cuny,4,False,Catherine Zhu,Nora Sam,23.0,4.0,Sasha Chuprakova,24.0,3.0,Aditya Pandey,25.0,2.0,Jaedon Abbott,26.0,1.0
+cuny,5,True,Max F. Neuman,Nora Sam,27.0,3.0,Sasha Chuprakova,28.0,1.0,Anneliese Stattelman,23.0,4.0,Destiny Magnett,27.0,2.0
+cuny,1,True,Ben Kessler - Julio Cordero - Mohammed Sarker,Devesh Kodnani,29.0,2.0,Drew Harrington,30.0,1.0,Amber Gao,26.0,4.0,Isabella Franklin,27.0,3.0
+cuny,5,True,Trevor Colliton,Devesh Kodnani,32.0,1.0,Drew Harrington,32.0,2.0,Grace Protasiewicz,30.0,4.0,Matthew Simons,31.0,3.0
+cuny,4,False,Kathy Piperno,Arielle Gallegos,31.0,3.0,Mohammed Sarker,31.0,4.0,Paola Apolinario,33.0,1.0,Samantha Wing,32.0,2.0
+cuny,4,False,Pasha Temkin,Colby Rogers,28.0,4.0,Sam Sagawa,29.0,2.0,Grace Protasiewicz,28.0,3.0,Matthew Simons,30.0,1.0
+cuny,1,True,Edie Weinhardt,Meghan Hendrix,27.0,1.0,Nathan Peng,25.0,3.0,Anneliese Stattelman,24.0,4.0,Destiny Magnett,26.0,2.0
+cuny,3,False,Alfonso Tan - Emanuel Zbeda - Kathy Piperno,Meghan Hendrix,25.0,3.0,Nathan Peng,24.0,4.0,David Timmerman,29.0,1.0,Gena Rising,28.0,2.0
+cuny,1,True,Sandor Lorange,Brian Li,28.0,1.0,Ishan Maunder,27.0,2.0,Alan Sun,22.0,3.0,Angelica Terc,21.0,4.0
+cuny,3,True,Will Donnelly,Brian Li,30.0,2.0,Ishan Maunder,31.0,1.0,Srivatsav Pyda,30.0,4.0,Varun Venkatesh,30.0,3.0
+cuny,5,False,Justin Roach,Brian Li,28.0,3.0,Ishan Maunder,28.0,4.0,Benjamin Mione,28.0,2.0,Hart Rapaport,30.0,1.0

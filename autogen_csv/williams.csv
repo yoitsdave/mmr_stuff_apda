@@ -1,0 +1,55 @@
+williams,1,True,Atlas Yilmaz - Jake Miller - Oliver Cohen,Jacob Boehm,29.0,3.0,Zan Rozen,30.0,1.0,Dylan Gyauch- Lewis,30.0,2.0,Samuel Melcher,28.0,4.0
+williams,2,False,Daniel Kam - Gabriela Ivanova,Jacob Boehm,27.0,4.0,Zan Rozen,29.0,3.0,Jack Kelly,31.0,1.0,Lorenzo Pinasco,30.0,2.0
+williams,2,False,Atlas Yilmaz - Hannah Platter,Annie Siegal,25.0,4.0,Lea Rosen,28.0,3.0,Romina Lilollari,30.0,2.0,Ye Joo Han,32.0,1.0
+williams,4,False,Jessica McElroy,Annie Siegal,24.0,4.0,Lea Rosen,24.0,3.0,Christina Wang,27.0,1.0,Phil Maniscalco,26.0,2.0
+williams,2,False,Emanuel Zbeda,Christina Wang,26.0,3.0,Phil Maniscalco,27.0,2.0,Lawrence Wu,26.0,4.0,Yannick Davidson,28.0,1.0
+williams,3,False,Nico Cavalluzzi - Shreyas Rajesh,Christina Wang,27.0,2.0,Phil Maniscalco,25.0,4.0,Audrey Shing,27.0,1.0,Elisa Nisly,25.0,3.0
+williams,2,True,Spencer - Will Cozadd,Dylan Gyauch- Lewis,27.0,2.0,Samuel Melcher,30.0,1.0,Audrey Shing,25.0,3.0,Elisa Nisly,23.0,4.0
+williams,3,True,Emanuel Zbeda,Dylan Gyauch- Lewis,30.0,2.0,Samuel Melcher,31.0,1.0,Alex Gordon,29.0,3.0,Zhengdong Wang,29.0,4.0
+williams,4,False,Daniel Kam - Joe Cox,Dylan Gyauch- Lewis,25.0,4.0,Samuel Melcher,27.0,3.0,Matt Song,28.0,2.0,Trent Kannegieter,30.0,1.0
+williams,1,False,Emanuel Zbeda - Mahesh Saha,Ethan Shurberg,27.0,3.0,Shiv Chawla,25.0,4.0,Arun Sharma,31.0,2.0,Ellie Singer,31.0,1.0
+williams,3,True,Jake Miller,Ethan Shurberg,25.0,1.0,Shiv Chawla,22.0,3.0,Annie Siegal,22.0,4.0,Lea Rosen,24.0,2.0
+williams,5,False,Balint Szollosi - Joe Cox,Ethan Shurberg,27.0,3.0,Shiv Chawla,26.0,4.0,Jacob Boehm,33.0,1.0,Zan Rozen,32.0,2.0
+williams,1,False,Julia Powell,Arman Entezar,26.0,3.0,John Lowe,26.0,4.0,Drew Harrington,28.0,2.0,Josh Zakharov,28.0,1.0
+williams,3,False,Atlas Yilmaz - Spencer,Arman Entezar,33.0,2.0,John Lowe,31.0,4.0,Matt Song,34.0,1.0,Trent Kannegieter,32.0,3.0
+williams,2,False,Julia Powell,Emma Feisinger,24.0,4.0,Jason Walter,25.0,3.0,Bradley Tidwell,30.0,1.0,Cameron Chacon,30.0,2.0
+williams,3,False,Balint Szollosi - Ben Xu - Daniel Kam,Emma Feisinger,25.0,4.0,Jason Walter,26.0,3.0,Andrew Kamen,27.0,2.0,Robert Brown,28.0,1.0
+williams,1,True,Joe Cox,Romina Lilollari,32.0,1.0,Ye Joo Han,31.0,2.0,Christina Wang,28.0,4.0,Phil Maniscalco,29.0,3.0
+williams,5,False,Gabriela Ivanova - Jessica McElroy,Romina Lilollari,31.0,2.0,Ye Joo Han,30.0,4.0,Matt Song,31.0,3.0,Trent Kannegieter,32.0,1.0
+williams,1,True,Hannah Platter,Nicole Kagan,28.0,2.0,Paloma O'Connor,29.0,1.0,Emma Feisinger,26.0,3.0,Jason Walter,24.0,4.0
+williams,3,True,Joe Cox,Nicole Kagan,30.0,3.0,Paloma O'Connor,33.0,1.0,Jack Kelly,32.0,2.0,Lorenzo Pinasco,29.0,4.0
+williams,4,True,Gabriela Ivanova,Nicole Kagan,29.0,2.0,Paloma O'Connor,30.0,1.0,Bradley Tidwell,27.0,4.0,Cameron Chacon,28.0,3.0
+williams,1,True,Jessica McElroy,Justin Qi,31.0,2.0,Maya Razmi,32.0,1.0,Lawrence Wu,23.0,4.0,Yannick Davidson,25.0,3.0
+williams,4,False,Hannah Platter - Will Cozadd,Justin Qi,30.0,4.0,Maya Razmi,31.0,3.0,Jacob Boehm,34.0,1.0,Zan Rozen,34.0,2.0
+williams,2,True,Joe Cox - Shreyas Rajesh,Craig Diskin,31.0,1.0,Ryan Shaffer,30.0,2.0,Julian Melendi,27.0,3.0,Shi Wen Yeo,26.0,4.0
+williams,3,True,Gabriela Ivanova,Craig Diskin,32.0,1.0,Ryan Shaffer,31.0,2.0,Justin Qi,30.0,3.0,Maya Razmi,28.0,4.0
+williams,4,False,Annie Lu - Jake Miller,Craig Diskin,27.0,4.0,Ryan Shaffer,29.0,2.0,Drew Harrington,30.0,1.0,Josh Zakharov,28.0,3.0
+williams,1,False,Annie Lu,Audrey Shing,25.0,3.0,Elisa Nisly,22.0,4.0,Julian Melendi,30.0,1.0,Shi Wen Yeo,29.0,2.0
+williams,5,False,Daniel Kam,Audrey Shing,28.0,2.0,Elisa Nisly,26.0,4.0,Alex Gordon,29.0,1.0,Zhengdong Wang,27.0,3.0
+williams,1,False,Gabriela Ivanova,Andrew Kamen,26.0,4.0,Robert Brown,28.0,2.0,Alex Gordon,29.0,1.0,Zhengdong Wang,27.0,3.0
+williams,2,False,Jake Miller,Andrew Kamen,26.0,3.0,Robert Brown,23.0,4.0,Arman Entezar,28.0,2.0,John Lowe,31.0,1.0
+williams,5,False,Atlas Yilmaz - Julia Powell,Andrew Kamen,27.0,2.0,Robert Brown,26.0,3.0,Justin Qi,26.0,4.0,Maya Razmi,28.0,1.0
+williams,2,True,Nico Cavalluzzi,Amisha Kapur,27.0,3.0,Charles Mayville,29.0,1.0,Ethan Shurberg,28.0,2.0,Shiv Chawla,26.0,4.0
+williams,4,False,Emanuel Zbeda,Amisha Kapur,26.0,4.0,Charles Mayville,27.0,3.0,Arman Entezar,29.0,1.0,John Lowe,28.0,2.0
+williams,5,False,Hannah Platter,Amisha Kapur,27.0,3.0,Charles Mayville,27.0,4.0,Christina Wang,29.0,2.0,Phil Maniscalco,30.0,1.0
+williams,2,True,Jessica McElroy - Oliver Cohen,Drew Harrington,30.0,1.0,Josh Zakharov,27.0,4.0,Arun Sharma,28.0,3.0,Ellie Singer,29.0,2.0
+williams,3,True,Daniel Kam - Tai Henrichs,Drew Harrington,28.0,2.0,Josh Zakharov,29.0,1.0,Romina Lilollari,28.0,3.0,Ye Joo Han,28.0,4.0
+williams,5,False,Ellis London - Will Cozadd,Drew Harrington,32.0,2.0,Josh Zakharov,29.0,4.0,Nicole Kagan,32.0,1.0,Paloma O'Connor,31.0,3.0
+williams,3,False,Hannah Platter,Lawrence Wu,28.0,3.0,Yannick Davidson,28.0,4.0,Arun Sharma,31.0,2.0,Ellie Singer,33.0,1.0
+williams,4,False,Ellis London,Lawrence Wu,25.0,4.0,Yannick Davidson,27.0,3.0,Andrew Kamen,27.0,1.0,Robert Brown,27.0,2.0
+williams,5,True,Jake Miller,Lawrence Wu,23.0,4.0,Yannick Davidson,26.0,1.0,Emma Feisinger,24.0,3.0,Jason Walter,25.0,2.0
+williams,4,True,Tai Henrichs,Arun Sharma,28.0,2.0,Ellie Singer,29.0,1.0,Audrey Shing,27.0,3.0,Elisa Nisly,26.0,4.0
+williams,5,True,Nico Cavalluzzi - Spencer,Arun Sharma,33.0,1.0,Ellie Singer,31.0,3.0,Craig Diskin,30.0,4.0,Ryan Shaffer,32.0,2.0
+williams,1,False,Daniel Kam - Tai Henrichs - Will Cozadd,Bradley Tidwell,27.0,4.0,Cameron Chacon,28.0,2.0,Craig Diskin,29.0,1.0,Ryan Shaffer,28.0,3.0
+williams,3,True,Jessica McElroy,Bradley Tidwell,25.0,1.0,Cameron Chacon,25.0,2.0,Amisha Kapur,22.0,4.0,Charles Mayville,23.0,3.0
+williams,5,True,Oliver Cohen - Shreyam Misra,Bradley Tidwell,28.0,2.0,Cameron Chacon,29.0,1.0,Arman Entezar,28.0,3.0,John Lowe,26.0,4.0
+williams,2,False,Ben Xu - Ellis London - Mahesh Saha,Alex Gordon,26.0,4.0,Zhengdong Wang,26.0,3.0,Justin Qi,27.0,1.0,Maya Razmi,26.0,2.0
+williams,4,False,Nico Cavalluzzi,Alex Gordon,28.0,2.0,Zhengdong Wang,28.0,4.0,Emma Feisinger,28.0,3.0,Jason Walter,29.0,1.0
+williams,1,True,Balint Szollosi - Ben Xu - Spencer,Jack Kelly,28.0,2.0,Lorenzo Pinasco,29.0,1.0,Annie Siegal,22.0,4.0,Lea Rosen,23.0,3.0
+williams,4,False,Julia Powell - Shreyam Misra,Jack Kelly,27.0,3.0,Lorenzo Pinasco,26.0,4.0,Romina Lilollari,28.0,2.0,Ye Joo Han,29.0,1.0
+williams,5,True,Mahesh Saha - Tai Henrichs,Jack Kelly,27.0,3.0,Lorenzo Pinasco,27.0,2.0,Dylan Gyauch- Lewis,26.0,4.0,Samuel Melcher,28.0,1.0
+williams,1,True,Ellis London - Shreyas Rajesh,Matt Song,29.0,2.0,Trent Kannegieter,29.0,1.0,Amisha Kapur,26.0,3.0,Charles Mayville,26.0,4.0
+williams,2,False,Balint Szollosi - Tai Henrichs,Matt Song,27.0,4.0,Trent Kannegieter,29.0,2.0,Nicole Kagan,29.0,1.0,Paloma O'Connor,28.0,3.0
+williams,3,False,Ellis London - Mahesh Saha,Julian Melendi,26.0,4.0,Shi Wen Yeo,27.0,3.0,Jacob Boehm,33.0,2.0,Zan Rozen,34.0,1.0
+williams,4,False,Spencer,Julian Melendi,28.0,2.0,Shi Wen Yeo,27.0,3.0,Ethan Shurberg,30.0,1.0,Shiv Chawla,25.0,4.0
+williams,5,True,Emanuel Zbeda,Julian Melendi,28.0,2.0,Shi Wen Yeo,28.0,1.0,Annie Siegal,22.0,4.0,Lea Rosen,24.0,3.0

@@ -1,0 +1,13 @@
+********************************************************************************
+Tournament: penn_1
+********************************************************************************
+--------------------------------------------------------------------------------
+The following teams were parsed abnormally and may have come out funky:
+Swat GPS (8, 9)
+St Gallen Youth Hostel A (8, 9)
+2TallWhites (8, 9)
+UVA/WM Whatever Sean Wants (8, 9)
+asparaguys (8, 9)
+Hopkins GJ (8, 9)
+Drexel University Paki Debaters (8, 9)
+--------------------------------------------------------------------------------

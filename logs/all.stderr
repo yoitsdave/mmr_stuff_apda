@@ -1,0 +1,54 @@
+
+Running au_1
+Usage: tc_pdf_to_csv [OPTIONS] TOURNEY PDF_PATH [CSV_PATH] [LOG_PATH]
+Try 'tc_pdf_to_csv --help' for help.
+
+Error: Invalid value for 'PDF_PATH': Path '19_20/au_1.pdf' does not exist.
+Running bing_1
+Usage: tc_pdf_to_csv [OPTIONS] TOURNEY PDF_PATH [CSV_PATH] [LOG_PATH]
+Try 'tc_pdf_to_csv --help' for help.
+
+Error: Invalid value for 'PDF_PATH': Path '19_20/bing_1.pdf' does not exist.
+Running brown_1
+Running brown_2
+Running bu_1
+Traceback (most recent call last):
+  File "./tc_pdf_to_csv", line 4, in <module>
+    import tabula
+  File "/home/jjlevy/.local/lib/python3.6/site-packages/tabula/__init__.py", line 3, in <module>
+    from .wrapper import (
+  File "/home/jjlevy/.local/lib/python3.6/site-packages/tabula/wrapper.py", line 17, in <module>
+    import pandas as pd
+  File "/home/jjlevy/.local/lib/python3.6/site-packages/pandas/__init__.py", line 55, in <module>
+    from pandas.core.api import (
+  File "/home/jjlevy/.local/lib/python3.6/site-packages/pandas/core/api.py", line 24, in <module>
+    from pandas.core.groupby import Grouper, NamedAgg
+  File "/home/jjlevy/.local/lib/python3.6/site-packages/pandas/core/groupby/__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (  # noqa: F401
+  File "/home/jjlevy/.local/lib/python3.6/site-packages/pandas/core/groupby/generic.py", line 44, in <module>
+    from pandas.core.frame import DataFrame
+  File "/home/jjlevy/.local/lib/python3.6/site-packages/pandas/core/frame.py", line 305, in <module>
+    class DataFrame(NDFrame):
+  File "/home/jjlevy/.local/lib/python3.6/site-packages/pandas/core/frame.py", line 6646, in DataFrame
+    """
+  File "/usr/lib/python3.6/textwrap.py", line 431, in dedent
+    indents = _leading_whitespace_re.findall(text)
+KeyboardInterrupt
+Running cmu_1
+Traceback (most recent call last):
+  File "./tc_pdf_to_csv", line 21, in <module>
+    @click.option("-e", "--encoding", type=str, default="utf-8", help="Encoding used for pdf")
+  File "/home/jjlevy/.local/lib/python3.6/site-packages/click/decorators.py", line 130, in decorator
+    cmd = _make_command(f, name, attrs, cls)
+  File "/home/jjlevy/.local/lib/python3.6/site-packages/click/decorators.py", line 91, in _make_command
+    help = inspect.getdoc(f)
+  File "/usr/lib/python3.6/inspect.py", line 612, in getdoc
+    return cleandoc(doc)
+  File "/usr/lib/python3.6/inspect.py", line 639, in cleandoc
+    while lines and not lines[0]:
+KeyboardInterrupt
+Running columbia_1
+Usage: tc_pdf_to_csv [OPTIONS] TOURNEY PDF_PATH [CSV_PATH] [LOG_PATH]
+Try 'tc_pdf_to_csv --help' for help.
+
+Error: Invalid value for 'PDF_PATH': Path '19_20/columbia_1.pdf' does not exist.

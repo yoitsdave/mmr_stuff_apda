@@ -1,0 +1,84 @@
+cuny_proams,1,True,Alan Sun,Clara Page,27.0,1.0,Jacob Boehm,26.0,2.0,Logan Quick,22.0,3.0,Ragy Amin,21.0,4.0
+cuny_proams,2,True,Zachary Malek,Clara Page,28.0,2.0,Jacob Boehm,29.0,1.0,David Chen,25.0,4.0,Hart Rapaport,27.0,3.0
+cuny_proams,4,True,Will Donnely,Clara Page,30.0,1.0,Jacob Boehm,30.0,2.0,Aditya Pandey,28.0,3.0,Ari Gershengorn,25.0,4.0
+cuny_proams,3,True,Sebastian Lopez,Tai Henrichs,28.0,2.0,Zan Rozen,30.0,1.0,Josh Neudorf,27.0,3.0,Nathan Peng,25.0,4.0
+cuny_proams,5,True,Jonah Goldman,Tai Henrichs,31.0,2.0,Zan Rozen,32.0,1.0,Ronnie Hokett,24.0,4.0,Sam Wing,26.0,3.0
+cuny_proams,2,False,Leah Block - Will Donnely,Ronnie Hokett,22.0,4.0,Sam Wing,25.0,3.0,Griffin Badalamente,29.0,1.0,Rohan Kapoor,27.0,2.0
+cuny_proams,4,True,Sebastian Lopez,Ronnie Hokett,25.0,3.0,Sam Wing,26.0,1.0,Alex Purn,23.0,4.0,Jackson Utley,26.0,2.0
+cuny_proams,2,False,Jonah Goldman,Ben Wong,24.0,4.0,Rory Mahon,28.0,3.0,Benjamin Mione,28.0,2.0,Sasha Chuprakova,29.0,1.0
+cuny_proams,4,True,Leah Block,Ben Wong,28.0,4.0,Rory Mahon,30.0,1.0,Mackenzie Devita,29.0,3.0,Nikhita Chakraborty,29.0,2.0
+cuny_proams,1,True,Noah Lennon,Niharika Rao,28.0,2.0,Zoe Ewing,29.0,1.0,Gabby Bayness,26.0,4.0,Rachel Li,27.0,3.0
+cuny_proams,3,False,Jake MIller,Niharika Rao,27.0,3.0,Zoe Ewing,28.0,2.0,Aditya Pandey,30.0,1.0,Ari Gershengorn,25.0,4.0
+cuny_proams,4,True,Zachary Malek,Niharika Rao,27.0,2.0,Zoe Ewing,28.0,1.0,Alice Ding,22.0,4.0,Kiara Chen,24.0,3.0
+cuny_proams,1,True,Ben Wertkin,David Chen,30.0,2.0,Hart Rapaport,32.0,1.0,Ronnie Hokett,22.0,3.0,Sam Wing,22.0,4.0
+cuny_proams,5,True,Irene Zhen,David Chen,28.0,1.0,Hart Rapaport,26.0,2.0,Logan Quick,25.0,3.0,Ragy Amin,24.0,4.0
+cuny_proams,1,True,Emily Ringel,Justin Qi,33.0,1.0,Vikram Balasubramanian,31.0,2.0,Gaston Aime,23.0,4.0,Hector Hernandez,28.0,3.0
+cuny_proams,2,True,Max Neuman,Justin Qi,30.0,1.0,Vikram Balasubramanian,26.0,2.0,Jaedon Abbott,25.0,3.0,Jen Kim,22.0,4.0
+cuny_proams,4,True,Ben Feshbach - Susan Zhang,Justin Qi,32.0,1.0,Vikram Balasubramanian,28.0,4.0,Albi Manfredi,29.0,3.0,Tierney Egan,30.0,2.0
+cuny_proams,2,False,Susan Zhang,Chelsea Lugat,26.0,2.0,Gena Rising,25.0,4.0,Cayleigh Soderholm,25.0,3.0,Grace Luckett,27.0,1.0
+cuny_proams,3,True,Will Donnely,Chelsea Lugat,24.0,4.0,Gena Rising,28.0,1.0,Logan Quick,26.0,2.0,Ragy Amin,25.0,3.0
+cuny_proams,3,False,Zachary Malek,Elias Shammas,23.0,4.0,Yannick Daoud,28.0,3.0,Justin Qi,31.0,1.0,Vikram Balasubramanian,30.0,2.0
+cuny_proams,4,False,Ben Wertkin,Elias Shammas,27.0,4.0,Yannick Daoud,32.0,2.0,Benjamin Mione,33.0,1.0,Sasha Chuprakova,31.0,3.0
+cuny_proams,3,False,Angie Terc - Ben Wertkin - Ethan Luna,Ally Ross,33.0,1.0,Patrick Han,31.0,4.0,Paola Apolinario,32.0,2.0,Patrick Song,32.0,3.0
+cuny_proams,5,True,Wasi Ahmed,Ally Ross,28.0,1.0,Patrick Han,27.0,2.0,Chelsea Lugat,24.0,4.0,Gena Rising,26.0,3.0
+cuny_proams,3,True,Nick Cathcart,Cayleigh Soderholm,33.0,1.0,Grace Luckett,30.0,2.0,David Chen,24.0,4.0,Hart Rapaport,27.0,3.0
+cuny_proams,5,True,Zachary Malek,Cayleigh Soderholm,31.0,1.0,Grace Luckett,28.0,3.0,Kevin Gu,26.0,4.0,Nicole Kagan,29.0,2.0
+cuny_proams,2,False,Emily Ringel,Kevin Gu,28.0,4.0,Nicole Kagan,30.0,2.0,Elias Shammas,28.0,3.0,Yannick Daoud,30.0,1.0
+cuny_proams,4,True,Nick Cathcart,Kevin Gu,25.0,3.0,Nicole Kagan,30.0,1.0,Jaedon Abbott,27.0,2.0,Jen Kim,22.0,4.0
+cuny_proams,2,True,Ruby Huang,Annie Hu,25.0,4.0,Maxwell Sheremeta,27.0,1.0,Erica Fisher,26.0,3.0,Laurel Campbell,26.0,2.0
+cuny_proams,5,True,Kathryn Evans,Annie Hu,26.0,2.0,Maxwell Sheremeta,28.0,1.0,Alice Ding,23.0,4.0,Kiara Chen,25.0,3.0
+cuny_proams,1,False,Will Donnely,Erica Fisher,26.0,2.0,Laurel Campbell,25.0,4.0,Andrew Choi,30.0,1.0,Julian Galaz,26.0,3.0
+cuny_proams,3,False,Alan Sun - Kathryn Evans,Erica Fisher,23.0,4.0,Laurel Campbell,24.0,3.0,Ben Wong,25.0,2.0,Rory Mahon,26.0,1.0
+cuny_proams,5,True,Igal Sultanov,Erica Fisher,28.0,1.0,Laurel Campbell,27.0,3.0,Caitlin Barlow,27.0,4.0,Sebastian Bryant,28.0,2.0
+cuny_proams,1,False,Zach Lemonides,Max Kornfeld,30.0,2.0,Vignesh Mehrotra,29.0,4.0,Kevin Gu,30.0,3.0,Nicole Kagan,31.0,1.0
+cuny_proams,3,False,Emily Ringel,Max Kornfeld,28.0,2.0,Vignesh Mehrotra,28.0,3.0,Annie Hu,26.0,4.0,Maxwell Sheremeta,30.0,1.0
+cuny_proams,4,True,Noah Lennon,Max Kornfeld,30.0,1.0,Vignesh Mehrotra,29.0,2.0,Caitlin Barlow,28.0,4.0,Sebastian Bryant,29.0,3.0
+cuny_proams,1,False,Kathryn Evans,Aditya Pandey,26.0,3.0,Ari Gershengorn,24.0,4.0,Alex Ellerstein,29.0,2.0,Katherine Ottenbreit,30.0,1.0
+cuny_proams,2,True,Connor Munro,Aditya Pandey,28.0,1.0,Ari Gershengorn,25.0,3.0,Bradley May,24.0,4.0,Devang Laddha,27.0,2.0
+cuny_proams,2,False,Ethan Luna - Jake MIller,Andrew Choi,27.0,2.0,Julian Galaz,26.0,3.0,Donovan Jones,24.0,4.0,Yixuan Liu,31.0,1.0
+cuny_proams,4,False,Emily Ringel,Andrew Choi,29.0,2.0,Julian Galaz,28.0,3.0,Bradley May,27.0,4.0,Devang Laddha,31.0,1.0
+cuny_proams,5,True,Shariar Nobi,Andrew Choi,33.0,1.0,Julian Galaz,28.0,3.0,Gaston Aime,24.0,4.0,Hector Hernandez,29.0,2.0
+cuny_proams,1,False,Connor Munro,Alice Ding,26.0,4.0,Kiara Chen,28.0,2.0,Tai Henrichs,29.0,1.0,Zan Rozen,27.0,3.0
+cuny_proams,3,False,Max Neuman,Alice Ding,23.0,4.0,Kiara Chen,27.0,2.0,Kevin Gu,24.0,3.0,Nicole Kagan,29.0,1.0
+cuny_proams,2,False,Sandor Lorange,Mackenzie Devita,32.0,2.0,Nikhita Chakraborty,30.0,3.0,Fiona He,30.0,4.0,Rajul Bothra,34.0,1.0
+cuny_proams,5,True,Noah Lennon,Mackenzie Devita,28.0,1.0,Nikhita Chakraborty,26.0,3.0,Josh Neudorf,28.0,2.0,Nathan Peng,24.0,4.0
+cuny_proams,1,True,Sandor Lorange,Alex Purn,28.0,2.0,Jackson Utley,30.0,1.0,Gaby Ivanova,25.0,3.0,Henry Combs,23.0,4.0
+cuny_proams,2,True,Mohammed Sarker - Zach Lemonides,Alex Purn,30.0,3.0,Jackson Utley,31.0,1.0,Niharika Rao,31.0,2.0,Zoe Ewing,30.0,4.0
+cuny_proams,5,True,Ben Wertkin,Alex Purn,30.0,2.0,Jackson Utley,32.0,1.0,Aditya Pandey,25.0,4.0,Ari Gershengorn,26.0,3.0
+cuny_proams,1,False,Ethan Luna - Trevor Colliton,Benjamin Mione,28.0,3.0,Sasha Chuprakova,28.0,2.0,Josh Neudorf,29.0,1.0,Nathan Peng,27.0,4.0
+cuny_proams,5,False,Emanuel Zbeda,Benjamin Mione,31.0,2.0,Sasha Chuprakova,31.0,3.0,Donovan Jones,30.0,4.0,Yixuan Liu,32.0,1.0
+cuny_proams,1,True,Jake MIller,Fiona He,26.0,4.0,Rajul Bothra,31.0,1.0,Griffin Badalamente,30.0,2.0,Rohan Kapoor,27.0,3.0
+cuny_proams,3,True,Zach Lemonides,Fiona He,28.0,4.0,Rajul Bothra,33.0,1.0,Clara Page,31.0,2.0,Jacob Boehm,30.0,3.0
+cuny_proams,5,False,Nick Cathcart,Fiona He,30.0,4.0,Rajul Bothra,34.0,2.0,Justin Qi,34.0,1.0,Vikram Balasubramanian,31.0,3.0
+cuny_proams,1,False,Susan Zhang,Paola Apolinario,25.0,3.0,Patrick Song,25.0,4.0,Mackenzie Devita,25.0,1.0,Nikhita Chakraborty,25.0,2.0
+cuny_proams,4,False,Ruby Huang - Zach Lemonides,Paola Apolinario,29.0,3.0,Patrick Song,27.0,4.0,Cayleigh Soderholm,31.0,1.0,Grace Luckett,30.0,2.0
+cuny_proams,5,True,Jake MIller,Paola Apolinario,28.0,1.0,Patrick Song,25.0,4.0,Max Kornfeld,26.0,2.0,Vignesh Mehrotra,26.0,3.0
+cuny_proams,2,True,Alan Sun,Caitlin Barlow,25.0,1.0,Sebastian Bryant,25.0,2.0,Gaby Ivanova,24.0,3.0,Henry Combs,20.0,4.0
+cuny_proams,3,False,Sandor Lorange,Caitlin Barlow,24.0,4.0,Sebastian Bryant,25.0,3.0,Benjamin Mione,27.0,2.0,Sasha Chuprakova,29.0,1.0
+cuny_proams,3,True,Connor Munro - Emanuel Zbeda,Griffin Badalamente,26.0,3.0,Rohan Kapoor,27.0,1.0,Andrew Choi,27.0,2.0,Julian Galaz,26.0,4.0
+cuny_proams,4,True,Alan Sun,Griffin Badalamente,31.0,3.0,Rohan Kapoor,32.0,1.0,Tai Henrichs,30.0,4.0,Zan Rozen,32.0,2.0
+cuny_proams,5,False,Max Neuman,Griffin Badalamente,30.0,3.0,Rohan Kapoor,29.0,4.0,Albi Manfredi,31.0,1.0,Tierney Egan,30.0,2.0
+cuny_proams,2,True,Angie Terc - Elijah Plucino - Trevor Colliton,Alex Ellerstein,28.0,1.0,Katherine Ottenbreit,28.0,2.0,Tai Henrichs,27.0,4.0,Zan Rozen,28.0,3.0
+cuny_proams,4,True,Ethan Luna - Max Neuman,Alex Ellerstein,30.0,3.0,Katherine Ottenbreit,33.0,1.0,Annie Hu,28.0,4.0,Maxwell Sheremeta,33.0,2.0
+cuny_proams,5,False,Sebastian Lopez,Alex Ellerstein,28.0,4.0,Katherine Ottenbreit,31.0,2.0,Clara Page,29.0,3.0,Jacob Boehm,31.0,1.0
+cuny_proams,2,False,Kathryn Evans,Gabby Bayness,26.0,3.0,Rachel Li,25.0,4.0,Ally Ross,30.0,1.0,Patrick Han,30.0,2.0
+cuny_proams,4,True,Connor Munro,Gabby Bayness,26.0,3.0,Rachel Li,28.0,1.0,David Chen,27.0,2.0,Hart Rapaport,25.0,4.0
+cuny_proams,5,True,Will Donnely,Gabby Bayness,27.0,3.0,Rachel Li,30.0,1.0,Elias Shammas,26.0,4.0,Yannick Daoud,28.0,2.0
+cuny_proams,2,False,Emanuel Zbeda,Josh Neudorf,27.0,3.0,Nathan Peng,25.0,4.0,Albi Manfredi,27.0,2.0,Tierney Egan,28.0,1.0
+cuny_proams,4,False,Kathryn Evans,Josh Neudorf,24.0,3.0,Nathan Peng,22.0,4.0,Chelsea Lugat,25.0,1.0,Gena Rising,25.0,2.0
+cuny_proams,1,False,Angie Terc - Mohammed Sarker,Bradley May,26.0,3.0,Devang Laddha,27.0,2.0,Elias Shammas,26.0,4.0,Yannick Daoud,28.0,1.0
+cuny_proams,5,False,Sandor Lorange,Bradley May,25.0,3.0,Devang Laddha,20.0,4.0,Ben Wong,29.0,2.0,Rory Mahon,31.0,1.0
+cuny_proams,2,False,Ben Wertkin,Logan Quick,29.0,2.0,Ragy Amin,27.0,4.0,Max Kornfeld,32.0,1.0,Vignesh Mehrotra,28.0,3.0
+cuny_proams,4,True,Jonah Goldman,Logan Quick,27.0,3.0,Ragy Amin,28.0,1.0,Erica Fisher,28.0,2.0,Laurel Campbell,27.0,4.0
+cuny_proams,1,True,Zachary Malek,Albi Manfredi,28.0,2.0,Tierney Egan,32.0,1.0,Ben Wong,22.0,4.0,Rory Mahon,25.0,3.0
+cuny_proams,3,True,Leah Block - Mohammed Sarker - Ruby Huang,Albi Manfredi,29.0,2.0,Tierney Egan,30.0,1.0,Alex Ellerstein,27.0,4.0,Katherine Ottenbreit,28.0,3.0
+cuny_proams,1,True,Max Neuman,Donovan Jones,27.0,3.0,Yixuan Liu,32.0,1.0,Caitlin Barlow,26.0,4.0,Sebastian Bryant,29.0,2.0
+cuny_proams,3,True,Ben Feshbach - Elijah Plucino - Susan Zhang,Donovan Jones,25.0,4.0,Yixuan Liu,32.0,1.0,Alex Purn,25.0,3.0,Jackson Utley,32.0,2.0
+cuny_proams,4,False,Trevor Colliton,Donovan Jones,25.0,4.0,Yixuan Liu,33.0,2.0,Fiona He,28.0,3.0,Rajul Bothra,33.0,1.0
+cuny_proams,1,True,Ruby Huang,Jaedon Abbott,27.0,1.0,Jen Kim,25.0,4.0,Chelsea Lugat,25.0,3.0,Gena Rising,26.0,2.0
+cuny_proams,3,True,Fahad Alam - Igal Sultanov - Trevor Colliton,Jaedon Abbott,29.0,1.0,Jen Kim,26.0,4.0,Mackenzie Devita,27.0,3.0,Nikhita Chakraborty,28.0,2.0
+cuny_proams,5,False,Connor Munro,Jaedon Abbott,29.0,2.0,Jen Kim,25.0,4.0,Niharika Rao,29.0,1.0,Zoe Ewing,28.0,3.0
+cuny_proams,3,False,Noah Lennon,Gaby Ivanova,26.0,2.0,Henry Combs,23.0,4.0,Bradley May,24.0,3.0,Devang Laddha,28.0,1.0
+cuny_proams,4,False,Elijah Plucino - Jake MIller - Mohammed Sarker,Gaby Ivanova,29.0,2.0,Henry Combs,23.0,4.0,Ally Ross,30.0,1.0,Patrick Han,28.0,3.0
+cuny_proams,2,False,Noah Lennon,Gaston Aime,22.0,4.0,Hector Hernandez,24.0,2.0,Alice Ding,22.0,3.0,Kiara Chen,25.0,1.0
+cuny_proams,3,False,Jonah Goldman,Gaston Aime,25.0,4.0,Hector Hernandez,28.0,2.0,Gabby Bayness,26.0,3.0,Rachel Li,28.0,1.0

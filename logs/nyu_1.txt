@@ -1,0 +1,18 @@
+********************************************************************************
+Tournament: nyu_1
+********************************************************************************
+--------------------------------------------------------------------------------
+The following teams were parsed abnormally and may have come out funky:
+Yale QS (8, 17)
+SPA AW (8, 17)
+Jonathan is Kylie's new BFF (8, 17)
+Nyan Cats (8, 17)
+WP Harold and Kumar (8, 17)
+GU Really Cool (8, 17)
+Rutgers/Yale Hybrid (8, 17)
+deadasss (8, 17)
+Pitt Team (8, 17)
+UVA Manic Pixie Nightmare (8, 17)
+J^2=K (8, 17)
+Hamilton How The Turntables (8, 17)
+--------------------------------------------------------------------------------

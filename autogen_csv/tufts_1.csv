@@ -1,0 +1,90 @@
+tufts_1,3,True,Dana Jacoby,Awsam Bouabid,27.0,2.0,Frank Rodriguez,27.0,1.0,Jenna Sutherland,26.0,3.0,Nikki Schuldt,25.0,4.0
+tufts_1,4,True,Olivia Vladyka,Awsam Bouabid,27.0,2.0,Frank Rodriguez,28.0,1.0,Benjamin Xu,25.0,4.0,Daniel Kam,26.0,3.0
+tufts_1,1,False,Katrina Hotaling,Benjamin Xu,25.0,4.0,Daniel Kam,27.0,3.0,Romina Lilollari,32.0,2.0,Ye Joo Han,32.0,1.0
+tufts_1,5,True,Justin Kahn,Benjamin Xu,23.0,4.0,Daniel Kam,27.0,1.0,CeCe Szkutak,25.0,2.0,Laurenn Vives,24.0,3.0
+tufts_1,3,True,John Lowe,Christina Wang,27.0,3.0,Daniel Leizerman,27.0,2.0,Audrey Shing,26.0,4.0,Ella Gagne,28.0,1.0
+tufts_1,4,False,Mackenzie Tatananni - Nicole Peter - Rachel Gifeisman,Christina Wang,27.0,3.0,Daniel Leizerman,26.0,4.0,Sandy Greenberg,32.0,1.0,Sarah Ryan,31.0,2.0
+tufts_1,2,False,Ethan Kim,Hamza Kalim,25.0,4.0,Yun Zhang,25.0,3.0,Alex Shura,26.0,2.0,Ragy Amin,26.0,1.0
+tufts_1,5,False,Matt Rohn,Hamza Kalim,18.0,3.0,Yun Zhang,23.0,2.0,Alexander Gordon,23.0,1.0,Ben Park,18.0,4.0
+tufts_1,2,False,Kyle Cook,Dylan Gyauch- Lewis,28.0,3.0,Samuel Melcher,26.0,4.0,Jaewan Park,28.0,2.0,Jay Gibbs,30.0,1.0
+tufts_1,3,True,Chris Morillo,Dylan Gyauch- Lewis,29.0,1.0,Samuel Melcher,29.0,2.0,Benjamin Xu,26.0,4.0,Daniel Kam,27.0,3.0
+tufts_1,5,True,Reverand Sandor Lorange,Dylan Gyauch- Lewis,29.0,1.0,Samuel Melcher,28.0,2.0,Alex Shura,27.0,3.0,Ragy Amin,25.0,4.0
+tufts_1,2,True,Connor Akiyama,Kurtis Lee,26.0,1.0,Shiv Chawla,25.0,2.0,Hazel Martello,25.0,3.0,Rohan Kapoor,24.0,4.0
+tufts_1,3,False,Reverand Sandor Lorange,Kurtis Lee,25.0,4.0,Shiv Chawla,26.0,3.0,Joanna Ding,29.0,2.0,Matt Song,30.0,1.0
+tufts_1,1,True,Chris Gooding - Kyle Cook - Onder Kilinic,Ann Garth,32.0,1.0,Elaine He,32.0,2.0,Kurtis Lee,25.0,4.0,Shiv Chawla,27.0,3.0
+tufts_1,2,True,Dana Jacoby - Isabel Chirls - Rachel Gifeisman,Ann Garth,30.0,2.0,Elaine He,30.0,1.0,CeCe Szkutak,28.0,3.0,Laurenn Vives,26.0,4.0
+tufts_1,3,True,Teddy Wyman,Ann Garth,32.0,1.0,Elaine He,31.0,4.0,Craig Diskin,31.0,3.0,Ryan Shaffer,31.0,2.0
+tufts_1,1,False,Justin Kahn,Hannah Platter,28.0,2.0,Michael Froid,26.0,4.0,Ang Sonam Sherpa,27.0,3.0,Brendon Lee,29.0,1.0
+tufts_1,2,False,Katarina Lidrbauch,Hannah Platter,27.0,2.0,Michael Froid,26.0,3.0,Benjamin Xu,24.0,4.0,Daniel Kam,29.0,1.0
+tufts_1,4,False,Isabel Chirls,Hannah Platter,26.0,2.0,Michael Froid,24.0,4.0,Tvisha Malik,27.0,1.0,Vita Raskeviciute,25.0,3.0
+tufts_1,1,True,Ethan Kim,CeCe Szkutak,26.0,2.0,Laurenn Vives,27.0,1.0,Jenna Sutherland,25.0,4.0,Nikki Schuldt,25.0,3.0
+tufts_1,3,False,Katarina Lidrbauch,CeCe Szkutak,27.0,2.0,Laurenn Vives,26.0,4.0,Dhafer Muhammad,27.0,3.0,Sajan Mehrotra,28.0,1.0
+tufts_1,2,True,Matt Rohn - Olivia Vladyka - Sam Russo,Romina Lilollari,30.0,2.0,Ye Joo Han,31.0,1.0,Andrew Avalos,26.0,4.0,Joe Cox,26.0,3.0
+tufts_1,3,True,Jackson Lubke - Jackson Segal - Jenna Kaplan,Romina Lilollari,32.0,1.0,Ye Joo Han,31.0,3.0,Jaewan Park,30.0,4.0,Jay Gibbs,32.0,2.0
+tufts_1,4,True,Nick DeVito,Romina Lilollari,33.0,1.0,Ye Joo Han,30.0,3.0,Ann Garth,32.0,2.0,Elaine He,30.0,4.0
+tufts_1,2,False,Darryl Chia - Jenna Kaplan - William Ott,Ang Sonam Sherpa,26.0,4.0,Brendon Lee,27.0,3.0,Devesh Kodnani,29.0,2.0,Max Wu,30.0,1.0
+tufts_1,5,True,Ali Slimi - Jackson Lubke - Kyle Cook,Ang Sonam Sherpa,28.0,1.0,Brendon Lee,27.0,2.0,Christina Wang,27.0,3.0,Daniel Leizerman,26.0,4.0
+tufts_1,2,False,Reverand Sandor Lorange,Jenna Sutherland,29.0,3.0,Nikki Schuldt,30.0,2.0,Alexander Gordon,31.0,1.0,Ben Park,29.0,4.0
+tufts_1,4,False,Sam Russo,Jenna Sutherland,26.0,3.0,Nikki Schuldt,26.0,4.0,Hector Hernandez,27.0,2.0,Lawrence Wu,28.0,1.0
+tufts_1,5,False,Olivia Vladyka,Jenna Sutherland,27.0,2.0,Nikki Schuldt,25.0,4.0,Aashray Khanna,29.0,1.0,Karthik Tadepalli,27.0,3.0
+tufts_1,1,True,Teddy Wyman,Jaewan Park,29.0,3.0,Jay Gibbs,32.0,1.0,Hector Hernandez,26.0,4.0,Lawrence Wu,30.0,2.0
+tufts_1,4,True,Aonkon Dey - Chris Gooding - Reverand Sandor Lorange,Jaewan Park,31.0,2.0,Jay Gibbs,32.0,1.0,Ang Sonam Sherpa,30.0,3.0,Brendon Lee,29.0,4.0
+tufts_1,5,True,Rachel Gifeisman,Jaewan Park,31.0,3.0,Jay Gibbs,33.0,1.0,Anish Welde,32.0,2.0,Vignesh Valliyur,30.0,4.0
+tufts_1,1,True,Mackenzie Tatananni - Nicole Peter - Reverand Sandor Lorange,Devesh Kodnani,31.0,1.0,Max Wu,30.0,2.0,Brendan Prestage,28.0,3.0,Victor Sun,26.0,4.0
+tufts_1,5,True,Jackson Segal,Devesh Kodnani,31.0,2.0,Max Wu,33.0,1.0,Dennis Su,31.0,4.0,Ellis London,31.0,3.0
+tufts_1,3,False,Katrina Hotaling,Hector Hernandez,28.0,2.0,Lawrence Wu,26.0,4.0,Charles Mayville,28.0,1.0,Rachel Li,28.0,3.0
+tufts_1,5,False,Ethan Kim,Hector Hernandez,25.0,4.0,Lawrence Wu,25.0,1.0,Kurtis Lee,25.0,2.0,Shiv Chawla,25.0,3.0
+tufts_1,1,True,Carlos Irrisari - William Ott,Andrew Avalos,28.0,1.0,Joe Cox,25.0,3.0,Amisha Kapur,27.0,2.0,Shreyam Misra,24.0,4.0
+tufts_1,4,True,Dana Jacoby,Andrew Avalos,27.0,2.0,Joe Cox,28.0,1.0,Kurtis Lee,26.0,3.0,Shiv Chawla,25.0,4.0
+tufts_1,1,True,Nick DeVito,Gabbi Shilcusky,31.0,2.0,Tanay Patri,33.0,1.0,Hamza Kalim,28.0,3.0,Yun Zhang,24.0,4.0
+tufts_1,4,True,Ali Slimi - Darryl Chia - Nicole Setow,Gabbi Shilcusky,30.0,2.0,Tanay Patri,31.0,1.0,Dylan Gyauch- Lewis,28.0,3.0,Samuel Melcher,27.0,4.0
+tufts_1,5,True,Chris Morillo - Isabel Chirls - Sam Russo,Gabbi Shilcusky,31.0,2.0,Tanay Patri,32.0,1.0,Craig Diskin,30.0,3.0,Ryan Shaffer,30.0,4.0
+tufts_1,1,True,John Youssef,Dennis Su,30.0,1.0,Ellis London,26.0,3.0,Dhafer Muhammad,25.0,4.0,Sajan Mehrotra,28.0,2.0
+tufts_1,4,True,Chris Morillo - Jackson Lubke - Onder Kilinic,Dennis Su,30.0,3.0,Ellis London,31.0,1.0,Alexander Gordon,30.0,2.0,Ben Park,29.0,4.0
+tufts_1,2,False,Katrina Hotaling,Aashray Khanna,29.0,3.0,Karthik Tadepalli,27.0,4.0,Audrey Shing,31.0,2.0,Ella Gagne,31.0,1.0
+tufts_1,3,True,Ethan Kim,Aashray Khanna,28.0,1.0,Karthik Tadepalli,28.0,2.0,Brendan Prestage,26.0,3.0,Victor Sun,26.0,4.0
+tufts_1,1,False,Connor Akiyama,Tvisha Malik,27.0,3.0,Vita Raskeviciute,26.0,4.0,Joanna Ding,28.0,1.0,Matt Song,28.0,2.0
+tufts_1,3,False,Jonah Goldberg,Tvisha Malik,26.0,3.0,Vita Raskeviciute,26.0,4.0,Ang Sonam Sherpa,28.0,2.0,Brendon Lee,28.0,1.0
+tufts_1,5,False,Teddy Wyman,Tvisha Malik,28.0,4.0,Vita Raskeviciute,29.0,3.0,Arun Sharma,32.0,1.0,Cameron Chacon,30.0,2.0
+tufts_1,3,True,Kyle Cook,Anish Welde,32.0,2.0,Vignesh Valliyur,32.0,1.0,Gabbi Shilcusky,30.0,3.0,Tanay Patri,30.0,4.0
+tufts_1,4,False,Matt Rohn,Anish Welde,31.0,2.0,Vignesh Valliyur,29.0,4.0,Ellie Singer,31.0,3.0,Jack Kelly,32.0,1.0
+tufts_1,1,True,Ali Slimi - Aonkon Dey - Darryl Chia,Sandy Greenberg,31.0,2.0,Sarah Ryan,32.0,1.0,Awsam Bouabid,27.0,3.0,Frank Rodriguez,26.0,4.0
+tufts_1,3,True,Matt Rohn - Onder Kilinic - Sam Russo,Sandy Greenberg,35.0,1.0,Sarah Ryan,33.0,3.0,Devesh Kodnani,32.0,4.0,Max Wu,33.0,2.0
+tufts_1,5,True,Nick DeVito,Sandy Greenberg,34.0,1.0,Sarah Ryan,31.0,3.0,Ellie Singer,32.0,2.0,Jack Kelly,30.0,4.0
+tufts_1,1,False,Katarina Lidrbauch,Audrey Shing,24.0,4.0,Ella Gagne,26.0,3.0,Arun Sharma,27.0,2.0,Cameron Chacon,28.0,1.0
+tufts_1,4,False,John Youssef,Audrey Shing,24.0,4.0,Ella Gagne,26.0,3.0,Hamza Kalim,28.0,1.0,Yun Zhang,27.0,2.0
+tufts_1,5,False,Dana Jacoby,Audrey Shing,26.0,3.0,Ella Gagne,25.0,4.0,Hazel Martello,28.0,1.0,Rohan Kapoor,27.0,2.0
+tufts_1,2,True,Justin Kahn,Dhafer Muhammad,27.0,2.0,Sajan Mehrotra,28.0,1.0,Awsam Bouabid,25.0,4.0,Frank Rodriguez,26.0,3.0
+tufts_1,4,False,Teddy Wyman,Dhafer Muhammad,29.0,3.0,Sajan Mehrotra,26.0,4.0,Devesh Kodnani,34.0,1.0,Max Wu,33.0,2.0
+tufts_1,5,True,Claire Fraise - Nicole Setow,Dhafer Muhammad,29.0,4.0,Sajan Mehrotra,30.0,1.0,Tai Henrichs,29.0,2.0,Yannick Davidson,29.0,3.0
+tufts_1,1,True,Claire Fraise,Craig Diskin,31.0,1.0,Ryan Shaffer,31.0,2.0,Aashray Khanna,30.0,3.0,Karthik Tadepalli,29.0,4.0
+tufts_1,2,True,Nick DeVito,Craig Diskin,32.0,1.0,Ryan Shaffer,29.0,3.0,Maya Rubin,29.0,2.0,Zan Rozen,28.0,4.0
+tufts_1,2,False,Carlos Irrisari - Gary Guo - Jonah Goldberg,Charles Mayville,28.0,4.0,Rachel Li,30.0,3.0,Gabbi Shilcusky,30.0,1.0,Tanay Patri,30.0,2.0
+tufts_1,5,False,Aonkon Dey - John Youssef - Mackenzie Tatananni,Charles Mayville,27.0,4.0,Rachel Li,29.0,2.0,Andrew Avalos,30.0,1.0,Joe Cox,28.0,3.0
+tufts_1,1,False,Gary Guo - Jackson Segal - Sam Russo,Hazel Martello,27.0,4.0,Rohan Kapoor,28.0,3.0,Ellie Singer,32.0,1.0,Jack Kelly,30.0,2.0
+tufts_1,3,False,Olivia Vladyka,Hazel Martello,26.0,2.0,Rohan Kapoor,25.0,4.0,Hannah Platter,27.0,1.0,Michael Froid,25.0,3.0
+tufts_1,2,True,Chris Morillo - Onder Kilinic,Drew Harrington,30.0,1.0,Joshua Neudorf,29.0,2.0,Christina Wang,26.0,4.0,Daniel Leizerman,27.0,3.0
+tufts_1,4,True,Katrina Hotaling - William Ott,Drew Harrington,31.0,1.0,Joshua Neudorf,29.0,4.0,Arun Sharma,30.0,2.0,Cameron Chacon,29.0,3.0
+tufts_1,5,True,Darryl Chia,Drew Harrington,33.0,1.0,Joshua Neudorf,29.0,4.0,Ann Garth,30.0,3.0,Elaine He,31.0,2.0
+tufts_1,1,False,Chris Morillo - Jackson Lubke - Jenna Kaplan,Alex Shura,28.0,3.0,Ragy Amin,26.0,4.0,Anish Welde,31.0,1.0,Vignesh Valliyur,30.0,2.0
+tufts_1,3,False,Justin Kahn,Alex Shura,28.0,3.0,Ragy Amin,23.0,4.0,Dennis Su,30.0,1.0,Ellis London,29.0,2.0
+tufts_1,4,True,Jesse Victoroff,Alex Shura,28.0,1.0,Ragy Amin,27.0,2.0,CeCe Szkutak,25.0,4.0,Laurenn Vives,27.0,3.0
+tufts_1,1,True,Dana Jacoby,Maya Rubin,27.0,2.0,Zan Rozen,28.0,1.0,Charles Mayville,24.0,3.0,Rachel Li,23.0,4.0
+tufts_1,3,True,Connor Akiyama,Maya Rubin,32.0,1.0,Zan Rozen,31.0,2.0,Andrew Avalos,30.0,3.0,Joe Cox,29.0,4.0
+tufts_1,5,False,Jesse Victoroff,Maya Rubin,32.0,2.0,Zan Rozen,28.0,4.0,Romina Lilollari,30.0,3.0,Ye Joo Han,33.0,1.0
+tufts_1,2,False,Claire Fraise,Brendan Prestage,24.0,4.0,Victor Sun,25.0,3.0,Tvisha Malik,27.0,1.0,Vita Raskeviciute,26.0,2.0
+tufts_1,4,False,Justin Kahn,Brendan Prestage,24.0,3.0,Victor Sun,23.0,4.0,Charles Mayville,27.0,1.0,Rachel Li,26.0,2.0
+tufts_1,2,True,John Lowe,Amisha Kapur,27.0,1.0,Shreyam Misra,25.0,4.0,Hector Hernandez,25.0,3.0,Lawrence Wu,26.0,2.0
+tufts_1,4,False,Kyle Cook,Amisha Kapur,27.0,3.0,Shreyam Misra,25.0,4.0,Craig Diskin,32.0,1.0,Ryan Shaffer,31.0,2.0
+tufts_1,5,False,Chris Gooding - Katrina Hotaling - Nicole Peter,Amisha Kapur,28.0,3.0,Shreyam Misra,27.0,4.0,Hannah Platter,31.0,1.0,Michael Froid,30.0,2.0
+tufts_1,1,False,Isabel Chirls - Matt Rohn - Olivia Vladyka,Tai Henrichs,24.0,3.0,Yannick Davidson,24.0,4.0,Drew Harrington,29.0,2.0,Joshua Neudorf,29.0,1.0
+tufts_1,4,True,John Lowe,Tai Henrichs,30.0,1.0,Yannick Davidson,29.0,3.0,Aashray Khanna,29.0,4.0,Karthik Tadepalli,30.0,2.0
+tufts_1,2,False,Chris Gooding - Jackson Lubke - Jesse Victoroff,Arun Sharma,31.0,2.0,Cameron Chacon,31.0,3.0,Sandy Greenberg,32.0,1.0,Sarah Ryan,30.0,4.0
+tufts_1,3,True,Nick DeVito,Arun Sharma,30.0,1.0,Cameron Chacon,28.0,2.0,Amisha Kapur,25.0,3.0,Shreyam Misra,24.0,4.0
+tufts_1,2,False,Ali Slimi - Jackson Segal - Mackenzie Tatananni,Joanna Ding,29.0,3.0,Matt Song,29.0,4.0,Anish Welde,31.0,2.0,Vignesh Valliyur,32.0,1.0
+tufts_1,4,False,Ethan Kim,Joanna Ding,26.0,3.0,Matt Song,26.0,4.0,Maya Rubin,27.0,2.0,Zan Rozen,28.0,1.0
+tufts_1,5,True,John Lowe,Joanna Ding,30.0,2.0,Matt Song,31.0,1.0,Awsam Bouabid,28.0,3.0,Frank Rodriguez,27.0,4.0
+tufts_1,1,False,John Lowe,Alexander Gordon,29.0,4.0,Ben Park,30.0,2.0,Dylan Gyauch- Lewis,29.0,3.0,Samuel Melcher,30.0,1.0
+tufts_1,3,True,Darryl Chia - William Ott,Alexander Gordon,30.0,1.0,Ben Park,29.0,2.0,Tai Henrichs,27.0,4.0,Yannick Davidson,28.0,3.0
+tufts_1,2,True,Teddy Wyman,Ellie Singer,33.0,2.0,Jack Kelly,34.0,1.0,Dennis Su,29.0,3.0,Ellis London,27.0,4.0
+tufts_1,3,True,Ali Slimi - Chris Gooding - Rachel Gifeisman,Ellie Singer,29.0,1.0,Jack Kelly,28.0,2.0,Drew Harrington,27.0,4.0,Joshua Neudorf,27.0,3.0

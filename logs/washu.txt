@@ -1,0 +1,32 @@
+Unexpected shape: (3, 10)
+Unexpected shape: (5, 8)
+Unexpected shape: (5, 8)
+Unexpected shape: (3, 8)
+Unexpected shape: (5, 8)
+Unexpected shape: (3, 8)
+********************************************************************************
+Tournament: washu
+********************************************************************************
+--------------------------------------------------------------------------------
+A team appeared on opp that didnt appear on gov - this usually indicates unicode
+fuckery. manually exclude this team by setting --ignore [DEBATER ON THE TEAM].
+After rerunning with that setting, you can safely ignore this warning. It will 
+keep coming after all teams are excluded - sorry!
+--------------------------------------------------------------------------------
+The following teams were parsed abnormally and may have come out funky:
+
+--------------------------------------------------------------------------------
+The following teams failed and need to be added manually:
+Unknown card of shape (3, 10)
+Unknown card of shape (5, 8)
+Unknown card of shape (5, 8)
+Unknown card of shape (3, 8)
+Unknown card of shape (5, 8)
+Unknown card of shape (3, 8)
+('JakeRamer', '1')
+('JoelNelsonn', '5')
+('LawrAnceFung-RalitsaKostadinova-TianGeng', '1')
+('Alexraimmo-KenichiMatsuo', '5')
+('JoelNelsonn', '4')
+('AlexRaimo-KenichiMatsuo-NathanielDeMoura', '1')
+--------------------------------------------------------------------------------

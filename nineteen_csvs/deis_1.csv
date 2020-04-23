@@ -1,0 +1,50 @@
+deis_1,3,True,Nastassia Velazquez - Mars He,Ann Garth,33.0,1.0,Jack Gramlich,31.0,4.0,Xavier Sottile,31.0,3.0,William Arnesen,33.0,2.0
+deis_1,5,True,Sara Hogenboom - Drew Latimer,Ann Garth,31.0,2.0,Jack Gramlich,31.0,1.0,Arun Sharma,29.0,4.0,Ellie Singer,30.0,3.0
+deis_1,1,True,Jasper Primack - Noah DiAntonio,Elaine He,30.0,2.0,Jack Glaser,31.0,1.0,Roy Lee,29.0,3.0,Craig Diskin,29.0,4.0
+deis_1,2,True,Sam Schwartz,Elaine He,33.0,2.0,Jack Glaser,33.0,1.0,Romina Lillolari,30.0,4.0,Paloma O'Connor,31.0,3.0
+deis_1,5,False,Nastassia Velazquez - Tim Luciano,Elaine He,32.0,4.0,Jack Glaser,32.0,3.0,Tejal Patwardhan,33.0,2.0,Sophia Caldera,34.0,1.0
+deis_1,1,False,Sam Schwartz - Kelsey Dunn,Michael Froid,28.0,3.0,Jordan Kei- Rahm,27.0,4.0,Michael Mao,32.0,1.0,Samantha Wood,28.0,2.0
+deis_1,2,True,Jasper Primack,Michael Froid,28.0,2.0,Jordan Kei- Rahm,31.0,1.0,Noam Shurin,28.0,3.0,Wanchen Zhao,28.0,4.0
+deis_1,4,False,Nastassia Velazquez,Michael Froid,24.0,4.0,Jordan Kei- Rahm,25.0,3.0,Shira Rosenberg,29.0,2.0,Ravi Simon,30.0,1.0
+deis_1,2,False,Teddy Wyman,Lorenzo Pinasco,29.0,3.0,Jordan Farenhem,28.0,4.0,Shira Rosenberg,29.0,2.0,Ravi Simon,31.0,1.0
+deis_1,3,True,Jasper Primack,Lorenzo Pinasco,32.0,1.0,Jordan Farenhem,29.0,2.0,Arman Entezar,27.0,3.0,Darryl Chia,27.0,4.0
+deis_1,5,True,Ricky Cambo,Lorenzo Pinasco,30.0,3.0,Jordan Farenhem,32.0,2.0,Sagie Tvizer,29.0,4.0,Rachel Gifeisman,33.0,1.0
+deis_1,1,True,Angelina Li - Nastassia Velazquez,Jack Kelly,27.0,2.0,Olivia Shoemaker,29.0,1.0,Ryan Shaffer,24.0,3.0,Rohan Mullangi,22.0,4.0
+deis_1,3,False,Sara Hogenboom - Emily Ray,Jack Kelly,31.0,3.0,Olivia Shoemaker,31.0,4.0,Tejal Patwardhan,32.0,2.0,Sophia Caldera,34.0,1.0
+deis_1,4,False,Rachel Wallen,Jack Kelly,29.0,2.0,Olivia Shoemaker,27.0,4.0,Elaine He,30.0,1.0,Jack Glaser,28.0,3.0
+deis_1,1,True,Teddy Wyman,Arun Sharma,31.0,2.0,Ellie Singer,33.0,1.0,Jackson Sheil,23.0,4.0,Roland Blanding,24.0,3.0
+deis_1,3,False,Auriel Haack - Kevin Healey,Arun Sharma,29.0,4.0,Ellie Singer,32.0,2.0,Elaine He,32.0,1.0,Jack Glaser,31.0,3.0
+deis_1,2,False,Angelina Li,Michael Mao,27.0,4.0,Samantha Wood,28.0,3.0,Ann Garth,29.0,2.0,Jack Gramlich,30.0,1.0
+deis_1,4,True,Sara Hogenboom - Ricky Cambo,Michael Mao,33.0,1.0,Samantha Wood,27.0,4.0,Romina Lillolari,27.0,3.0,Paloma O'Connor,31.0,2.0
+deis_1,3,True,Sam Schwartz,Shreeya Singh,29.0,3.0,Charlie Barton,31.0,1.0,Aditya Dhar,31.0,2.0,Yashvardhan Bardoloi,28.0,4.0
+deis_1,4,True,Teddy Wyman,Shreeya Singh,32.0,1.0,Charlie Barton,32.0,2.0,Dennis Su,26.0,3.0,Ben Feshbach,23.0,4.0
+deis_1,2,True,Anagha Lokhande - Emily Ray,Xavier Sottile,32.0,2.0,William Arnesen,34.0,1.0,Aditya Dhar,30.0,3.0,Yashvardhan Bardoloi,27.0,4.0
+deis_1,4,True,Angelina Li,Xavier Sottile,31.0,1.0,William Arnesen,30.0,2.0,Jackson Sheil,24.0,4.0,Roland Blanding,25.0,3.0
+deis_1,5,True,Jasper Primack - Noah DiAntonio,Xavier Sottile,32.0,1.0,William Arnesen,30.0,2.0,Michael Mao,30.0,4.0,Samantha Wood,30.0,3.0
+deis_1,1,True,Monica Ochoa - Kevin Healey,Tejal Patwardhan,34.0,1.0,Sophia Caldera,32.0,2.0,Shreeya Singh,30.0,3.0,Charlie Barton,29.0,4.0
+deis_1,4,True,Jasper Primack,Tejal Patwardhan,32.0,4.0,Sophia Caldera,34.0,1.0,Ann Garth,33.0,2.0,Jack Gramlich,33.0,3.0
+deis_1,4,True,Mario Fiandeiro,Aditya Dhar,30.0,1.0,Yashvardhan Bardoloi,28.0,2.0,Roy Lee,28.0,3.0,Craig Diskin,28.0,4.0
+deis_1,5,False,Angelina Li,Aditya Dhar,28.0,3.0,Yashvardhan Bardoloi,27.0,4.0,Dennis Su,30.0,1.0,Ben Feshbach,29.0,2.0
+deis_1,1,True,Sandy Greenberg - Alexis Rivett,Romina Lillolari,28.0,2.0,Paloma O'Connor,30.0,1.0,Arman Entezar,26.0,3.0,Darryl Chia,24.0,4.0
+deis_1,3,True,Tanay Patri,Romina Lillolari,33.0,2.0,Paloma O'Connor,33.0,1.0,Ian Crowell,26.0,3.0,Ziling Yang,25.0,4.0
+deis_1,5,True,Rachel Wallen,Romina Lillolari,27.0,2.0,Paloma O'Connor,29.0,1.0,Michael Froid,23.0,3.0,Jordan Kei- Rahm,23.0,4.0
+deis_1,1,True,Anagha Lokhande - Emily Ray,Ian Crowell,30.0,1.0,Ziling Yang,25.0,4.0,Lorenzo Pinasco,29.0,2.0,Jordan Farenhem,26.0,3.0
+deis_1,2,False,Mars He,Ian Crowell,30.0,4.0,Ziling Yang,30.0,3.0,Arun Sharma,31.0,1.0,Ellie Singer,31.0,2.0
+deis_1,5,False,Sandy Greenberg - Mario Fiandeiro,Ian Crowell,26.0,3.0,Ziling Yang,25.0,4.0,Shreeya Singh,28.0,2.0,Charlie Barton,28.0,1.0
+deis_1,1,True,Madeline Hudalla - Mars He,Dennis Su,32.0,3.0,Ben Feshbach,33.0,1.0,Sagie Tvizer,31.0,4.0,Rachel Gifeisman,33.0,2.0
+deis_1,2,False,Sandy Greenberg,Dennis Su,28.0,4.0,Ben Feshbach,29.0,2.0,Jack Kelly,29.0,1.0,Olivia Shoemaker,28.0,3.0
+deis_1,2,False,Tanay Patri - Nastassia Velazquez,Roy Lee,23.0,3.0,Craig Diskin,23.0,4.0,Shreeya Singh,31.0,2.0,Charlie Barton,32.0,1.0
+deis_1,3,False,Teddy Wyman,Roy Lee,19.0,4.0,Craig Diskin,21.0,3.0,Noam Shurin,28.0,1.0,Wanchen Zhao,26.0,2.0
+deis_1,1,False,Tanay Patri,Noam Shurin,31.0,2.0,Wanchen Zhao,29.0,4.0,Xavier Sottile,31.0,3.0,William Arnesen,33.0,1.0
+deis_1,4,False,Auriel Haack,Noam Shurin,27.0,3.0,Wanchen Zhao,26.0,4.0,Ian Crowell,30.0,1.0,Ziling Yang,28.0,2.0
+deis_1,5,True,Mars He,Noam Shurin,30.0,1.0,Wanchen Zhao,25.0,3.0,Ryan Shaffer,28.0,2.0,Rohan Mullangi,20.0,4.0
+deis_1,3,True,Angelina Li,Sagie Tvizer,27.0,2.0,Rachel Gifeisman,28.0,1.0,Michael Froid,23.0,4.0,Jordan Kei- Rahm,24.0,3.0
+deis_1,4,False,Tanay Patri,Sagie Tvizer,33.0,3.0,Rachel Gifeisman,33.0,2.0,Arun Sharma,32.0,4.0,Ellie Singer,34.0,1.0
+deis_1,3,False,Anagha Lokhande - Ricky Cambo,Jackson Sheil,19.0,4.0,Roland Blanding,26.0,3.0,Dennis Su,32.0,1.0,Ben Feshbach,31.0,2.0
+deis_1,5,False,Auriel Haack,Jackson Sheil,29.0,2.0,Roland Blanding,28.0,4.0,Arman Entezar,30.0,1.0,Darryl Chia,28.0,3.0
+deis_1,2,False,Anagha Lokhande,Arman Entezar,31.0,2.0,Darryl Chia,29.0,4.0,Sagie Tvizer,31.0,3.0,Rachel Gifeisman,32.0,1.0
+deis_1,1,False,Auriel Haack - Ricky Cambo,Shira Rosenberg,28.0,4.0,Ravi Simon,30.0,2.0,Aditya Dhar,30.0,1.0,Yashvardhan Bardoloi,28.0,3.0
+deis_1,3,False,Sandy Greenberg,Shira Rosenberg,27.0,4.0,Ravi Simon,30.0,3.0,Michael Mao,33.0,1.0,Samantha Wood,30.0,2.0
+deis_1,5,True,Tanay Patri,Shira Rosenberg,29.0,3.0,Ravi Simon,32.0,1.0,Jack Kelly,29.0,4.0,Olivia Shoemaker,29.0,2.0
+deis_1,2,False,Ricky Cambo,Ryan Shaffer,24.0,3.0,Rohan Mullangi,20.0,4.0,Tejal Patwardhan,28.0,2.0,Sophia Caldera,34.0,1.0
+deis_1,4,False,Sandy Greenberg,Ryan Shaffer,25.0,3.0,Rohan Mullangi,22.0,4.0,Lorenzo Pinasco,31.0,1.0,Jordan Farenhem,27.0,2.0

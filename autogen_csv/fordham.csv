@@ -1,0 +1,188 @@
+fordham,1,True,Matilda Stricherz,Jacob Boehm,32.0,2.0,Zan Rozen,33.0,1.0,Varun Venkatesh,31.0,4.0,Zoe Ewing,31.0,3.0
+fordham,3,True,Emanuel Zbeda,Jacob Boehm,28.0,1.0,Zan Rozen,28.0,2.0,Katherine Pingeton,25.0,4.0,Nicole Berglund,25.0,3.0
+fordham,2,False,Nick Bukofsky,Aislinn O'Brien,28.0,4.0,Zara Memon,29.0,3.0,Ethan Liu,30.0,2.0,Schubhankar Sachdev,31.0,1.0
+fordham,3,False,Mark Millan,Aislinn O'Brien,27.0,4.0,Zara Memon,27.0,3.0,Paul Mitalipov,30.0,2.0,Vivian Zhu,30.0,1.0
+fordham,2,True,James Edell,Jared Stone,31.0,1.0,Sergio Valente,29.0,2.0,Paul Mitalipov,28.0,4.0,Vivian Zhu,29.0,3.0
+fordham,3,True,Sebastian Lopez,Jared Stone,27.0,2.0,Sergio Valente,29.0,1.0,Evan Rosenbaum,27.0,4.0,Stephanie Purwanto,27.0,3.0
+fordham,4,False,Malik Jarvis,Jared Stone,30.0,2.0,Sergio Valente,28.0,4.0,Anish Welde,31.0,1.0,Vignesh Valliyur,28.0,3.0
+fordham,3,True,Scott Santaella,Daniel Coughlin,29.0,1.0,Zoey Morris,28.0,2.0,Anastasiia Malenko,26.0,4.0,Ari Gabriel,27.0,3.0
+fordham,4,False,Frank Tao,Daniel Coughlin,27.0,3.0,Zoey Morris,25.0,4.0,Muzammil Godil,31.0,1.0,Thomas Kim,31.0,2.0
+fordham,1,True,Jared Bernstein,Allie Wu,24.0,3.0,Mandy Chan,25.0,2.0,John Lowe,26.0,1.0,Kurtis Lee,20.0,4.0
+fordham,2,False,Monica Chin,Allie Wu,24.0,3.0,Mandy Chan,21.0,4.0,Anish Welde,34.0,1.0,Vignesh Valliyur,32.0,2.0
+fordham,2,False,Rachel Daso,Daniel Obaseki,25.0,4.0,Zachary Pinto,28.0,3.0,Quang Trinh,29.0,2.0,Rebecca Han,30.0,1.0
+fordham,3,False,Mikael Zarrett,Daniel Obaseki,26.0,3.0,Zachary Pinto,25.0,4.0,Angela Mortenson,30.0,1.0,Stephanie LaPlante,29.0,2.0
+fordham,3,False,Shannon Rodgers,John Lowe,24.0,3.0,Kurtis Lee,23.0,4.0,Ian Crowell,27.0,1.0,Mila Maglov,27.0,2.0
+fordham,4,True,Lawrence Wu,John Lowe,29.0,1.0,Kurtis Lee,28.0,2.0,Daniel Obaseki,26.0,4.0,Zachary Pinto,27.0,3.0
+fordham,2,False,Abigail Kedik,Audri Bhomick,30.0,1.0,Shiv Chawla,26.0,4.0,Jeffrey Yin,28.0,3.0,Malcolm Ferguson,29.0,2.0
+fordham,4,True,Difei Gao,Audri Bhomick,31.0,1.0,Shiv Chawla,28.0,4.0,Anna Smith,30.0,2.0,Rozey Hill,29.0,3.0
+fordham,2,True,Jared Bernstein,Ethan Shurberg,30.0,1.0,Noah Rovner- Frydman,25.0,3.0,Chase Bezonsky,29.0,2.0,Katherine Santin,24.0,4.0
+fordham,2,True,Elicia Bates,Craig Diskin,27.0,2.0,Michael Froid,28.0,1.0,Katherine Pingeton,25.0,4.0,Nicole Berglund,27.0,3.0
+fordham,3,False,Max Neuman,Craig Diskin,27.0,4.0,Michael Froid,30.0,2.0,Adi Ram,33.0,1.0,Jaewan Park,29.0,3.0
+fordham,2,False,Amina Kamagate,Elisa Nisly,26.0,4.0,Sandy Greenberg,27.0,2.0,Arya Royal,28.0,1.0,Zachary Heidel,27.0,3.0
+fordham,3,False,James Edell,Elisa Nisly,23.0,4.0,Sandy Greenberg,30.0,2.0,Jackson Utley,28.0,3.0,Rajul Bothra,32.0,1.0
+fordham,2,False,Mikael Zarrett,Ian Crowell,25.0,4.0,Mila Maglov,27.0,3.0,Aishwarya Rajapur,31.0,2.0,Kelly Mu,32.0,1.0
+fordham,4,False,Daniel Kang,Ian Crowell,26.0,3.0,Mila Maglov,25.0,4.0,Justin Qi,31.0,1.0,Maya Razmi,30.0,2.0
+fordham,2,False,Jacob Atkins,CeCe Szkutak,32.0,3.0,Karan Kaushal,32.0,4.0,Teddy Wyman,32.0,2.0,Ye Joo Han,34.0,1.0
+fordham,3,True,Aba Tieku,CeCe Szkutak,30.0,1.0,Karan Kaushal,28.0,4.0,Jaedon Abbott,29.0,2.0,Kathy Liu,28.0,3.0
+fordham,1,False,Chloe Hoff,Ben Kessler,28.0,3.0,Zachary Ginsberg,28.0,4.0,Vikram Balasubramanian,29.0,2.0,Xiao-ke Lu,30.0,1.0
+fordham,1,True,Linh Le,Nicholas DeVito,28.0,1.0,Nicole Kagan,26.0,2.0,Gemyla Huang,25.0,4.0,Justina Xu,25.0,3.0
+fordham,3,True,Alex Purn,Nicholas DeVito,33.0,1.0,Nicole Kagan,33.0,2.0,Ben Anderson,31.0,3.0,Surya Hendry,31.0,4.0
+fordham,2,False,Shannon Rodgers,Christian Sekosan,20.0,4.0,Mohammed Sarker,23.0,3.0,Cindy Wang,27.0,2.0,Sarem Haq,28.0,1.0
+fordham,3,False,Lawrence Wu,Christian Sekosan,26.0,4.0,Mohammed Sarker,27.0,3.0,Kareem Ibrahim,29.0,1.0,Wasi Ahmed,28.0,2.0
+fordham,1,True,Lizzie Hartnett,Hart Rapaport,32.0,1.0,Matthew Simons,31.0,2.0,Grace Luckett,31.0,3.0,Patrick Han,29.0,4.0
+fordham,3,False,Matilda Stricherz,Hart Rapaport,32.0,4.0,Matthew Simons,32.0,3.0,Jane Mentzinger,33.0,2.0,Terrell Seabrooks,33.0,1.0
+fordham,4,True,Jonah Goldman,Hart Rapaport,31.0,2.0,Matthew Simons,32.0,1.0,Ansh Thanki,23.0,4.0,Emily Marzigliano,24.0,3.0
+fordham,3,False,Dominic DeRamo,Devyani Goel,29.0,3.0,Robert Vogel,28.0,4.0,Auriel Haack,30.0,2.0,Monica Ochoa,31.0,1.0
+fordham,4,False,Kiara Chen,Devyani Goel,0.0,1.0,Robert Vogel,0.0,2.0,Katherine Pingeton,0.0,3.0,Nicole Berglund,0.0,4.0
+fordham,2,False,Andrew Souther,Emily Ringel,28.0,3.0,Miranda Li,27.0,4.0,Ann Garth,32.0,2.0,Elaine He,33.0,1.0
+fordham,4,False,Aba Tieku,Emily Ringel,30.0,2.0,Miranda Li,28.0,4.0,Aislinn O'Brien,31.0,1.0,Zara Memon,29.0,3.0
+fordham,1,True,Dominic DeRamo,Bekah Agwunobi,30.0,1.0,Layne Donovan,29.0,2.0,Ben Anderson,27.0,4.0,Surya Hendry,28.0,3.0
+fordham,2,False,Frank Tao,Bekah Agwunobi,29.0,3.0,Layne Donovan,26.0,4.0,Karthik Tadepalli,31.0,1.0,Tvisha Malik,31.0,2.0
+fordham,2,False,Lizzie Hartnett,Kareem Ibrahim,31.0,4.0,Wasi Ahmed,32.0,2.0,Brandon Ma,31.0,3.0,Zoha Syed,33.0,1.0
+fordham,1,False,Madeline Cheshire,Griffin Badalamente,31.0,2.0,Maddie Min,29.0,4.0,Craig Diskin,32.0,1.0,Michael Froid,31.0,3.0
+fordham,4,False,Nick Bukofsky,Griffin Badalamente,32.0,3.0,Maddie Min,31.0,4.0,Maya Rubin,34.0,1.0,Ryan Schaffer,32.0,2.0
+fordham,1,False,Andrew Souther,David Javadian,24.0,2.0,Jason Alder,24.0,4.0,Elisa Nisly,24.0,3.0,Sandy Greenberg,30.0,1.0
+fordham,2,False,Rachel Hinton,David Javadian,23.0,3.0,Jason Alder,23.0,4.0,Auriel Haack,25.0,1.0,Monica Ochoa,24.0,2.0
+fordham,3,False,Lucy Augustine,David Javadian,25.0,3.0,Jason Alder,24.0,4.0,Muzammil Godil,29.0,1.0,Thomas Kim,28.0,2.0
+fordham,2,True,Caroline Albacete,Mia Stone- Molloy,31.0,1.0,Rocket Drew,30.0,2.0,Nikita Borisonnik,30.0,3.0,Sam Hall,29.0,4.0
+fordham,3,False,Sohail Mohammed,Mia Stone- Molloy,27.0,4.0,Rocket Drew,28.0,3.0,Griffin Badalamente,30.0,1.0,Maddie Min,29.0,2.0
+fordham,1,True,Pearse Walsh,Ellis London,27.0,3.0,Tanay Patri,29.0,1.0,Ethan Shurberg,28.0,2.0,Noah Rovner- Frydman,24.0,4.0
+fordham,2,True,Rory Mahon,Ellis London,32.0,4.0,Tanay Patri,33.0,1.0,Tiffany Yuan,33.0,2.0,Wingel Xue,32.0,3.0
+fordham,4,False,Justin Roach,Ellis London,28.0,4.0,Tanay Patri,29.0,3.0,Ben Koch,30.0,1.0,Jay Gibbs,30.0,2.0
+fordham,1,False,James Edell,Cayleigh Soderholm,27.0,4.0,Lucia Yang,29.0,2.0,Elizabeth Chen,27.0,3.0,Shlomo Grun,31.0,1.0
+fordham,2,True,Lawrence Wu,Cayleigh Soderholm,28.0,2.0,Lucia Yang,29.0,1.0,Anna Smith,27.0,3.0,Rozey Hill,25.0,4.0
+fordham,3,False,Nick Bukofsky,Cindy Wang,30.0,3.0,Sarem Haq,29.0,4.0,Ben Kessler,31.0,1.0,Zachary Ginsberg,31.0,2.0
+fordham,4,True,Scott Santaella,Cindy Wang,29.0,1.0,Sarem Haq,28.0,2.0,Hannah Platter,26.0,4.0,Joe Cox,27.0,3.0
+fordham,2,True,Daniel Kang,Grace Luckett,30.0,2.0,Patrick Han,31.0,1.0,John Lowe,28.0,4.0,Kurtis Lee,29.0,3.0
+fordham,4,True,Emanuel Zbeda,Grace Luckett,28.0,1.0,Patrick Han,27.0,2.0,Allie Wu,25.0,3.0,Mandy Chan,25.0,4.0
+fordham,1,True,Pasha Temkin,Ann Garth,31.0,2.0,Elaine He,31.0,1.0,Ian Crowell,28.0,3.0,Mila Maglov,24.0,4.0
+fordham,2,True,Edie Weinhardt,Evan Rosenbaum,32.0,1.0,Stephanie Purwanto,29.0,3.0,Justin Qi,31.0,2.0,Maya Razmi,29.0,4.0
+fordham,4,True,Grace Proasiewicz,Evan Rosenbaum,29.0,1.0,Stephanie Purwanto,26.0,4.0,Benjamin Mione,28.0,2.0,Ron Mucci,27.0,3.0
+fordham,1,False,Rachel Hinton,Claire Raulston,26.0,4.0,Lydia Kim,26.0,3.0,Aditya Pandey,27.0,2.0,Andrew Choi,28.0,1.0
+fordham,2,True,Linh Le,Claire Raulston,28.0,1.0,Lydia Kim,27.0,2.0,Angela Mortenson,25.0,3.0,Stephanie LaPlante,25.0,4.0
+fordham,1,True,Amin Al- Kady,Nate Sumimoto,30.0,2.0,Parker Kelly,30.0,1.0,Anna Izyumova,29.0,4.0,Jemima Williams,29.0,3.0
+fordham,3,True,Ali Ryan,Nate Sumimoto,31.0,2.0,Parker Kelly,32.0,1.0,Allie Wu,27.0,3.0,Mandy Chan,25.0,4.0
+fordham,1,True,Abigail Kedik,Emmanuel Yamba,29.0,2.0,Shelby Amato,30.0,1.0,Aba Tieku,27.0,4.0,Lucy Augustine,28.0,3.0
+fordham,1,False,Mikael Zarrett,Fletcher Calcagno,30.0,2.0,Robin Gloss,26.0,4.0,Ethan Liu,31.0,1.0,Schubhankar Sachdev,28.0,3.0
+fordham,4,True,Lucy Augustine,Fletcher Calcagno,31.0,2.0,Robin Gloss,32.0,1.0,Jacob Boehm,31.0,4.0,Zan Rozen,31.0,3.0
+fordham,1,True,Max Neuman,Justin Qi,29.0,1.0,Maya Razmi,26.0,3.0,Alexander Chang,27.0,2.0,Joseph Brennan,25.0,4.0
+fordham,3,False,Amy Rose,Justin Qi,29.0,3.0,Maya Razmi,28.0,4.0,Cayleigh Soderholm,30.0,1.0,Lucia Yang,29.0,2.0
+fordham,1,True,Zach Lemonides,Austin Goldsmith- Lachut,31.0,3.0,Romina Lilollari,34.0,1.0,Devyani Goel,32.0,2.0,Robert Vogel,31.0,4.0
+fordham,1,False,Sania Irfan,Muzammil Godil,29.0,3.0,Thomas Kim,28.0,4.0,Jackson Segal,32.0,1.0,Kavya Gopinath,31.0,2.0
+fordham,2,False,Dominic Mazza,Muzammil Godil,32.0,2.0,Thomas Kim,31.0,3.0,Isabella Franklin,30.0,4.0,Max Kornfeld,34.0,1.0
+fordham,3,True,Jonah Goldman,Alexander Chang,31.0,1.0,Joseph Brennan,30.0,3.0,Grace Luckett,30.0,4.0,Patrick Han,30.0,2.0
+fordham,4,True,Keren Benzion,Alexander Chang,28.0,1.0,Joseph Brennan,26.0,2.0,Vikram Balasubramanian,25.0,4.0,Xiao-ke Lu,26.0,3.0
+fordham,1,True,Monica Chin,Tiffany Yuan,31.0,1.0,Wingel Xue,30.0,2.0,Sasha Chuprakova,26.0,3.0,Zack Malek,22.0,4.0
+fordham,4,True,Claire McMahon Fishman,Tiffany Yuan,31.0,2.0,Wingel Xue,32.0,1.0,Emmanuel Yamba,27.0,4.0,Shelby Amato,29.0,3.0
+fordham,2,False,Kathryn Evans,Harshit Bhasin,28.0,2.0,Judah Levy,26.0,4.0,Devyani Goel,30.0,1.0,Robert Vogel,27.0,3.0
+fordham,4,True,James Edell,Harshit Bhasin,31.0,3.0,Judah Levy,33.0,1.0,Kareem Ibrahim,30.0,4.0,Wasi Ahmed,32.0,2.0
+fordham,1,True,Sohail Mohammed,Katherine Pingeton,27.0,4.0,Nicole Berglund,27.0,1.0,Cindy Wang,27.0,3.0,Sarem Haq,27.0,2.0
+fordham,2,True,Alex Purn,Isaiah Paik,30.0,1.0,Nicole Peter,28.0,4.0,Anastasiia Malenko,29.0,2.0,Ari Gabriel,28.0,3.0
+fordham,4,True,Katherine Santin,Isaiah Paik,32.0,1.0,Nicole Peter,30.0,3.0,Quang Trinh,29.0,4.0,Rebecca Han,31.0,2.0
+fordham,3,False,Chloe Hoff,Aishwarya Rajapur,27.0,3.0,Kelly Mu,26.0,4.0,Brandon Ma,29.0,1.0,Zoha Syed,28.0,2.0
+fordham,4,True,Matilda Stricherz,Aishwarya Rajapur,25.0,2.0,Kelly Mu,26.0,1.0,Elisa Nisly,23.0,4.0,Sandy Greenberg,24.0,3.0
+fordham,2,True,Amin Al-Kady,Gabbi Shilcusky,32.0,1.0,Katrina Hotaling,32.0,2.0,Jacob Boehm,29.0,3.0,Zan Rozen,29.0,4.0
+fordham,4,False,Sandor Lorange,Gabbi Shilcusky,29.0,4.0,Katrina Hotaling,31.0,3.0,Ben Kessler,33.0,1.0,Zachary Ginsberg,31.0,2.0
+fordham,1,True,Jonah Goldman,Devesh Kodnani,34.0,2.0,Max Wu,34.0,1.0,Kuangye Wang,32.0,3.0,Paola Apolinario,32.0,4.0
+fordham,3,True,Keren Benzion,Devesh Kodnani,32.0,1.0,Max Wu,31.0,2.0,Adam Harrington,28.0,4.0,Dhruva Someshwar,29.0,3.0
+fordham,1,False,Justin Roach,Ali Ahmed,24.0,4.0,Julian Galaz,26.0,3.0,Teddy Wyman,31.0,2.0,Ye Joo Han,32.0,1.0
+fordham,2,False,Amy Rose,Kiara Chen,25.0,4.0,Sebastian Lopez,25.0,3.0,Alexander Chang,28.0,1.0,Joseph Brennan,26.0,2.0
+fordham,1,False,Kathryn Evans,Isabella Franklin,24.0,4.0,Max Kornfeld,25.0,3.0,Isabella Tomovski,26.0,2.0,Kyle Cook,27.0,1.0
+fordham,4,False,Sohail Mohammed,Isabella Franklin,26.0,4.0,Max Kornfeld,27.0,3.0,Joshua Neudorf,29.0,1.0,Timothy Ritter,28.0,2.0
+fordham,2,False,Madeline Cheshire,Gemyla Huang,27.0,4.0,Justina Xu,28.0,3.0,Fletcher Calcagno,31.0,1.0,Robin Gloss,30.0,2.0
+fordham,4,False,Chase Bezonsky,Gemyla Huang,25.0,4.0,Justina Xu,27.0,3.0,Christian Sekosan,28.0,2.0,Mohammed Sarker,30.0,1.0
+fordham,2,True,Matilda Stricherz,Jaedon Abbott,31.0,1.0,Kathy Liu,24.0,4.0,Sasha Chuprakova,26.0,3.0,Zack Malek,27.0,2.0
+fordham,4,False,Sam Wong,Jaedon Abbott,25.0,4.0,Kathy Liu,26.0,3.0,Adrian Brown,26.0,2.0,Tori Borlase,30.0,1.0
+fordham,2,False,Grace Proasiewicz,Aditya Pandey,26.0,4.0,Andrew Choi,27.0,3.0,Ben Koch,33.0,1.0,Jay Gibbs,32.0,2.0
+fordham,3,True,Frank Tao,Aditya Pandey,31.0,1.0,Andrew Choi,31.0,2.0,Kuangye Wang,29.0,3.0,Paola Apolinario,27.0,4.0
+fordham,4,False,Andrew Souther,Aditya Pandey,29.0,4.0,Andrew Choi,30.0,3.0,Nicholas DeVito,31.0,2.0,Nicole Kagan,33.0,1.0
+fordham,2,True,Sania Irfan,Varun Venkatesh,32.0,1.0,Zoe Ewing,31.0,2.0,Courtney Tannler,15.0,4.0,Gabrielle Anastasio,16.0,3.0
+fordham,1,False,Lawrence Wu,Adrian Brown,25.0,4.0,Tori Borlase,26.0,3.0,Benjamin Mione,28.0,1.0,Ron Mucci,26.0,2.0
+fordham,3,False,Adam Ramzi,Adrian Brown,27.0,4.0,Tori Borlase,28.0,3.0,Varun Venkatesh,28.0,2.0,Zoe Ewing,29.0,1.0
+fordham,1,True,Sam Wong,Katie Farrell,27.0,1.0,Shreyoshi Das,26.0,2.0,Isaiah Paik,26.0,3.0,Nicole Peter,24.0,4.0
+fordham,2,True,Justin Roach,Katie Farrell,31.0,1.0,Shreyoshi Das,30.0,2.0,Hart Rapaport,27.0,4.0,Matthew Simons,28.0,3.0
+fordham,4,True,Dominic DeRamo,Katie Farrell,28.0,2.0,Shreyoshi Das,29.0,1.0,Craig Diskin,24.0,3.0,Michael Froid,23.0,4.0
+fordham,1,True,Rodda John,Anish Welde,33.0,1.0,Vignesh Valliyur,32.0,2.0,Aishwarya Rajapur,26.0,4.0,Kelly Mu,28.0,3.0
+fordham,3,True,Justin Roach,Anish Welde,32.0,2.0,Vignesh Valliyur,33.0,1.0,Isabella Tomovski,28.0,3.0,Kyle Cook,28.0,4.0
+fordham,1,True,Sandor Lorange,Karthik Tadepalli,27.0,2.0,Tvisha Malik,31.0,1.0,Daniel Coughlin,26.0,3.0,Zoey Morris,21.0,4.0
+fordham,3,True,Rory Mahon,Karthik Tadepalli,30.0,2.0,Tvisha Malik,31.0,1.0,An Lanh Le,29.0,4.0,Greg Weaving,30.0,3.0
+fordham,1,False,Grace Proasiewicz,Quang Trinh,28.0,3.0,Rebecca Han,27.0,4.0,Jared Stone,29.0,2.0,Sergio Valente,31.0,1.0
+fordham,3,False,Madeline Cheshire,Quang Trinh,27.0,4.0,Rebecca Han,29.0,2.0,Bekah Agwunobi,28.0,3.0,Layne Donovan,29.0,1.0
+fordham,2,True,Sam Wong,Anna Izyumova,26.0,2.0,Jemima Williams,27.0,1.0,Daniel Coughlin,25.0,3.0,Zoey Morris,23.0,4.0
+fordham,4,False,Alex Purn,Anna Izyumova,28.0,4.0,Jemima Williams,29.0,3.0,Mia Stone- Molloy,31.0,1.0,Rocket Drew,29.0,2.0
+fordham,2,True,Jonah Goldman,An Lanh Le,32.0,1.0,Greg Weaving,31.0,4.0,Andy Lee,31.0,3.0,Dhafer Muhammed,31.0,2.0
+fordham,4,True,Edie Weinhardt,An Lanh Le,30.0,1.0,Greg Weaving,29.0,2.0,Bekah Agwunobi,27.0,3.0,Layne Donovan,27.0,4.0
+fordham,2,False,Zach Lemonides,Jane Mentzinger,29.0,4.0,Terrell Seabrooks,29.0,3.0,Arun Sharma,31.0,1.0,Ellie Singer,30.0,2.0
+fordham,4,False,Adam Ramzi,Jane Mentzinger,27.0,4.0,Terrell Seabrooks,29.0,2.0,Jackson Segal,30.0,1.0,Kavya Gopinath,29.0,3.0
+fordham,2,True,Meghan Kelly,Vikram Balasubramanian,31.0,3.0,Xiao-ke Lu,32.0,1.0,Maya Rubin,31.0,2.0,Ryan Schaffer,29.0,4.0
+fordham,3,False,Lydia Kim,Vikram Balasubramanian,33.0,4.0,Xiao-ke Lu,33.0,3.0,Ellis London,34.0,2.0,Tanay Patri,34.0,1.0
+fordham,1,True,Meghan Kelly,Aditya Jayakrishnan,29.0,1.0,Dennis Su,28.0,2.0,Kiara Chen,27.0,3.0,Sebastian Lopez,26.0,4.0
+fordham,2,False,Dominic DeRamo,Aditya Jayakrishnan,33.0,3.0,Dennis Su,32.0,4.0,Nate Sumimoto,34.0,2.0,Parker Kelly,35.0,1.0
+fordham,1,True,Nick Bukofsky,Jackson Utley,30.0,2.0,Rajul Bothra,32.0,1.0,Kareem Ibrahim,28.0,4.0,Wasi Ahmed,29.0,3.0
+fordham,2,False,Max Neuman,Jackson Utley,31.0,2.0,Rajul Bothra,27.0,4.0,Adam Harrington,32.0,1.0,Dhruva Someshwar,27.0,3.0
+fordham,4,True,Alfonso Tan,Jackson Utley,29.0,1.0,Rajul Bothra,29.0,2.0,Andy Lee,27.0,4.0,Dhafer Muhammed,27.0,3.0
+fordham,2,True,Sandor Lorange,Benjamin Mione,29.0,3.0,Ron Mucci,31.0,1.0,Drew Harrington,28.0,4.0,Rachel Blume,30.0,2.0
+fordham,3,False,David Wang,Benjamin Mione,30.0,3.0,Ron Mucci,29.0,4.0,Ann Garth,34.0,1.0,Elaine He,34.0,2.0
+fordham,3,True,Difei Gao,Sasha Chuprakova,27.0,2.0,Zack Malek,28.0,1.0,Gemyla Huang,24.0,4.0,Justina Xu,24.0,3.0
+fordham,4,True,Chloe Hoff,Sasha Chuprakova,30.0,1.0,Zack Malek,29.0,2.0,Ben Anderson,27.0,4.0,Surya Hendry,28.0,3.0
+fordham,2,True,Chloe Hoff,Kuangye Wang,28.0,1.0,Paola Apolinario,27.0,2.0,Arjun Padmajan,25.0,4.0,Joseph Mauro,26.0,3.0
+fordham,4,True,Kathryn Evans,Kuangye Wang,26.0,2.0,Paola Apolinario,27.0,1.0,Ethan Shurberg,25.0,3.0,Noah Rovner- Frydman,24.0,4.0
+fordham,1,False,Will Donnelly,Arjun Padmajan,20.0,3.0,Joseph Mauro,20.0,4.0,Drew Harrington,31.0,2.0,Rachel Blume,31.0,1.0
+fordham,3,False,Grace Proasiewicz,Arjun Padmajan,22.0,4.0,Joseph Mauro,23.0,3.0,Tiffany Yuan,31.0,2.0,Wingel Xue,32.0,1.0
+fordham,1,False,Adam Ramzi,Ansh Thanki,19.0,4.0,Emily Marzigliano,20.0,3.0,An Lanh Le,30.0,2.0,Greg Weaving,30.0,1.0
+fordham,2,False,Emanuel Zbeda,Ansh Thanki,25.0,4.0,Emily Marzigliano,25.0,3.0,Devesh Kodnani,30.0,1.0,Max Wu,30.0,2.0
+fordham,3,True,Sandor Lorange,Ansh Thanki,26.0,2.0,Emily Marzigliano,27.0,1.0,Audri Bhomick,22.0,4.0,Shiv Chawla,24.0,3.0
+fordham,3,True,Katherine Santin,Jackson Segal,30.0,1.0,Kavya Gopinath,25.0,3.0,Emily Ringel,27.0,2.0,Miranda Li,23.0,4.0
+fordham,2,False,Ali Ryan,Hannah Platter,27.0,4.0,Joe Cox,27.0,3.0,Austin Goldsmith- Lachut,30.0,1.0,Romina Lilollari,30.0,2.0
+fordham,3,False,Will Donnelly,Hannah Platter,29.0,3.0,Joe Cox,29.0,4.0,Aditya Jayakrishnan,31.0,2.0,Dennis Su,32.0,1.0
+fordham,1,False,Dylan Rice,Courtney Tannler,20.0,4.0,Gabrielle Anastasio,23.0,3.0,Jane Mentzinger,25.0,2.0,Terrell Seabrooks,27.0,1.0
+fordham,2,True,Difei Gao,Ben Anderson,29.0,1.0,Surya Hendry,29.0,2.0,Ali Ahmed,27.0,3.0,Julian Galaz,25.0,4.0
+fordham,1,False,Rachel Daso,Anastasiia Malenko,28.0,4.0,Ari Gabriel,28.0,3.0,Aislinn O'Brien,29.0,2.0,Zara Memon,30.0,1.0
+fordham,4,True,Mark Millan,Anastasiia Malenko,32.0,1.0,Ari Gabriel,32.0,2.0,Arjun Padmajan,30.0,4.0,Joseph Mauro,30.0,3.0
+fordham,1,True,Laura Price,Andy Lee,30.0,1.0,Dhafer Muhammed,27.0,2.0,Nikita Borisonnik,27.0,3.0,Sam Hall,26.0,4.0
+fordham,3,True,Kathryn Evans,Andy Lee,27.0,1.0,Dhafer Muhammed,25.0,4.0,Isaiah Paik,26.0,2.0,Nicole Peter,25.0,3.0
+fordham,1,False,Amy Rose,Brandon Ma,24.0,4.0,Zoha Syed,25.0,3.0,CeCe Szkutak,27.0,1.0,Karan Kaushal,26.0,2.0
+fordham,4,False,Max Neuman,Brandon Ma,24.0,3.0,Zoha Syed,23.0,4.0,Arya Royal,29.0,1.0,Zachary Heidel,25.0,2.0
+fordham,1,True,Caroline Albacete,Paul Mitalipov,27.0,2.0,Vivian Zhu,29.0,1.0,Chase Bezonsky,27.0,3.0,Katherine Santin,26.0,4.0
+fordham,3,False,Chase Bezonsky,Nikita Borisonnik,25.0,4.0,Sam Hall,26.0,3.0,Harshit Bhasin,27.0,2.0,Judah Levy,28.0,1.0
+fordham,4,True,Shannon Rodgers,Nikita Borisonnik,24.0,2.0,Sam Hall,26.0,1.0,David Javadian,23.0,3.0,Jason Alder,23.0,4.0
+fordham,1,False,Emanuel Zbeda,Karan Jain,24.0,3.0,Stephen Blinder,22.0,4.0,Joshua Neudorf,28.0,1.0,Timothy Ritter,27.0,2.0
+fordham,2,False,Chris Zissimatos,Karan Jain,24.0,3.0,Stephen Blinder,23.0,4.0,Griffin Badalamente,27.0,1.0,Maddie Min,27.0,2.0
+fordham,3,True,Kiara Chen,Drew Harrington,29.0,2.0,Rachel Blume,29.0,1.0,Ethan Shurberg,27.0,3.0,Noah Rovner- Frydman,23.0,4.0
+fordham,4,True,Rory Mahon,Drew Harrington,32.0,1.0,Rachel Blume,32.0,2.0,Paul Mitalipov,29.0,4.0,Vivian Zhu,30.0,3.0
+fordham,1,True,Ali Ryan,Ben Koch,30.0,2.0,Jay Gibbs,31.0,1.0,Daniel Obaseki,25.0,3.0,Zachary Pinto,25.0,4.0
+fordham,3,True,Claire McMahon Fishman,Ben Koch,32.0,2.0,Jay Gibbs,33.0,1.0,Gabbi Shilcusky,29.0,3.0,Katrina Hotaling,27.0,4.0
+fordham,1,True,Ben Feshbach,Adi Ram,32.0,1.0,Jaewan Park,30.0,2.0,Harshit Bhasin,22.0,3.0,Judah Levy,21.0,4.0
+fordham,2,True,Will Donnelly,Adi Ram,33.0,1.0,Jaewan Park,30.0,4.0,Nicholas DeVito,31.0,2.0,Nicole Kagan,31.0,3.0
+fordham,4,True,Pasha Temkin,Adi Ram,32.0,1.0,Jaewan Park,31.0,3.0,Nate Sumimoto,31.0,4.0,Parker Kelly,31.0,2.0
+fordham,2,False,Adam Ramzi,Joshua Neudorf,30.0,3.0,Timothy Ritter,27.0,4.0,Cindy Zhao,30.0,2.0,Maxwell Sheremeta,32.0,1.0
+fordham,3,False,Rachel Hinton,Joshua Neudorf,25.0,4.0,Timothy Ritter,26.0,3.0,Fletcher Calcagno,27.0,2.0,Robin Gloss,28.0,1.0
+fordham,1,True,Daniel Kang,Adam Harrington,27.0,2.0,Dhruva Someshwar,28.0,1.0,Audri Bhomick,23.0,3.0,Shiv Chawla,22.0,4.0
+fordham,4,True,Ben Feshbach,Adam Harrington,29.0,3.0,Dhruva Someshwar,31.0,1.0,Varun Venkatesh,29.0,4.0,Zoe Ewing,30.0,2.0
+fordham,3,False,Andrew Souther,Ethan Liu,31.0,3.0,Schubhankar Sachdev,29.0,4.0,Cindy Zhao,32.0,2.0,Maxwell Sheremeta,32.0,1.0
+fordham,4,False,Lydia Kim,Ethan Liu,33.0,3.0,Schubhankar Sachdev,32.0,4.0,Cayleigh Soderholm,34.0,1.0,Lucia Yang,34.0,2.0
+fordham,3,True,Daniel Kang,Jeffrey Yin,29.0,1.0,Malcolm Ferguson,28.0,2.0,Anna Izyumova,25.0,4.0,Jemima Williams,26.0,3.0
+fordham,4,True,Will Donnelly,Jeffrey Yin,30.0,1.0,Malcolm Ferguson,30.0,2.0,CeCe Szkutak,27.0,3.0,Karan Kaushal,26.0,4.0
+fordham,1,True,Alex Purn,Arya Royal,33.0,1.0,Zachary Heidel,30.0,3.0,Jeffrey Yin,31.0,2.0,Malcolm Ferguson,30.0,4.0
+fordham,3,False,Elicia Bates,Arya Royal,34.0,2.0,Zachary Heidel,32.0,4.0,Austin Goldsmith- Lachut,33.0,3.0,Romina Lilollari,34.0,1.0
+fordham,2,False,Pasha Temkin,Elizabeth Chen,23.0,2.0,Shlomo Grun,21.0,4.0,Emmanuel Yamba,23.0,3.0,Shelby Amato,27.0,1.0
+fordham,1,False,Chris Zissimatos,George Anderson,25.0,4.0,Zoe Rose,25.0,3.0,Hannah Platter,26.0,1.0,Joe Cox,26.0,2.0
+fordham,2,False,Scott Santaella,George Anderson,30.0,3.0,Zoe Rose,29.0,4.0,Ben Kessler,32.0,1.0,Zachary Ginsberg,31.0,2.0
+fordham,2,False,Sohail Mohammed,Aba Tieku,27.0,2.0,Lucy Augustine,26.0,3.0,Adrian Brown,29.0,1.0,Tori Borlase,25.0,4.0
+fordham,1,False,Frank Tao,Auriel Haack,29.0,3.0,Monica Ochoa,29.0,4.0,Evan Rosenbaum,30.0,2.0,Stephanie Purwanto,32.0,1.0
+fordham,4,True,Elicia Bates,Auriel Haack,29.0,1.0,Monica Ochoa,29.0,2.0,Aditya Jayakrishnan,28.0,4.0,Dennis Su,28.0,3.0
+fordham,1,False,Rory Mahon,Anna Smith,25.0,3.0,Rozey Hill,24.0,4.0,Gabbi Shilcusky,26.0,1.0,Katrina Hotaling,25.0,2.0
+fordham,3,False,Linh Le,Anna Smith,26.0,4.0,Rozey Hill,27.0,2.0,George Anderson,27.0,3.0,Zoe Rose,29.0,1.0
+fordham,2,True,Rodda John,Isabella Tomovski,27.0,3.0,Kyle Cook,29.0,1.0,Jackson Segal,27.0,4.0,Kavya Gopinath,28.0,2.0
+fordham,4,False,Zach Lemonides,Isabella Tomovski,31.0,3.0,Kyle Cook,31.0,4.0,Ann Garth,31.0,2.0,Elaine He,32.0,1.0
+fordham,1,True,Scott Santaella,Maya Rubin,29.0,1.0,Ryan Schaffer,28.0,2.0,Mia Stone- Molloy,27.0,3.0,Rocket Drew,26.0,4.0
+fordham,3,True,Sam Wong,Maya Rubin,28.0,3.0,Ryan Schaffer,30.0,1.0,Isabella Franklin,27.0,4.0,Max Kornfeld,29.0,2.0
+fordham,1,False,Difei Gao,Angela Mortenson,29.0,1.0,Stephanie LaPlante,25.0,4.0,Emily Ringel,28.0,2.0,Miranda Li,27.0,3.0
+fordham,4,False,Madeline Cheshire,Angela Mortenson,28.0,2.0,Stephanie LaPlante,27.0,4.0,George Anderson,29.0,1.0,Zoe Rose,28.0,3.0
+fordham,3,True,Zach Lemonides,Teddy Wyman,32.0,1.0,Ye Joo Han,31.0,2.0,Emmanuel Yamba,28.0,4.0,Shelby Amato,30.0,3.0
+fordham,4,False,Ali Ryan,Teddy Wyman,32.0,2.0,Ye Joo Han,30.0,4.0,Karthik Tadepalli,31.0,3.0,Tvisha Malik,32.0,1.0
+fordham,1,True,Jacob Atkins,Arun Sharma,33.0,1.0,Ellie Singer,32.0,2.0,Jaedon Abbott,30.0,3.0,Kathy Liu,28.0,4.0
+fordham,3,True,Edie Weinhardt,Arun Sharma,32.0,2.0,Ellie Singer,33.0,1.0,Katie Farrell,29.0,4.0,Shreyoshi Das,30.0,3.0
+fordham,4,True,Monica Chin,Arun Sharma,31.0,1.0,Ellie Singer,30.0,3.0,Devesh Kodnani,31.0,2.0,Max Wu,30.0,4.0
+fordham,1,True,Dominic Mazza,Cindy Zhao,31.0,1.0,Maxwell Sheremeta,30.0,2.0,Christian Sekosan,23.0,4.0,Mohammed Sarker,29.0,3.0
+fordham,4,False,David Wang,Cindy Zhao,34.0,4.0,Maxwell Sheremeta,34.0,3.0,Austin Goldsmith- Lachut,34.0,1.0,Romina Lilollari,34.0,2.0

@@ -1,0 +1,21 @@
+********************************************************************************
+Tournament: gw_1
+********************************************************************************
+--------------------------------------------------------------------------------
+The following teams were parsed abnormally and may have come out funky:
+GU Really Cool (8, 9)
+AU Kamala Harris FirstOnPage 
+AU MA FirstOnPage 
+GU LY FirstOnPage 
+Hopkins WX SecondOnPage 
+GU GR FirstOnPage 
+Chicago Don't Run That Adi FirstOnPage 
+W&M/CUNY R/T SecondOnPage 
+UChicago/W&M The Diversitea is FirstOnPage 
+CMU CS SecondOnPage 
+UVA/W&M Berrily Active (8, 9)
+UMD David & Dennis FirstOnPage (8, 9)
+UVA Octahate SecondOnPage 
+UMDokay! FirstOnPage 
+NOT IN USE 3 SecondOnPage 
+--------------------------------------------------------------------------------

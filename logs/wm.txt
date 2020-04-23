@@ -1,0 +1,20 @@
+Unexpected shape: (6, 8)
+Unexpected shape: (1, 4)
+********************************************************************************
+Tournament: wm
+********************************************************************************
+--------------------------------------------------------------------------------
+A team appeared on opp that didnt appear on gov - this usually indicates unicode
+fuckery. manually exclude this team by setting --ignore [DEBATER ON THE TEAM].
+After rerunning with that setting, you can safely ignore this warning. It will 
+keep coming after all teams are excluded - sorry!
+--------------------------------------------------------------------------------
+The following teams were parsed abnormally and may have come out funky:
+
+--------------------------------------------------------------------------------
+The following teams failed and need to be added manually:
+Unknown card of shape (6, 8)
+Unknown card of shape (1, 4)
+('LucyAugustine', '3')
+('SamBurridge-SaniaShahid-StephaniePurwanto', '4')
+--------------------------------------------------------------------------------
